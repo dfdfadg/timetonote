@@ -74,6 +74,8 @@ Web browsers are one of the biggest memory users on most laptops. Every tab uses
 - Turn on your browser's memory saver feature. Chrome and Edge both have one in their settings.
 - Remove browser **extensions** you do not use. Each one uses memory too.
 
+If your browser is the main thing that feels slow, our guide on [making Chrome faster](/why-is-google-chrome-so-slow) goes step by step.
+
 ### 3. Too many apps start up on their own
 
 Many programs set themselves to open every time you turn on your laptop. This makes startup slow and uses memory all day.

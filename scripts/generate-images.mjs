@@ -215,6 +215,47 @@ const illustrations = {
     <rect x="930" y="340" width="80" height="140" rx="16" fill="${c.mid}"/>
     <path d="M1100 380 C1180 380 1180 560 1100 560"/>
   `),
+  "why-is-google-chrome-so-slow": frame("violet", (c) => `
+    <rect x="420" y="200" width="760" height="500" rx="28"/>
+    <path d="M420 290 H1180"/>
+    <rect x="450" y="225" width="120" height="44" rx="10" fill="${c.mid}"/>
+    <rect x="590" y="225" width="120" height="44" rx="10" fill="${c.mid}"/>
+    <rect x="730" y="225" width="120" height="44" rx="10" fill="${c.mid}"/>
+    <rect x="870" y="225" width="120" height="44" rx="10" fill="${c.mid}"/>
+    <path d="M800 420 A70 70 0 1 1 730 490" stroke-width="16"/>
+  `),
+  "why-does-my-bluetooth-keep-disconnecting": frame("blue", (c) => `
+    <rect x="440" y="220" width="240" height="440" rx="40"/>
+    <path d="M530 260 H590"/>
+    <path d="M1000 380 C1000 280 1200 280 1200 380 V480"/>
+    <rect x="970" y="450" width="70" height="120" rx="24" fill="${c.mid}"/>
+    <rect x="1160" y="450" width="70" height="120" rx="24" fill="${c.mid}"/>
+    <path d="M740 400 L790 440 M830 470 L880 510 M740 520 L790 480 M830 450 L880 410" stroke-width="10" opacity="0.7"/>
+  `),
+  "fridge-not-cooling-but-freezer-is": frame("blue", (c) => `
+    <rect x="560" y="140" width="360" height="640" rx="28"/>
+    <path d="M560 360 H920"/>
+    <path d="M880 230 V300 M880 420 V520" stroke-width="12"/>
+    <rect x="570" y="150" width="340" height="200" rx="20" fill="${c.mid}" stroke="none"/>
+    <path d="M700 230 L760 290 M760 230 L700 290 M730 220 V300 M690 260 H770" stroke-width="8"/>
+    <path d="M1080 360 C1050 320 1110 290 1080 250 M1150 380 C1120 340 1180 310 1150 270" stroke-width="10" opacity="0.7"/>
+  `),
+  "why-is-my-dishwasher-not-draining": frame("emerald", (c) => `
+    <rect x="520" y="160" width="460" height="600" rx="24"/>
+    <path d="M520 260 H980"/>
+    <circle cx="590" cy="210" r="14" fill="${c.ink}"/>
+    <path d="M560 620 C620 600 680 640 740 620 C800 600 860 640 940 620 V720 H560 Z" fill="${c.mid}"/>
+    <circle cx="750" cy="560" r="40"/>
+    <path d="M1080 540 H1240 V640" />
+    <path d="M1200 600 L1280 680" stroke-width="12" opacity="0.8"/>
+  `),
+  "why-is-my-microwave-not-heating": frame("rose", (c) => `
+    <rect x="400" y="260" width="760" height="420" rx="30"/>
+    <rect x="450" y="310" width="480" height="320" rx="16" fill="${c.mid}"/>
+    <path d="M1010 330 H1110 M1010 400 H1110 M1010 470 H1110" stroke-width="10"/>
+    <ellipse cx="690" cy="560" rx="150" ry="30"/>
+    <path d="M690 400 V500 M640 425 L740 475 M740 425 L640 475" stroke-width="8"/>
+  `),
 };
 
 const logoSvg = (size) => `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 32 32">

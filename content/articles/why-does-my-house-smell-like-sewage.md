@@ -140,7 +140,7 @@ Every home has at least one vent pipe that goes up through the roof. It lets sew
 
 Washing machines drain into a tall pipe called a **standpipe**. It should have a drain trap just like a sink. If the standpipe is too short, has no trap, or is clogged, sewer gas can come out behind the washer.
 
-Also check the washer itself. Dirty water can sit in the drum, the rubber door seal, or the drain pump filter and start to smell. Run an empty hot cycle with washing machine cleaner, and wipe the rubber seal dry after each use. If your laundry room also feels damp, our guide to [fixing a musty smell in a room](/why-does-my-room-smell-musty) can help you dry it out.
+Dishwashers that drain into the sink can cause kitchen smells too. See [how to fix a dishwasher that will not drain](/why-is-my-dishwasher-not-draining). Also check the washer itself. Dirty water can sit in the drum, the rubber door seal, or the drain pump filter and start to smell. Run an empty hot cycle with washing machine cleaner, and wipe the rubber seal dry after each use. If your laundry room also feels damp, our guide to [fixing a musty smell in a room](/why-does-my-room-smell-musty) can help you dry it out.
 
 ### 8. Your water heater smells like rotten eggs
 

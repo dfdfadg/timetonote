@@ -161,7 +161,7 @@ Sometimes Wi-Fi connects but works badly. Here is what helps:
 - **Move closer to the router**, or remove things in the way. Walls, floors, mirrors, fish tanks, and big appliances weaken Wi-Fi.
 - **Put the router in a central, high, open spot.** Do not hide it in a cabinet, behind the TV, or on the floor.
 - **Try the other band.** 5 GHz is faster up close. 2.4 GHz reaches farther.
-- **Cut down interference.** Microwaves, cordless phones, and baby monitors can mess with 2.4 GHz Wi-Fi.
+- **Cut down interference.** Microwaves, cordless phones, and baby monitors can mess with 2.4 GHz Wi-Fi. Bluetooth shares that band too; see [why Bluetooth keeps dropping out](/why-does-my-bluetooth-keep-disconnecting).
 - **Check what is using the internet.** Big downloads, cloud backups, and several video streams at once can use up a slower plan.
 - **Think about a mesh system** if some rooms always have weak Wi-Fi. Mesh systems usually work better than basic range extenders.
 
