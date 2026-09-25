@@ -17,7 +17,7 @@ A fast, statically generated editorial site built with Next.js (App Router), Typ
 | Static pages | `/about`, `/contact`, `/privacy-policy`, `/terms`, `/disclaimer`, `/editorial-policy` | |
 | Search (noindex) | `/search?q=…` | |
 
-**Articles never include their category in the URL.** `/home-problems/why-is-my-house-so-dusty` permanently redirects to `/why-is-my-house-so-dusty`. Canonical URLs use `https://timetonote.com` (no `www`, no trailing slash). Trailing-slash URLs 308-redirect to the canonical form; the `www` → apex redirect is configured in Vercel → Settings → Domains.
+**Articles never include their category in the URL.** `/home-problems/why-is-my-house-so-dusty` permanently redirects to `/why-is-my-house-so-dusty`. Canonical URLs use `https://www.timetonote.com` (no trailing slash), matching the Vercel domain setup where `timetonote.com` 308-redirects to `www`. Trailing-slash URLs 308-redirect to the canonical form. To switch the preferred host, change `NEXT_PUBLIC_SITE_URL` and flip the redirect in Vercel → Settings → Domains.
 
 ## Getting started
 
@@ -98,6 +98,6 @@ Content and data (`content/`, `src/data/`) are kept separate from UI components.
 
 1. Import this GitHub repository in Vercel (framework preset: **Next.js**, no build settings to change).
 2. Add environment variables from `.env.example` under **Settings → Environment Variables** (all optional).
-3. Under **Settings → Domains** add `timetonote.com` and `www.timetonote.com`. Set `timetonote.com` as the primary domain and choose **Redirect to timetonote.com (308)** for `www`.
+3. Under **Settings → Domains** add `www.timetonote.com` (Production) and `timetonote.com` with **Redirect to www.timetonote.com (308)**.
 4. Add the DNS records Vercel shows for each domain at your domain registrar/DNS provider, then wait for verification and SSL.
-5. Submit `https://timetonote.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
+5. Submit `https://www.timetonote.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
