@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { getCategory } from "@/data/categories";
 import { getTool, tools, toolPath } from "@/data/tools";
 import { getArticle, toSummary } from "@/lib/articles";
+import { renderMarkdown } from "@/lib/markdown";
 import { pageMetadata } from "@/lib/metadata";
 import { breadcrumbSchema, faqSchema, toolSchema, type Crumb } from "@/lib/schema";
 import { ArticleCard } from "@/components/article/ArticleCard";
@@ -47,7 +48,7 @@ export default async function ToolPage({ params }: PageProps<"/tools/[tool]">) {
         <Container size="narrow" className="pb-10 pt-8 sm:pt-10">
           <Breadcrumbs items={crumbs} />
           <p className="mt-6 text-xs font-semibold uppercase tracking-wide text-[var(--accent)]">Free tool</p>
-          <h1 className="mt-2 font-serif text-3xl font-semibold tracking-tight text-ink sm:text-4xl">{tool.name}</h1>
+          <h1 className="mt-2 font-serif text-3xl font-semibold tracking-tight text-ink sm:text-4xl">{tool.h1 ?? tool.name}</h1>
           <p className="mt-3 text-lg leading-relaxed text-ink-soft">{tool.description}</p>
         </Container>
       </div>
@@ -59,7 +60,7 @@ export default async function ToolPage({ params }: PageProps<"/tools/[tool]">) {
 
         <section aria-labelledby="how-to-use" className="mt-12">
           <h2 id="how-to-use" className="font-serif text-2xl font-semibold tracking-tight text-ink">
-            How to use the {tool.name.toLowerCase()}
+            How to use the {tool.name}
           </h2>
           <ol className="mt-4 list-decimal space-y-2 pl-6 leading-relaxed text-ink-soft marker:font-semibold marker:text-brand">
             {tool.howTo.map((step) => (
@@ -67,6 +68,10 @@ export default async function ToolPage({ params }: PageProps<"/tools/[tool]">) {
             ))}
           </ol>
         </section>
+
+        {tool.about && (
+          <div className="prose-article mt-12" dangerouslySetInnerHTML={{ __html: renderMarkdown(tool.about).html }} />
+        )}
 
         {tool.faq && (
           <div className="mt-12">

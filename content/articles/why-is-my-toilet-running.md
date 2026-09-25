@@ -179,6 +179,8 @@ Water on the floor can also soak into the subfloor and cause damp and mold. If y
 - **Listen for hissing** or refilling when no one has flushed.
 - **Check your water bill.** A sudden jump can mean a hidden leak.
 
+Hidden leaks can also lower the pressure at your faucets. If your showers feel weak, see our guide on [boosting weak water pressure at home](/how-to-increase-water-pressure-in-house).
+
 ## When to call a plumber
 
 You can fix most running toilets yourself. Call a plumber if:

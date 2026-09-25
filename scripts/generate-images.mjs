@@ -189,6 +189,16 @@ const illustrations = {
     <circle cx="1080" cy="660" r="54" fill="${c.mid}"/>
     <circle cx="1200" cy="690" r="44" fill="${c.mid}"/>
   `),
+  "how-to-increase-water-pressure-in-house": frame("blue", (c) => `
+    <path d="M420 260 H700 V330"/>
+    <path d="M600 330 H800 L780 400 H620 Z" fill="${c.mid}"/>
+    <path d="M650 450 V480 M700 450 V500 M750 450 V480" stroke-width="10"/>
+    <circle cx="700" cy="560" r="8" fill="${c.ink}" stroke="none"/>
+    <circle cx="1100" cy="450" r="170"/>
+    <path d="M990 520 A120 120 0 0 1 1210 520" stroke-width="10" opacity="0.6"/>
+    <path d="M1100 450 L1010 400" stroke-width="16"/>
+    <circle cx="1100" cy="450" r="18" fill="${c.ink}"/>
+  `),
 };
 
 const logoSvg = (size) => `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 32 32">

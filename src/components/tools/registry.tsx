@@ -10,5 +10,6 @@ const Loading = () => <div className="h-64 animate-pulse rounded-2xl bg-surface-
 export const toolComponents: Record<string, ComponentType> = {
   "word-counter": dynamic(() => import("./WordCounter"), { loading: Loading }),
   "percentage-calculator": dynamic(() => import("./PercentageCalculator"), { loading: Loading }),
+  "days-until-christmas": dynamic(() => import("./ChristmasCountdown"), { loading: Loading }),
   "keyword-cannibalization-checker": dynamic(() => import("./KeywordCannibalizationChecker"), { loading: Loading }),
 };

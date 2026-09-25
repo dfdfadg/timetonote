@@ -30,4 +30,17 @@ export const legacyRedirects: Redirect[] = [
   { source: "/tool", destination: "/tools" },
   { source: "/useful-tools", destination: "/tools" },
   { source: "/feed", destination: "/" },
+  { source: "/page/:n", destination: "/" },
+
+  // Old URLs from the previous site with a close match on the new site
+  // (from Search Console data, 2026-09-25).
+  { source: "/how-many-days-until-christmas", destination: "/tools/days-until-christmas" },
+  { source: "/how-to-improve-water-pressure-in-your-house", destination: "/how-to-increase-water-pressure-in-house" },
+  { source: "/house-smells-musty", destination: "/why-does-my-room-smell-musty" },
+  { source: "/house-humid-with-ac", destination: "/why-does-my-room-smell-musty" },
+  { source: "/cleaning-is-essential-for-home-maintenance", destination: "/how-to-clean-a-dusty-house" },
+  { source: "/tech", destination: "/tech-problems" },
+  { source: "/home-improvement", destination: "/home-problems" },
+  { source: "/tools/prozent-rechner", destination: "/tools/percentage-calculator" },
+  { source: "/de/:path*", destination: "/tools" },
 ];

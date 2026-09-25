@@ -13,6 +13,8 @@ export interface ToolFaq {
 export interface Tool {
   slug: string;
   name: string;
+  /** Optional page heading; defaults to `name`. */
+  h1?: string;
   /** Meta title. */
   title: string;
   description: string;
@@ -23,6 +25,8 @@ export interface Tool {
   faq?: ToolFaq[];
   /** Article slugs that explain the topic in more depth. */
   relatedArticles?: string[];
+  /** Optional extra content below the tool (Markdown). */
+  about?: string;
   keywords: string[];
   publishedAt: string;
   updatedAt: string;
@@ -83,6 +87,78 @@ export const tools: Tool[] = [
     ],
     relatedArticles: ["how-to-calculate-percentage-change"],
     keywords: ["percentage", "percent change", "percent increase", "percent decrease", "calculator"],
+    publishedAt: "2026-09-25",
+    updatedAt: "2026-09-25",
+  },
+  {
+    slug: "days-until-christmas",
+    name: "Christmas Countdown",
+    h1: "How Many Days Until Christmas?",
+    title: "How Many Days Until Christmas? Live Countdown",
+    description:
+      "See exactly how many days, weeks, hours, and sleeps are left until Christmas with this free live countdown. It updates every second in your time zone.",
+    summary: "Live countdown of the days, weeks, and sleeps until Christmas.",
+    howTo: [
+      "Open this page. The countdown starts on its own and updates every second.",
+      "Read the big number for the days left, or check the weeks, sleeps, and Fridays below it.",
+      "Bookmark the page and come back any time. It always counts to the next Christmas Day.",
+    ],
+    faq: [
+      {
+        question: "How many days until Christmas?",
+        answer:
+          "The countdown at the top of this page shows the exact number of days until Christmas in your time zone. It updates on its own every day.",
+      },
+      {
+        question: "What day of the week is Christmas in 2026?",
+        answer: "Christmas Day 2026 is on a Friday, December 25. In 2027, it falls on a Saturday.",
+      },
+      {
+        question: "How many sleeps until Christmas?",
+        answer:
+          "The number of sleeps is the same as the number of days left. If there are 10 days until Christmas, there are 10 sleeps, counting tonight.",
+      },
+      {
+        question: "Does the countdown use my time zone?",
+        answer:
+          "Yes. The countdown uses the clock on your phone or computer, so it counts down to midnight on December 25 where you are.",
+      },
+    ],
+    about: `## Christmas dates for the next five years
+
+Christmas is always on December 25, but the day of the week changes each year.
+
+| Year | Christmas Day |
+| --- | --- |
+| 2026 | Friday, December 25 |
+| 2027 | Saturday, December 25 |
+| 2028 | Monday, December 25 |
+| 2029 | Tuesday, December 25 |
+| 2030 | Wednesday, December 25 |
+
+## How to count the days until Christmas yourself
+
+You can work it out with a calendar in a few steps:
+
+1. Count the days left in the current month, not counting today.
+2. Add the number of days in each full month before December.
+3. Add 25 for the days in December up to Christmas Day.
+
+For example, from November 1 there are 29 days left in November (not counting November 1), plus 25 days in December, for a total of **54 days**.
+
+To turn days into weeks, divide by 7. For 54 days, that is 7 weeks and 5 days. If you want to work with other date math or percentages, try our [free percentage calculator](/tools/percentage-calculator).
+
+## Fun ways to count down to Christmas
+
+- **Advent calendars.** Open one small door each day from December 1 to December 24.
+- **A paper chain.** Make one loop for each day left, and tear off one loop every night.
+- **A sleeps chart.** Kids can color in one box every night before bed.
+- **A daily act of kindness.** Do one small, kind thing for someone each day in December.
+
+## Plan ahead for the holidays
+
+The countdown is a good reminder to plan early. Many people start holiday shopping in November, and shipping gets busy in December. Check store and carrier shipping deadlines so gifts arrive on time, and set a budget before you start. If you are hosting, a quick deep clean a week or two before guests arrive makes the season less stressful. Our [simple house cleaning routine](/how-to-clean-a-dusty-house) can help you get ready.`,
+    keywords: ["christmas countdown", "days until christmas", "how many days until christmas", "sleeps until christmas", "weeks until christmas"],
     publishedAt: "2026-09-25",
     updatedAt: "2026-09-25",
   },
