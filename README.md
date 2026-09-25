@@ -37,7 +37,7 @@ npm run dev                  # http://localhost:3000
 | `npm run content:check` | Validate slugs, front matter, internal links and anchor-text variety |
 | `npm run images` | Regenerate the brand assets and sample illustrations |
 
-Requires Node.js 20.9 or newer.
+Requires Node.js 20.9 or newer. Production deploys from the `main` branch on Vercel.
 
 ## Adding an article
 
