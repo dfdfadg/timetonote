@@ -5,7 +5,7 @@ shortTitle: "Fruit flies"
 slug: how-to-get-rid-of-fruit-flies
 category: everyday-solutions
 description: "Trapping adults isn’t enough. Find where fruit flies are breeding, trap the ones you see, and break their life cycle within a couple of weeks."
-author: editorial-team
+author: agha-ali-abbas
 publishedAt: 2026-09-25
 updatedAt: 2026-09-25
 featuredImage:

@@ -5,7 +5,7 @@ shortTitle: "Cleaning a dusty house"
 slug: how-to-clean-a-dusty-house
 category: home-problems
 description: "Clean a dusty house in the right order — top to bottom, dry to wet — with tools that trap dust instead of spreading it, plus a routine to keep it away."
-author: editorial-team
+author: agha-ali-abbas
 publishedAt: 2026-09-25
 updatedAt: 2026-09-25
 featuredImage:

@@ -17,7 +17,7 @@ export const siteConfig = {
     "Simple, useful guides that help you understand everyday problems, troubleshoot issues at home and with your tech, and find practical solutions.",
   locale: "en_US",
   language: "en",
-  contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "hello@timetonote.com",
+  contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "timetonoteoffical@gmail.com",
   /** Social profile URLs used in Organization schema `sameAs`. Leave empty until real profiles exist. */
   socialProfiles: [] as string[],
   twitterHandle: process.env.NEXT_PUBLIC_TWITTER_HANDLE || undefined,

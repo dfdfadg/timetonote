@@ -13,7 +13,7 @@ category: home-problems
 # 120–160 characters. Used as the meta description and the intro under the H1.
 description: ""
 # must exist in src/data/authors.ts
-author: editorial-team
+author: agha-ali-abbas
 publishedAt: 2026-01-01
 updatedAt: 2026-01-01
 featuredImage:

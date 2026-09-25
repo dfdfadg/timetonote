@@ -5,7 +5,7 @@ shortTitle: "Musty room smell"
 slug: why-does-my-room-smell-musty
 category: home-problems
 description: "A musty smell almost always means moisture and mould or mildew somewhere nearby. Here’s how to find the source, remove the smell and stop it coming back."
-author: editorial-team
+author: agha-ali-abbas
 publishedAt: 2026-09-25
 updatedAt: 2026-09-25
 featuredImage:

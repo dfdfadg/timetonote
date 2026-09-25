@@ -13,7 +13,7 @@ A fast, statically generated editorial site built with Next.js (App Router), Typ
 | Category pagination | `/{category}/page/{n}` (n ≥ 2) | `/home-problems/page/2` |
 | Tools hub (Useful Tools category) | `/tools` | `/tools` |
 | Tool | `/tools/{tool}` | `/tools/word-counter` |
-| Author | `/authors/{author}` | `/authors/editorial-team` |
+| Author | `/authors/{author}` | `/authors/agha-ali-abbas` |
 | Static pages | `/about`, `/contact`, `/privacy-policy`, `/terms`, `/disclaimer`, `/editorial-policy` | |
 | Search (noindex) | `/search?q=…` | |
 

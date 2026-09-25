@@ -4,7 +4,7 @@ shortTitle: "iPhone not charging"
 slug: iphone-not-charging
 category: tech-problems
 description: "If your iPhone won’t charge, charges slowly or stops at 80%, work through these checks in order — from the cable and port to settings and the battery itself."
-author: editorial-team
+author: agha-ali-abbas
 publishedAt: 2026-09-25
 updatedAt: 2026-09-25
 featuredImage:

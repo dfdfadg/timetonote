@@ -5,7 +5,7 @@ shortTitle: "Wi-Fi not working"
 slug: why-is-my-wifi-not-working
 category: internet-apps
 description: "Wi-Fi down on one device or all of them? Use this checklist to find out if the problem is your device, router or internet provider — and fix it."
-author: editorial-team
+author: agha-ali-abbas
 publishedAt: 2026-09-25
 updatedAt: 2026-09-25
 featuredImage:

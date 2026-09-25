@@ -24,15 +24,15 @@ export interface Author {
 
 export const authors: Author[] = [
   {
-    slug: "editorial-team",
-    name: "TimeToNote Editorial Team",
-    type: "Organization",
-    role: "Editors",
-    bio: "The TimeToNote editorial team researches, writes and updates our guides, checking each fix against manufacturer documentation and reputable sources before publishing.",
+    slug: "agha-ali-abbas",
+    name: "Agha Ali Abbas",
+    type: "Person",
+    role: "Founder & Editor",
+    bio: "Agha Ali Abbas is the founder and editor of TimeToNote. He researches and writes practical guides to everyday problems, checking each fix against manufacturer documentation and reputable sources before publishing.",
     about: [
-      "The TimeToNote editorial team writes and maintains the guides on this site. Our job is to turn common, frustrating problems into clear explanations and steps you can follow.",
-      "Before a guide is published we check the advice against manufacturer documentation, official support pages and other reputable sources. When something changes — a new software version, updated safety guidance or a better method — we update the guide and its “Updated” date.",
-      "If you spot an error or have a suggestion, please get in touch through the contact page. Read our editorial policy to learn more about how guides are researched and maintained.",
+      "Agha Ali Abbas founded TimeToNote to give people clear, practical answers to the everyday problems that send them to a search engine — at home, with their devices and online.",
+      "He researches, writes and updates the guides on this site. Before a guide is published, the advice is checked against manufacturer documentation, official support pages and other reputable sources. When something changes — a new software version, updated safety guidance or a better method — the guide and its “Updated” date are revised.",
+      "If you spot an error or have a suggestion, please get in touch through the contact page. Read the editorial policy to learn more about how guides are researched and maintained.",
     ],
   },
 ];

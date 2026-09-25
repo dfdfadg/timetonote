@@ -5,7 +5,7 @@ shortTitle: "Why is my house so dusty?"
 slug: why-is-my-house-so-dusty
 category: home-problems
 description: "If dust comes back days after you clean, something is feeding it. Here are the most common reasons a house gets dusty — and the changes that actually reduce it."
-author: editorial-team
+author: agha-ali-abbas
 publishedAt: 2026-09-25
 updatedAt: 2026-09-25
 featuredImage:

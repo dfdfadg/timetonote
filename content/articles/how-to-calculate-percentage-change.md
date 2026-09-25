@@ -5,7 +5,7 @@ shortTitle: "Percentage change"
 slug: how-to-calculate-percentage-change
 category: tools
 description: "The percentage change formula explained simply, with worked examples for price rises, discounts and scores — plus the common mistakes that give the wrong answer."
-author: editorial-team
+author: agha-ali-abbas
 publishedAt: 2026-09-25
 updatedAt: 2026-09-25
 featuredImage:
