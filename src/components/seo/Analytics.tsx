@@ -1,18 +1,21 @@
 import Script from "next/script";
+import { isProductionDeployment } from "@/config/site";
+
+/** Google Analytics 4 measurement ID (public by design). Override with NEXT_PUBLIC_GA_MEASUREMENT_ID. */
+const GA_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || "G-LX2RYLDHBL";
 
 /**
- * Optional Google Analytics 4. Only rendered when
- * NEXT_PUBLIC_GA_MEASUREMENT_ID is set, and loaded lazily so it never
- * competes with page content.
+ * Google Analytics 4. Loaded lazily so it never competes with page content,
+ * and only on the production deployment so previews and local builds do not
+ * pollute the data.
  */
 export function Analytics() {
-  const id = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
-  if (!id || !/^G-[A-Z0-9]+$/.test(id)) return null;
+  if (!isProductionDeployment || !/^G-[A-Z0-9]+$/.test(GA_ID)) return null;
   return (
     <>
-      <Script src={`https://www.googletagmanager.com/gtag/js?id=${id}`} strategy="lazyOnload" />
+      <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} strategy="lazyOnload" />
       <Script id="ga4" strategy="lazyOnload">
-        {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${id}',{anonymize_ip:true});`}
+        {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');`}
       </Script>
     </>
   );

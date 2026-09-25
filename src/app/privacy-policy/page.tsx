@@ -27,9 +27,18 @@ export default function PrivacyPolicyPage() {
       </p>
       <h3>Analytics</h3>
       <p>
-        If analytics are enabled, we use a privacy-conscious configuration to understand which pages are useful
-        (for example, page views and approximate location at country level). We do not use analytics data to
-        identify individual visitors.
+        We use Google Analytics to understand which pages are useful (for example, page views, the device type,
+        and approximate location at the country or city level). Google Analytics uses cookies and similar
+        technology. We do not use analytics data to identify individual visitors. You can learn how Google uses
+        this data at{" "}
+        <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">
+          policies.google.com/technologies/partner-sites
+        </a>
+        , and you can opt out with the{" "}
+        <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener">
+          Google Analytics opt-out browser add-on
+        </a>
+        .
       </p>
       <h3>Email</h3>
       <p>
@@ -44,8 +53,8 @@ export default function PrivacyPolicyPage() {
 
       <h2>Cookies</h2>
       <p>
-        The site itself does not require cookies to work. If analytics are enabled, the analytics provider may set
-        cookies or similar identifiers. You can block or delete cookies in your browser settings.
+        The site itself does not require cookies to work. Google Analytics sets cookies or similar identifiers to
+        measure visits. You can block or delete cookies in your browser settings.
       </p>
 
       <h2>Sharing</h2>
