@@ -17,7 +17,7 @@ A fast, statically generated editorial site built with Next.js (App Router), Typ
 | Static pages | `/about`, `/contact`, `/privacy-policy`, `/terms`, `/disclaimer`, `/editorial-policy` | |
 | Search (noindex) | `/search?q=…` | |
 
-**Articles never include their category in the URL.** `/home-problems/why-is-my-house-so-dusty` permanently redirects to `/why-is-my-house-so-dusty`. Canonical URLs use `https://timetonote.com` (no `www`, no trailing slash). Trailing-slash URLs 308-redirect to the canonical form; the `www` → apex redirect is configured in Vercel → Settings → Domains.
+**Articles never include their category in the URL.** `/home-problems/why-is-my-house-so-dusty` permanently redirects to `/why-is-my-house-so-dusty`. Canonical URLs use `https://timetonote.com` (no `www`, no trailing slash). `www.timetonote.com`, `timetonote.vercel.app` and trailing-slash URLs 308-redirect to the canonical form (see `next.config.ts`).
 
 ## Getting started
 

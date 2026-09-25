@@ -1,6 +1,10 @@
 import type { NextConfig } from "next";
 import { legacyRedirects } from "./src/data/redirects";
 
+const CANONICAL_HOST = "timetonote.com";
+/** Other hosts that serve production and must 308 to the canonical host. */
+const ALIAS_HOSTS = [`www.${CANONICAL_HOST}`, "timetonote.vercel.app"];
+
 const EDITORIAL_CATEGORIES = "home-problems|tech-problems|internet-apps|everyday-solutions";
 
 /** Preview deployments on Vercel must never be indexed (avoids duplicate URLs). */
@@ -23,6 +27,13 @@ const nextConfig: NextConfig = {
 
   async redirects() {
     return [
+      // www and the default *.vercel.app domain → https://timetonote.com (one canonical host).
+      ...ALIAS_HOSTS.map((host) => ({
+        source: "/:path*",
+        has: [{ type: "host" as const, value: host }],
+        destination: `https://${CANONICAL_HOST}/:path*`,
+        permanent: true,
+      })),
       // Articles are never nested under categories:
       // /home-problems/why-is-my-house-so-dusty → /why-is-my-house-so-dusty
       {
