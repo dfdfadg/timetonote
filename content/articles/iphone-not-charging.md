@@ -11,7 +11,7 @@ featuredImage:
   src: /images/articles/iphone-not-charging.webp
   alt: "Illustration of a smartphone with a charging cable and a lightning bolt symbol"
 tags: [iphone, charging, battery, troubleshooting]
-relatedArticles: [why-is-my-wifi-not-working]
+relatedArticles: [why-does-my-phone-get-hot, why-is-my-wifi-not-working]
 popular: 2
 faq:
   - question: "Why does my iPhone stop charging at 80%?"
@@ -86,7 +86,7 @@ If charging stops at or around 80%, check **Settings > Battery > Charging** (on 
 - **Optimised Battery Charging** delays charging past 80% until closer to when you usually unplug. You’ll see a notification on the lock screen; tap and hold it to charge fully now.
 - **Charging limit** options on newer models can cap charging at 80% or another level by design.
 
-Heat also pauses charging. If the phone is warm — in direct sun, under a pillow, or while gaming — iPhone may show “Charging On Hold” until it cools down. Move it somewhere cooler and remove a thick case.
+Heat also pauses charging (our guide on [why phones overheat](/why-does-my-phone-get-hot) explains the common causes). If the phone is warm — in direct sun, under a pillow, or while gaming — iPhone may show “Charging On Hold” until it cools down. Move it somewhere cooler and remove a thick case.
 
 ## Step 7: Update iOS
 

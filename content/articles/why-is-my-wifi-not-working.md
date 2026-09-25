@@ -12,7 +12,7 @@ featuredImage:
   src: /images/articles/why-is-my-wifi-not-working.webp
   alt: "Illustration of a Wi-Fi router with signal waves and a warning symbol"
 tags: [wifi, internet, router, troubleshooting]
-relatedArticles: [iphone-not-charging]
+relatedArticles: [why-is-my-internet-so-slow, iphone-not-charging]
 popular: 5
 faq:
   - question: "What does “connected, no internet” mean?"
@@ -99,6 +99,8 @@ If nothing else works, resetting network settings erases saved Wi-Fi networks, p
 - **Reduce interference.** Cordless phones, baby monitors and microwaves can disrupt 2.4 GHz Wi-Fi.
 - **Check what’s using the connection.** Large downloads, cloud backups and several video streams at once can saturate a slower plan.
 - **Consider a mesh system** or a wired access point if some rooms are always weak. Mesh systems usually perform better than basic range extenders.
+
+If you are connected but pages still crawl, our guide to [speeding up a slow internet connection](/why-is-my-internet-so-slow) covers speed tests, router placement and more.
 
 ## Quick reference
 

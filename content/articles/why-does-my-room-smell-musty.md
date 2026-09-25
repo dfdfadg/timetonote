@@ -12,7 +12,7 @@ featuredImage:
   src: /images/articles/why-does-my-room-smell-musty.webp
   alt: "Illustration of a window with damp spots next to a dehumidifier"
 tags: [damp, mould, smells, humidity, indoor air quality]
-relatedArticles: [why-is-my-house-so-dusty]
+relatedArticles: [why-is-my-house-so-dusty, why-does-my-house-smell-like-sewage]
 popular: 3
 faq:
   - question: "Is a musty smell dangerous?"
@@ -100,6 +100,8 @@ Once the source is fixed, bowls of bicarbonate of soda or bags of activated char
 - Air rooms every day, even in winter — a short, wide-open window is better than a window left on the latch all day.
 - Keep wardrobes and cupboards a little away from external walls, and don’t overpack them.
 - Clean AC drip trays and filters as the manufacturer recommends.
+
+If the smell is more like a sewer than damp, the cause is usually a drain or toilet instead. See [what to do when your house smells like sewage](/why-does-my-house-smell-like-sewage).
 
 Damp homes often feel dusty too, because humidity helps dust mites thrive. If that sounds familiar, see our guide to [why your home gets dusty and how to reduce it](/why-is-my-house-so-dusty).
 

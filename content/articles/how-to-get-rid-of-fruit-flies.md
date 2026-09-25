@@ -12,7 +12,7 @@ featuredImage:
   src: /images/articles/how-to-get-rid-of-fruit-flies.webp
   alt: "Illustration of a fruit bowl next to a jar trap with small flies"
 tags: [fruit flies, pests, kitchen, cleaning]
-relatedArticles: [how-to-clean-a-dusty-house]
+relatedArticles: [how-to-get-rid-of-gnats, how-to-clean-a-dusty-house]
 popular: 6
 faq:
   - question: "Where do fruit flies come from?"
@@ -95,5 +95,7 @@ Other small flies look similar but need a different fix:
 | Fruit fly | Tan body, red eyes | Ripe fruit, bins, spills | Remove food sources; vinegar trap |
 | Drain fly | Fuzzy, moth-like wings | Slime inside drains | Scrub and clean drains thoroughly |
 | Fungus gnat | Dark, thin, long legs | Damp soil of house plants | Let the soil dry out between watering; yellow sticky traps |
+
+For houseplant gnats and drain flies, follow our full guide on [how to get rid of gnats in the house](/how-to-get-rid-of-gnats).
 
 If flies keep appearing despite all of this, check for a hidden source such as a forgotten bag of potatoes, a spill under an appliance, or a damp problem in a cupboard.

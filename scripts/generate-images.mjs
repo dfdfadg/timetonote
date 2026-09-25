@@ -110,6 +110,40 @@ const illustrations = {
     <path d="M940 520 L1070 410 L1150 440 L1260 300"/>
     <path d="M1200 300 H1260 V360"/>
   `),
+  "why-does-my-house-smell-like-sewage": frame("amber", (c) => `
+    <path d="M420 300 H860 V360 H420 Z" fill="${c.mid}"/>
+    <path d="M640 360 V470"/>
+    <path d="M640 470 C640 600 800 600 800 470 V420 H900"/>
+    <path d="M900 420 H1180"/>
+    <path d="M560 250 C530 210 590 180 560 140 M660 240 C630 200 690 170 660 130 M760 250 C730 210 790 180 760 140" stroke-width="10" opacity="0.7"/>
+    <path d="M1060 560 L1180 680 M1180 560 L1060 680" stroke-width="12" opacity="0.8"/>
+  `),
+  "how-to-get-rid-of-gnats": frame("emerald", (c) => `
+    <path d="M480 560 H800 L760 760 H520 Z" fill="${c.mid}"/>
+    <path d="M640 560 C640 460 560 400 500 380 M640 560 C650 450 720 390 790 370 M640 560 V420"/>
+    <ellipse cx="500" cy="380" rx="50" ry="26" fill="${c.mid}"/>
+    <ellipse cx="790" cy="370" rx="50" ry="26" fill="${c.mid}"/>
+    <rect x="1000" y="360" width="200" height="280" rx="16" fill="#facc15" stroke="${c.ink}" opacity="0.85"/>
+    ${[[1060,440],[1130,500],[1080,560],[1150,600]].map(([x,y]) => `<circle cx="${x}" cy="${y}" r="7" fill="${c.ink}" stroke="none"/>`).join("")}
+    ${[[600,300],[700,260],[860,320],[560,220],[920,250]].map(([x,y]) => `<g stroke-width="5"><ellipse cx="${x}" cy="${y}" rx="9" ry="6" fill="${c.ink}" stroke="none"/><path d="M${x-4} ${y-5} C${x-18} ${y-22} ${x-3} ${y-24} ${x} ${y-7} M${x+4} ${y-5} C${x+18} ${y-22} ${x+3} ${y-24} ${x} ${y-7}"/></g>`).join("")}
+  `),
+  "why-does-my-phone-get-hot": frame("blue", (c) => `
+    <rect x="560" y="160" width="320" height="600" rx="52"/>
+    <path d="M680 210 H760"/>
+    <path d="M500 300 C470 260 530 230 500 190 M950 300 C920 260 980 230 950 190 M500 560 C470 520 530 490 500 450 M950 560 C920 520 980 490 950 450" stroke-width="10" opacity="0.7"/>
+    <rect x="1090" y="260" width="70" height="330" rx="35"/>
+    <circle cx="1125" cy="640" r="60" fill="${c.mid}"/>
+    <path d="M1125 620 V380" stroke-width="22"/>
+  `),
+  "why-is-my-internet-so-slow": frame("violet", (c) => `
+    <path d="M460 600 A300 300 0 0 1 1060 600"/>
+    <path d="M510 600 H560 M1010 600 H960 M555 420 L590 445 M965 420 L930 445 M760 300 V350"/>
+    <path d="M760 600 L560 520" stroke-width="18"/>
+    <circle cx="760" cy="600" r="26" fill="${c.ink}"/>
+    <rect x="1120" y="620" width="260" height="90" rx="24"/>
+    <circle cx="1180" cy="665" r="10" fill="${c.ink}"/>
+    <path d="M1200 540 A90 90 0 0 1 1300 540 M1225 580 A40 40 0 0 1 1275 580"/>
+  `),
 };
 
 const logoSvg = (size) => `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 32 32">
