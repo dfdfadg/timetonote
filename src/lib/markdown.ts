@@ -40,8 +40,7 @@ function isInternal(href: string): boolean {
   if (href.startsWith("/") && !href.startsWith("//")) return true;
   try {
     const u = new URL(href);
-    const bare = siteHost.replace(/^www\./, "");
-    return u.host === bare || u.host === `www.${bare}`;
+    return u.host === siteHost || u.host === `www.${siteHost}`;
   } catch {
     return false;
   }

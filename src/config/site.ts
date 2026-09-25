@@ -6,7 +6,7 @@
  * `.env.example` for the full list.
  */
 
-const rawSiteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.timetonote.com";
+const rawSiteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://timetonote.com";
 
 export const siteConfig = {
   name: "TimeToNote",
