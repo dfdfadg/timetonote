@@ -131,7 +131,7 @@ If the cold water is fine but the hot water is weak:
 - **Sediment** can build up in the tank over time. Many makers suggest flushing the tank once a year.
 - Tankless water heaters have small filters that can clog.
 
-If you are not comfortable working on the water heater, call a plumber. Be careful: the water and pipes can be very hot.
+If your hot water also smells like sulfur, see [what to do when water smells like rotten eggs](/why-does-my-water-smell-like-rotten-eggs). If you are not comfortable working on the water heater, call a plumber. Be careful: the water and pipes can be very hot.
 
 ### 7. Replace low-flow or worn fixtures
 

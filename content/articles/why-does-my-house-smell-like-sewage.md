@@ -146,6 +146,8 @@ Also check the washer itself. Dirty water can sit in the drum, the rubber door s
 
 If the smell only shows up when you run **hot** water, the water heater is the likely cause. Some kinds of bacteria in water react with a metal rod inside the tank called the **anode rod**. This makes a rotten egg smell.
 
+Our full guide on [rotten egg smells in tap water](/why-does-my-water-smell-like-rotten-eggs) explains every cause and fix.
+
 **How to test it:** Run cold water in a sink and smell it. Then run hot water and smell it. If only the hot water smells, the water heater is the cause.
 
 **How to fix it:** A plumber can flush the tank and swap the anode rod for a different type. Do not change settings or open valves on a gas water heater if you are not sure what you are doing.

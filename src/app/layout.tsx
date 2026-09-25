@@ -32,7 +32,8 @@ export const metadata: Metadata = {
     ? { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 } }
     : { index: false, follow: false },
   verification: {
-    ...(process.env.GOOGLE_SITE_VERIFICATION ? { google: process.env.GOOGLE_SITE_VERIFICATION } : {}),
+    // Search Console verification token (public by design). Can be overridden with GOOGLE_SITE_VERIFICATION.
+    google: process.env.GOOGLE_SITE_VERIFICATION || "mwWx-gmtcQK2SOm6_nuu9pGv5vRbzwOL_lFsBwKnSeY",
     ...(process.env.BING_SITE_VERIFICATION ? { other: { "msvalidate.01": process.env.BING_SITE_VERIFICATION } } : {}),
   },
   formatDetection: { telephone: false },

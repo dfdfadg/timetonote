@@ -199,6 +199,22 @@ const illustrations = {
     <path d="M1100 450 L1010 400" stroke-width="16"/>
     <circle cx="1100" cy="450" r="18" fill="${c.ink}"/>
   `),
+  "why-does-my-water-smell-like-rotten-eggs": frame("amber", (c) => `
+    <path d="M500 220 H760 V280 H700 V330"/>
+    <path d="M700 380 V410 M700 450 V470" stroke-width="10"/>
+    <path d="M600 500 H800 L770 760 H630 Z" fill="${c.mid}"/>
+    <path d="M620 560 H780" stroke-width="8" opacity="0.6"/>
+    <path d="M900 520 C870 480 930 450 900 410 M980 540 C950 500 1010 470 980 430 M1060 520 C1030 480 1090 450 1060 410" stroke-width="10" opacity="0.7"/>
+    <ellipse cx="1180" cy="660" rx="60" ry="80"/>
+  `),
+  "why-does-my-water-taste-like-chlorine": frame("blue", (c) => `
+    <path d="M520 360 H700 L680 740 H540 Z" fill="${c.mid}"/>
+    <path d="M540 440 H680" stroke-width="8" opacity="0.6"/>
+    <path d="M840 300 H1100 L1080 340 V740 H860 V340 Z"/>
+    <path d="M860 420 H1080" stroke-width="10"/>
+    <rect x="930" y="340" width="80" height="140" rx="16" fill="${c.mid}"/>
+    <path d="M1100 380 C1180 380 1180 560 1100 560"/>
+  `),
 };
 
 const logoSvg = (size) => `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 32 32">
