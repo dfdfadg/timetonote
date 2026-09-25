@@ -2,7 +2,6 @@ import type { NextConfig } from "next";
 import { legacyRedirects } from "./src/data/redirects";
 
 const EDITORIAL_CATEGORIES = "home-problems|tech-problems|internet-apps|everyday-solutions";
-const CANONICAL_HOST = "timetonote.com";
 
 /** Preview deployments on Vercel must never be indexed (avoids duplicate URLs). */
 const isPreview = process.env.VERCEL_ENV !== undefined && process.env.VERCEL_ENV !== "production";
@@ -24,13 +23,6 @@ const nextConfig: NextConfig = {
 
   async redirects() {
     return [
-      // www → apex (Vercel's domain redirect should also be configured; this is a safety net).
-      {
-        source: "/:path*",
-        has: [{ type: "host", value: `www.${CANONICAL_HOST}` }],
-        destination: `https://${CANONICAL_HOST}/:path*`,
-        permanent: true,
-      },
       // Articles are never nested under categories:
       // /home-problems/why-is-my-house-so-dusty → /why-is-my-house-so-dusty
       {
