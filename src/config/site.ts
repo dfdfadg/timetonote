@@ -10,7 +10,7 @@ const rawSiteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://timetonote.com";
 
 export const siteConfig = {
   name: "TimeToNote",
-  /** Canonical origin — no trailing slash. */
+  /** Canonical origin, no trailing slash. */
   url: rawSiteUrl.replace(/\/+$/, ""),
   tagline: "Practical Answers for Everyday Problems",
   description:

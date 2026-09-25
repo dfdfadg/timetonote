@@ -12,7 +12,7 @@ featuredImage:
   src: /images/articles/why-does-my-phone-get-hot.webp
   alt: "Illustration of a smartphone with a thermometer and heat waves around it"
 tags: [phone, overheating, battery, iphone, android, troubleshooting]
-relatedArticles: [iphone-not-charging, why-is-my-internet-so-slow]
+relatedArticles: [iphone-not-charging, why-is-my-phone-storage-full]
 faq:
   - question: "Is it bad if my phone gets hot?"
     answer: "A phone that feels warm while charging, gaming, or streaming is normal. A phone that gets too hot to hold comfortably, shows a temperature warning, or gets hot while you are not using it is a problem. Too much heat can wear out the battery faster and, in rare cases, damage the phone."
@@ -139,7 +139,9 @@ Phone makers fix bugs in software updates, including bugs that cause overheating
 - **iPhone:** Go to **Settings > General > Software Update**.
 - **Android:** Go to **Settings > System > Software update** (the name may be a little different on your phone).
 
-**Good to know:** Right after a big update, your phone may feel warm for a day or two. It is busy organizing photos, files, and apps in the background. This is normal and should stop on its own.
+**Good to know:** Updates need free space to install. If your phone says there is not enough room, our guide on [freeing up phone storage](/why-is-my-phone-storage-full) shows what to delete first.
+
+Right after a big update, your phone may feel warm for a day or two. It is busy organizing photos, files, and apps in the background. This is normal and should stop on its own.
 
 ### 9. The battery is old or damaged
 

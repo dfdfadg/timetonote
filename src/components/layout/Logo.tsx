@@ -13,7 +13,7 @@ export function LogoMark({ className = "" }: { className?: string }) {
 
 export function Logo() {
   return (
-    <Link href="/" className="flex items-center gap-2.5 rounded-md" aria-label={`${siteConfig.name} — home`}>
+    <Link href="/" className="flex items-center gap-2.5 rounded-md" aria-label={`${siteConfig.name} home`}>
       <LogoMark className="h-8 w-8 shrink-0" />
       <span className="font-serif text-xl font-semibold tracking-tight text-ink">
         Time<span className="text-brand">To</span>Note

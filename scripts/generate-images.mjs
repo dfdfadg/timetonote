@@ -144,6 +144,51 @@ const illustrations = {
     <circle cx="1180" cy="665" r="10" fill="${c.ink}"/>
     <path d="M1200 540 A90 90 0 0 1 1300 540 M1225 580 A40 40 0 0 1 1275 580"/>
   `),
+  "why-is-my-laptop-so-slow": frame("blue", (c) => `
+    <rect x="480" y="220" width="560" height="360" rx="24"/>
+    <path d="M400 640 H1120 L1080 580 H440 Z" fill="${c.mid}"/>
+    <path d="M760 330 A70 70 0 1 1 690 400" stroke-width="16"/>
+    <path d="M1180 660 C1180 600 1260 580 1290 630 C1320 680 1260 700 1230 680 M1150 680 H1330"/>
+    <circle cx="1300" cy="600" r="6" fill="${c.ink}"/>
+  `),
+  "why-is-my-toilet-running": frame("amber", (c) => `
+    <rect x="520" y="180" width="360" height="200" rx="20"/>
+    <path d="M560 380 H840 C840 520 780 580 700 580 C620 580 560 520 560 380 Z" fill="${c.mid}"/>
+    <path d="M640 580 L620 720 H780 L760 580"/>
+    <path d="M700 250 V330 M660 290 H740" stroke-width="10" opacity="0.6"/>
+    <path d="M980 300 C960 340 1000 360 980 400 M1040 330 C1020 370 1060 390 1040 430" stroke-width="10" opacity="0.7"/>
+    <path d="M1080 560 L1220 700 M1180 540 A40 40 0 1 1 1240 600" stroke-width="16"/>
+  `),
+  "how-to-remove-sticker-residue": frame("emerald", (c) => `
+    <rect x="520" y="220" width="320" height="480" rx="40"/>
+    <path d="M520 300 H840"/>
+    <path d="M560 400 H800 V560 H660 L560 520 Z" fill="${c.mid}"/>
+    <path d="M660 560 L800 520" stroke-width="10"/>
+    <path d="M960 460 C1040 420 1140 440 1200 500 C1150 560 1040 580 960 540 Z" fill="${c.mid}"/>
+    <circle cx="1050" cy="330" r="16" fill="${c.ink}" stroke="none" opacity="0.5"/>
+    <circle cx="1120" cy="380" r="10" fill="${c.ink}" stroke="none" opacity="0.5"/>
+  `),
+  "why-is-my-phone-storage-full": frame("blue", (c) => `
+    <rect x="600" y="160" width="320" height="600" rx="52"/>
+    <path d="M720 210 H800"/>
+    <rect x="650" y="300" width="100" height="100" rx="12" fill="${c.mid}"/>
+    <rect x="770" y="300" width="100" height="100" rx="12" fill="${c.mid}"/>
+    <rect x="650" y="420" width="100" height="100" rx="12" fill="${c.mid}"/>
+    <rect x="770" y="420" width="100" height="100" rx="12" fill="${c.mid}"/>
+    <rect x="650" y="600" width="220" height="30" rx="15"/>
+    <rect x="650" y="600" width="210" height="30" rx="15" fill="${c.ink}"/>
+    <path d="M1080 300 L1180 400 M1180 300 L1080 400" stroke-width="12" opacity="0.8"/>
+  `),
+  "how-to-calculate-a-tip": frame("rose", (c) => `
+    <path d="M520 160 H860 V740 L820 710 L780 740 L740 710 L700 740 L660 710 L620 740 L580 710 L520 740 Z" fill="${c.bg}"/>
+    <path d="M580 260 H800 M580 330 H760 M580 400 H800 M580 520 H700" stroke-width="10"/>
+    <path d="M740 520 H800" stroke-width="16"/>
+    <circle cx="1060" cy="330" r="46"/>
+    <circle cx="1220" cy="500" r="46"/>
+    <path d="M1250 280 L1030 560" stroke-width="18"/>
+    <circle cx="1080" cy="660" r="54" fill="${c.mid}"/>
+    <circle cx="1200" cy="690" r="44" fill="${c.mid}"/>
+  `),
 };
 
 const logoSvg = (size) => `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 32 32">

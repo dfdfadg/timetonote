@@ -38,7 +38,7 @@ export const categories: Category[] = [
     path: "/home-problems",
     title: "Home Problems: Causes and Practical Fixes",
     description:
-      "Clear explanations and step-by-step fixes for common household problems — dust, smells, damp, pests, noises and the small things that make a home harder to live in.",
+      "Clear explanations and step-by-step fixes for common household problems: dust, smells, damp, pests, noises and the small things that make a home harder to live in.",
     summary: "Dust, smells, damp and the everyday issues that come with running a home.",
     accent: "amber",
   },
@@ -71,7 +71,7 @@ export const categories: Category[] = [
     path: "/everyday-solutions",
     title: "Everyday Solutions: Simple Fixes for Daily Annoyances",
     description:
-      "Practical, low-cost solutions to the small problems that come up in daily life — tested methods explained simply.",
+      "Practical, low-cost solutions to the small problems that come up in daily life, with tested methods explained simply.",
     summary: "Simple, low-cost fixes for the small annoyances of daily life.",
     accent: "emerald",
   },
@@ -82,7 +82,7 @@ export const categories: Category[] = [
     path: "/tools",
     title: "Free Useful Tools: Calculators and Text Utilities",
     description:
-      "Free, fast, private browser tools — calculators, counters and checkers that run on your device with no sign-up.",
+      "Free, fast, private browser tools: calculators, counters and checkers that run on your device with no sign-up.",
     summary: "Free calculators and utilities that run right in your browser.",
     accent: "rose",
   },

@@ -97,7 +97,7 @@ export default async function ToolPage({ params }: PageProps<"/tools/[tool]">) {
                 <Link href={toolPath(t.slug)} className="font-medium text-brand hover:underline">
                   {t.name}
                 </Link>
-                <span className="text-muted"> — {t.summary}</span>
+                <span className="text-muted">: {t.summary}</span>
               </li>
             ))}
           </ul>

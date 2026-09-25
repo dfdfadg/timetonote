@@ -30,8 +30,8 @@ export const authors: Author[] = [
     role: "Founder & Editor",
     bio: "Agha Ali Abbas is the founder and editor of TimeToNote. He researches and writes practical guides to everyday problems, checking each fix against manufacturer documentation and reputable sources before publishing.",
     about: [
-      "Agha Ali Abbas founded TimeToNote to give people clear, practical answers to the everyday problems that send them to a search engine — at home, with their devices and online.",
-      "He researches, writes and updates the guides on this site. Before a guide is published, the advice is checked against manufacturer documentation, official support pages and other reputable sources. When something changes — a new software version, updated safety guidance or a better method — the guide and its “Updated” date are revised.",
+      "Agha Ali Abbas founded TimeToNote to give people clear, practical answers to the everyday problems that send them to a search engine, at home, with their devices and online.",
+      "He researches, writes and updates the guides on this site. Before a guide is published, the advice is checked against manufacturer documentation, official support pages and other reputable sources. When something changes, like a new software version, updated safety guidance, or a better method, the guide and its “Updated” date are revised.",
       "If you spot an error or have a suggestion, please get in touch through the contact page. Read the editorial policy to learn more about how guides are researched and maintained.",
     ],
   },

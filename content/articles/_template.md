@@ -10,7 +10,7 @@ shortTitle: ""
 slug: why-does-my-example-problem-happen
 # one of: home-problems | tech-problems | internet-apps | everyday-solutions | tools
 category: home-problems
-# 120–160 characters. Used as the meta description and the intro under the H1.
+# 120 to 160 characters. Used as the meta description and the intro under the H1.
 description: ""
 # must exist in src/data/authors.ts
 author: agha-ali-abbas
@@ -28,7 +28,7 @@ relatedArticles: []
 # toc: true
 # optional: keep the page out of search engines, listings and the sitemap
 # noindex: true
-# optional: work in progress — hidden in production builds
+# optional: work in progress - hidden in production builds
 draft: true
 # only add FAQs when readers genuinely ask these follow-up questions
 faq:

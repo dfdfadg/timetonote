@@ -12,7 +12,7 @@ featuredImage:
   src: /images/articles/why-is-my-internet-so-slow.webp
   alt: "Illustration of a speed meter pointing to slow next to a Wi-Fi router"
 tags: [internet, wifi, router, speed, troubleshooting]
-relatedArticles: [why-is-my-wifi-not-working, why-does-my-phone-get-hot]
+relatedArticles: [why-is-my-wifi-not-working, why-is-my-laptop-so-slow]
 faq:
   - question: "Why is my internet slow at night?"
     answer: "In the evening, many people in your area are online at the same time, streaming shows and playing games. This can crowd your internet provider's network and slow everyone down. People in your own home may also be using more of your connection at night."
@@ -153,7 +153,7 @@ If only one device is slow, the problem might be the device, not the internet.
 - Check for viruses or malware with a trusted security app.
 - Forget the Wi-Fi network and connect again.
 
-If a device will not connect at all, see our guide on [how to fix Wi-Fi that is not working](/why-is-my-wifi-not-working). A phone that is busy and slow can also get warm. Our guide on [why a phone gets hot](/why-does-my-phone-get-hot) explains how to calm down apps running in the background.
+If a device will not connect at all, see our guide on [how to fix Wi-Fi that is not working](/why-is-my-wifi-not-working). If your whole laptop feels sluggish, not just the internet, see our guide on [how to speed up a slow laptop](/why-is-my-laptop-so-slow). A phone that is busy and slow can also get warm. Our guide on [why a phone gets hot](/why-does-my-phone-get-hot) explains how to calm down apps running in the background.
 
 ### 11. A VPN is slowing you down
 

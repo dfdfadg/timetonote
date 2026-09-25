@@ -56,7 +56,7 @@ export function Footer() {
       </div>
       <div className="border-t border-line">
         <p className="mx-auto max-w-6xl px-4 py-6 text-xs text-muted sm:px-6">
-          © {year} {siteConfig.name}. Guides are for general information — always follow your manufacturer’s
+          © {year} {siteConfig.name}. Guides are for general information. Always follow your manufacturer’s
           instructions and get professional help for safety-critical problems.
         </p>
       </div>

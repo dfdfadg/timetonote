@@ -38,7 +38,7 @@ export const tools: Tool[] = [
     summary: "Count words, characters, sentences and reading time instantly.",
     howTo: [
       "Type or paste your text into the box.",
-      "The counts update as you type — nothing is sent to a server.",
+      "The counts update as you type. Nothing is sent to a server.",
       "Use “Clear” to start again.",
     ],
     faq: [
@@ -62,11 +62,11 @@ export const tools: Tool[] = [
     name: "Percentage Calculator",
     title: "Percentage Calculator: Percent Of, Change and Difference",
     description:
-      "Work out a percentage of a number, what percent one number is of another, and percentage increase or decrease — with the formula shown for every answer.",
-    summary: "Percent of a number, percentage change and more — formulas included.",
+      "Work out a percentage of a number, what percent one number is of another, and percentage increase or decrease, with the formula shown for every answer.",
+    summary: "Percent of a number, percentage change, and more, with formulas included.",
     howTo: [
       "Choose the calculation you need.",
-      "Enter your numbers — the answer and the formula appear straight away.",
+      "Enter your numbers. The answer and the formula appear straight away.",
       "Use the result to check discounts, price rises, marks or budgets.",
     ],
     faq: [
@@ -102,7 +102,7 @@ export const tools: Tool[] = [
       {
         question: "What is keyword cannibalization?",
         answer:
-          "It is when two or more pages on the same site target the same search intent, so search engines alternate between them or rank neither well. It is only a problem when the pages genuinely compete — different intents on the same query can be fine.",
+          "It is when two or more pages on the same site target the same search intent, so search engines alternate between them or rank neither well. It is only a problem when the pages genuinely compete. Different intents on the same query can be fine.",
       },
       {
         question: "Is my data uploaded?",

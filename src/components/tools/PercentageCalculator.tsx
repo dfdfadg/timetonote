@@ -11,7 +11,7 @@ const MODES: { id: Mode; label: string }[] = [
 ];
 
 const fmt = (n: number) =>
-  Number.isFinite(n) ? new Intl.NumberFormat("en-US", { maximumFractionDigits: 4 }).format(n) : "—";
+  Number.isFinite(n) ? new Intl.NumberFormat("en-US", { maximumFractionDigits: 4 }).format(n) : "-";
 
 function parse(value: string): number | null {
   if (value.trim() === "") return null;
@@ -25,10 +25,10 @@ function compute(mode: Mode, a: number | null, b: number | null): { answer: stri
     case "percentOf":
       return { answer: fmt((a / 100) * b), formula: `${fmt(a)} ÷ 100 × ${fmt(b)} = ${fmt((a / 100) * b)}` };
     case "whatPercent":
-      if (b === 0) return { error: "Y can’t be zero — a percentage of zero is undefined." };
+      if (b === 0) return { error: "Y can’t be zero. A percentage of zero is undefined." };
       return { answer: `${fmt((a / b) * 100)}%`, formula: `${fmt(a)} ÷ ${fmt(b)} × 100 = ${fmt((a / b) * 100)}%` };
     case "change": {
-      if (a === 0) return { error: "The starting value (X) can’t be zero — percentage change from zero is undefined." };
+      if (a === 0) return { error: "The starting value (X) can’t be zero. Percentage change from zero is undefined." };
       const pct = ((b - a) / Math.abs(a)) * 100;
       const dir = pct > 0 ? "increase" : pct < 0 ? "decrease" : "no change";
       return {

@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: PageProps<"/[slug]/page/[page
   const data = resolve(slug, page);
   if (!data) return {};
   return pageMetadata({
-    title: `${data.category.name} — Page ${data.page}`,
+    title: `${data.category.name}: Page ${data.page}`,
     description: `${data.category.description} Page ${data.page} of ${data.totalPages}.`,
     path: `${data.category.path}/page/${data.page}`,
   });

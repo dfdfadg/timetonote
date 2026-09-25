@@ -2,7 +2,7 @@ import { siteConfig } from "@/config/site";
 import { getTool, tools } from "@/data/tools";
 import { ogSize, renderOgCard } from "@/lib/og";
 
-export const alt = `Free tool — ${siteConfig.name}`;
+export const alt = `Free tool from ${siteConfig.name}`;
 export const size = ogSize;
 export const contentType = "image/png";
 export const dynamicParams = false;

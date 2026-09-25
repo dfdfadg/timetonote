@@ -15,7 +15,7 @@ interface Group {
   pages: Row[];
   impressions: number;
   clicks: number;
-  /** Share of impressions held by the second-strongest URL (0–1). */
+  /** Share of impressions held by the second-strongest URL (0 to 1). */
   competition: number;
 }
 
@@ -210,7 +210,7 @@ export default function KeywordCannibalizationChecker() {
         {error && <p className="rounded-xl border border-line bg-bg p-4 text-ink-soft">{error}</p>}
         {!error && submitted && (
           <p className="text-sm text-muted">
-            Analysed {rows.length.toLocaleString()} rows · found{" "}
+            Analyzed {rows.length.toLocaleString()} rows · found{" "}
             <strong className="text-ink">{groups.length}</strong> {groups.length === 1 ? "query" : "queries"} with more than one
             ranking URL.
           </p>
@@ -243,7 +243,7 @@ export default function KeywordCannibalizationChecker() {
                             <td className="max-w-[28rem] break-all py-2 pr-4 text-ink-soft">{p.page}</td>
                             <td className="py-2 pr-4 text-right">{p.clicks.toLocaleString()}</td>
                             <td className="py-2 pr-4 text-right">{p.impressions.toLocaleString()}</td>
-                            <td className="py-2 text-right">{p.position === null ? "—" : p.position.toFixed(1)}</td>
+                            <td className="py-2 text-right">{p.position === null ? "-" : p.position.toFixed(1)}</td>
                           </tr>
                         ))}
                       </tbody>

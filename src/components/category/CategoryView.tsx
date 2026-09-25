@@ -46,7 +46,7 @@ export function CategoryView({
             <div>
               <h1 className="font-serif text-3xl font-semibold tracking-tight text-ink sm:text-4xl">
                 {category.name}
-                {page > 1 && <span className="text-muted"> — page {page}</span>}
+                {page > 1 && <span className="text-muted">, page {page}</span>}
               </h1>
               <p className="mt-3 max-w-2xl text-lg leading-relaxed text-ink-soft">{category.description}</p>
             </div>

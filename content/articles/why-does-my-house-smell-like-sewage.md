@@ -12,7 +12,7 @@ featuredImage:
   src: /images/articles/why-does-my-house-smell-like-sewage.webp
   alt: "Illustration of a sink drain with a U-shaped pipe and smell lines rising from it"
 tags: [smells, plumbing, drains, sewer gas]
-relatedArticles: [why-does-my-room-smell-musty, how-to-get-rid-of-gnats]
+relatedArticles: [why-does-my-room-smell-musty, why-is-my-toilet-running, how-to-get-rid-of-gnats]
 faq:
   - question: "Is it dangerous to smell sewage in my house?"
     answer: "A faint smell for a short time is usually not dangerous, but you should not ignore it. Sewer gas can cause headaches, nausea, and dizziness. If the smell is strong, open windows, leave the house, and call a plumber. If it smells like rotten eggs near a gas stove or furnace, leave right away and call your gas company."
@@ -93,7 +93,7 @@ Under every toilet is a soft ring made of wax or foam. It seals the toilet to th
 
 Even with a good wax ring, a loose toilet can break the seal. Check the two bolts at the base of the toilet. They are often under small plastic caps. If they are loose, tighten them a little at a time. Do not overtighten them, or the toilet can crack.
 
-Also look for cracks in the toilet bowl or tank. A small crack can leak water and let smells escape. A cracked toilet needs to be replaced.
+Also look for cracks in the toilet bowl or tank. A small crack can leak water and let smells escape. A cracked toilet needs to be replaced. If the toilet keeps refilling or hissing, that is a different problem. See [why a toilet keeps running](/why-is-my-toilet-running).
 
 ### 4. The sink overflow is dirty
 
@@ -121,7 +121,7 @@ Hair, soap, grease, and food can stick to the inside of drain pipes. This slimy 
 > [!TIP]
 > Avoid pouring grease or cooking oil down the kitchen sink. It hardens in the pipes and catches food, which leads to clogs and smells. Wipe greasy pans with a paper towel and throw it in the trash instead.
 
-If small flies are hanging around the drain too, they may be breeding in that slimy layer. Our guide on [getting rid of gnats and drain flies](/how-to-get-rid-of-gnats) shows how to clear them out.
+If small flies are hanging around the drain too, they may be breeding in that slimy layer. Our guide on [clearing out drain flies and gnats](/how-to-get-rid-of-gnats) shows how to clear them out.
 
 ### 6. The roof vent is blocked
 

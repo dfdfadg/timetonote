@@ -28,7 +28,7 @@ export default function DisclaimerPage() {
           professional.
         </li>
         <li>If you smell gas, see smoke, or suspect a serious hazard, leave the area and contact emergency services.</li>
-        <li>For health concerns — including reactions to dust, mould or chemicals — speak to a medical professional.</li>
+        <li>For health concerns, including reactions to dust, mold, or chemicals, speak to a medical professional.</li>
       </ul>
 
       <h2>Accuracy</h2>

@@ -12,7 +12,7 @@ import { SearchForm } from "@/components/ui/SearchForm";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 
 export const metadata: Metadata = pageMetadata({
-  title: `${siteConfig.name} — ${siteConfig.tagline}`,
+  title: `${siteConfig.name}: ${siteConfig.tagline}`,
   absoluteTitle: true,
   description: siteConfig.description,
   path: "/",
@@ -113,7 +113,7 @@ export default function HomePage() {
         </section>
       )}
 
-      {/* One section per editorial category — updates automatically as content is added. */}
+      {/* One section per editorial category; updates automatically as content is added. */}
       {editorialCategories.map((c) => {
         const items = getArticlesByCategory(c.slug).slice(0, 3).map(toSummary);
         if (!items.length) return null;
