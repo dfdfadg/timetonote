@@ -145,6 +145,9 @@ Right after a big update, your phone may feel warm for a day or two. It is busy 
 
 ### 9. The battery is old or damaged
 
+A worn battery can also make your phone shut off or restart on its own. Our guide on [why a phone keeps restarting](/why-does-my-phone-keep-restarting) covers that problem.
+
+
 Phone batteries wear out over time. An old battery can have trouble giving the phone steady power, which can make more heat. A damaged battery can get very hot, and it can swell up.
 
 **Signs of a worn-out battery:**

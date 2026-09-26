@@ -146,6 +146,8 @@ If you changed the password and forgot it, you may need to reset the router or l
 
 ## Wi-Fi not working on a smart TV, printer, or game console
 
+If your printer shows as offline, see our full guide on [getting an offline printer working again](/why-is-my-printer-offline).
+
 These devices can be trickier because they have fewer settings.
 
 1. **Restart the device.** Unplug it for 30 seconds, then plug it back in.

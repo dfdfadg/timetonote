@@ -171,7 +171,7 @@ Turn off the unit and unplug it. Clean or replace the filter. Clean the drip tra
 
 ### In clothes and towels
 
-Rewash them in hot water with a cup of white vinegar added to the rinse. Dry them fully right away. Never leave wet laundry sitting in the washer.
+Rewash them in hot water with a cup of white vinegar added to the rinse. If the washer itself smells, follow our steps for [cleaning a musty washing machine](/why-does-my-washing-machine-smell). Dry them fully right away. Never leave wet laundry sitting in the washer.
 
 ## How to keep the musty smell from coming back
 

@@ -171,6 +171,8 @@ Use a small amount of oil or a hair dryer. Rub gently in the direction of the wo
 3. Wash the item as usual.
 4. **Check the spot before drying.** Heat from the dryer can set the glue so it is harder to remove.
 
+Chewing gum works the same way; see our guide on [removing gum from clothing](/how-to-get-gum-out-of-clothes).
+
 ### Cars
 
 Car paint can scratch easily. Warm the sticker or residue with a hair dryer, peel slowly, and use an adhesive remover made for cars. Wash and wax the spot afterward.
