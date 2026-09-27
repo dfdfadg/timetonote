@@ -10,7 +10,7 @@ publishedAt: 2026-09-26
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-phone-keep-restarting.webp
-  alt: "Illustration of a smartphone with a circular restart arrow on the screen"
+  alt: "Hand holding a phone that shows a restarting screen with a circular arrow"
 tags: [phone, iphone, android, restarting, battery, troubleshooting]
 relatedArticles: [why-does-my-phone-get-hot, why-is-my-phone-storage-full]
 sources:

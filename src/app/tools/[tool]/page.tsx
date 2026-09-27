@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getCategory } from "@/data/categories";
@@ -24,7 +25,7 @@ export async function generateMetadata({ params }: PageProps<"/tools/[tool]">): 
   const { tool: slug } = await params;
   const tool = getTool(slug);
   if (!tool) return {};
-  return pageMetadata({ title: tool.title, description: tool.description, path: toolPath(tool.slug) });
+  return pageMetadata({ title: tool.title, description: tool.description, path: toolPath(tool.slug), image: tool.image });
 }
 
 export default async function ToolPage({ params }: PageProps<"/tools/[tool]">) {
@@ -57,6 +58,17 @@ export default async function ToolPage({ params }: PageProps<"/tools/[tool]">) {
         <section aria-label={tool.name} className="rounded-2xl border border-line bg-surface p-5 sm:p-7">
           <ToolUI />
         </section>
+
+        {tool.image && (
+          <Image
+            src={tool.image.src}
+            alt={tool.image.alt}
+            width={tool.image.width}
+            height={tool.image.height}
+            sizes="(min-width: 768px) 720px, 100vw"
+            className="mt-10 h-auto w-full rounded-2xl border border-line"
+          />
+        )}
 
         <section aria-labelledby="how-to-use" className="mt-12">
           <h2 id="how-to-use" className="font-serif text-2xl font-semibold tracking-tight text-ink">

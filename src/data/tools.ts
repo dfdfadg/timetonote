@@ -27,6 +27,8 @@ export interface Tool {
   relatedArticles?: string[];
   /** Optional extra content below the tool (Markdown). */
   about?: string;
+  /** Optional featured image shown below the tool. */
+  image?: { src: string; alt: string; width: number; height: number };
   keywords: string[];
   publishedAt: string;
   updatedAt: string;
@@ -63,6 +65,7 @@ export const tools: Tool[] = [
   },
   {
     slug: "percentage-calculator",
+    image: { src: "/images/tools/percentage-calculator.webp", alt: "Calculator showing 25 percent next to a notebook with worked percentage examples", width: 1536, height: 1024 },
     name: "Percentage Calculator",
     title: "Percentage Calculator: Percent Of, Change and Difference",
     description:
@@ -164,6 +167,7 @@ The countdown is a good reminder to plan early. Many people start holiday shoppi
   },
   {
     slug: "keyword-cannibalization-checker",
+    image: { src: "/images/tools/keyword-cannibalization-checker.webp", alt: "Laptop showing three pages competing for the same keyword, with a notebook of SEO checks", width: 1536, height: 1024 },
     name: "Keyword Cannibalization Checker",
     title: "Free Keyword Cannibalization Checker",
     description:

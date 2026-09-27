@@ -10,7 +10,7 @@ publishedAt: 2026-09-26
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-get-gum-out-of-clothes.webp
-  alt: "Illustration of a pair of jeans with pink gum and an ice cube next to it"
+  alt: "Hand pressing an ice cube on pink chewing gum stuck to blue jeans"
 tags: [laundry, stains, gum, clothes, cleaning]
 relatedArticles: [how-to-remove-sticker-residue, how-to-unshrink-clothes]
 sources:

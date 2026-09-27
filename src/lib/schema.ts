@@ -141,6 +141,7 @@ export function toolSchema(tool: Tool) {
     name: tool.name,
     description: tool.description,
     url: absoluteUrl(`/tools/${tool.slug}`),
+    ...(tool.image ? { image: absoluteUrl(tool.image.src) } : {}),
     applicationCategory: "UtilitiesApplication",
     operatingSystem: "Any (runs in the browser)",
     isAccessibleForFree: true,

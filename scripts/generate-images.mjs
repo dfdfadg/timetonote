@@ -264,12 +264,6 @@ const illustrations = {
     <path d="M1130 300 A120 120 0 0 1 1290 300 M1165 340 A60 60 0 0 1 1255 340" />
     <path d="M1150 420 L1270 540 M1270 420 L1150 540" stroke-width="14"/>
   `),
-  "why-does-my-phone-keep-restarting": frame("blue", () => `
-    <rect x="600" y="160" width="320" height="600" rx="52"/>
-    <path d="M720 210 H800"/>
-    <path d="M840 460 A80 80 0 1 1 800 390" stroke-width="16"/>
-    <path d="M790 350 L810 395 L760 405" stroke-width="16"/>
-  `),
   "why-does-my-washing-machine-smell": frame("emerald", (c) => `
     <rect x="520" y="180" width="440" height="560" rx="30"/>
     <path d="M520 290 H960"/>
@@ -278,19 +272,14 @@ const illustrations = {
     <rect x="560" y="220" width="120" height="40" rx="10"/>
     <path d="M1060 480 C1030 440 1090 410 1060 370 M1130 500 C1100 460 1160 430 1130 390 M1200 480 C1170 440 1230 410 1200 370" stroke-width="10" opacity="0.7"/>
   `),
-  "how-to-get-gum-out-of-clothes": frame("rose", (c) => `
-    <path d="M560 180 H900 L940 760 H770 L730 380 L690 760 H520 Z" fill="${c.bg}"/>
-    <path d="M560 180 H900" stroke-width="18"/>
-    <ellipse cx="810" cy="500" rx="60" ry="42" fill="${c.mid}"/>
-    <rect x="1060" y="400" width="160" height="160" rx="24" fill="#ffffff" opacity="0.6"/>
-    <path d="M1100 440 L1180 520" stroke-width="8" opacity="0.6"/>
-  `),
   "how-to-unshrink-clothes": frame("amber", (c) => `
     <path d="M420 330 L500 280 H580 C590 320 650 320 660 280 H740 L820 330 L790 400 L740 380 V560 H500 V380 L450 400 Z" fill="${c.mid}"/>
     <path d="M880 250 L990 190 H1080 C1090 240 1170 240 1180 190 H1270 L1380 250 L1340 340 L1270 310 V640 H990 V310 L920 340 Z"/>
     <path d="M820 470 H900 M880 450 L900 470 L880 490" stroke-width="10"/>
   `),
-  // The five 2026-09-27 guides use designed photos supplied by the editor.
+  // Designed photos supplied by the editor replace the illustrations for the
+  // five 2026-09-27 guides, how-to-get-gum-out-of-clothes and
+  // why-does-my-phone-keep-restarting.
 };
 
 
