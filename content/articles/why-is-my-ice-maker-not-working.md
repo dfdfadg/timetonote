@@ -10,7 +10,7 @@ publishedAt: 2026-09-27
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-ice-maker-not-working.webp
-  alt: "Illustration of a refrigerator ice maker tray with a water line and a snowflake"
+  alt: "Refrigerator ice maker with its ice bin open, next to a glass bowl of ice cubes"
 tags: [ice maker, refrigerator, appliances, kitchen]
 relatedArticles: [fridge-not-cooling-but-freezer-is, how-to-increase-water-pressure-in-house]
 sources:

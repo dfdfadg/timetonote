@@ -10,7 +10,7 @@ publishedAt: 2026-09-27
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-dryer-taking-so-long-to-dry.webp
-  alt: "Illustration of a clothes dryer with damp clothes and a clogged lint vent"
+  alt: "Open clothes dryer showing lint packed in the vent and blower, next to a laundry basket of towels"
 tags: [dryer, laundry, appliances, fire safety]
 relatedArticles: [why-does-my-washing-machine-smell, how-to-unshrink-clothes]
 sources:

@@ -10,7 +10,7 @@ publishedAt: 2026-09-27
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-laptop-fan-so-loud.webp
-  alt: "Illustration of a laptop with sound waves coming from its side vent"
+  alt: "Laptop on a desk with a close-up of a dusty cooling fan inside it"
 tags: [laptop, fan, overheating, windows, mac]
 relatedArticles: [why-is-my-laptop-so-slow, why-is-google-chrome-so-slow]
 sources:

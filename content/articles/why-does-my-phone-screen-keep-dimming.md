@@ -10,7 +10,7 @@ publishedAt: 2026-09-27
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-phone-screen-keep-dimming.webp
-  alt: "Illustration of a smartphone with a half-dark screen and a brightness slider"
+  alt: "Hand holding a phone with the brightness slider turned down on a dim screen"
 tags: [phone, iphone, android, screen, brightness, settings]
 relatedArticles: [why-does-my-phone-get-hot, why-does-my-phone-keep-restarting]
 sources:

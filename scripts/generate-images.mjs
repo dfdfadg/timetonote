@@ -290,47 +290,7 @@ const illustrations = {
     <path d="M880 250 L990 190 H1080 C1090 240 1170 240 1180 190 H1270 L1380 250 L1340 340 L1270 310 V640 H990 V310 L920 340 Z"/>
     <path d="M820 470 H900 M880 450 L900 470 L880 490" stroke-width="10"/>
   `),
-  "why-is-my-dryer-taking-so-long-to-dry": frame("amber", (c) => `
-    <rect x="520" y="170" width="440" height="580" rx="30"/>
-    <path d="M520 280 H960"/>
-    <circle cx="740" cy="510" r="150"/>
-    <path d="M650 470 C700 440 780 560 830 520" stroke-width="10" opacity="0.7"/>
-    <path d="M960 600 H1120 V520 H1260" />
-    <path d="M1180 480 C1200 450 1240 470 1230 500 M1240 560 C1260 530 1300 550 1290 580" stroke-width="8" opacity="0.6"/>
-    <rect x="570" y="210" width="90" height="40" rx="10" fill="${c.mid}"/>
-  `),
-  "garbage-disposal-humming-but-not-working": frame("emerald", (c) => `
-    <path d="M400 240 H1100 L1060 330 H440 Z" fill="${c.mid}"/>
-    <path d="M750 330 V400"/>
-    <rect x="620" y="400" width="260" height="280" rx="40"/>
-    <circle cx="750" cy="700" r="14" fill="${c.ink}"/>
-    <path d="M750 700 L860 780 L900 760" stroke-width="12"/>
-    <path d="M950 480 C980 460 1000 500 1030 480 C1060 460 1080 500 1110 480" stroke-width="8" opacity="0.7"/>
-  `),
-  "why-is-my-ice-maker-not-working": frame("blue", (c) => `
-    <rect x="460" y="300" width="560" height="200" rx="20"/>
-    ${[0,1,2,3].map(i => `<rect x="${500+i*125}" y="340" width="95" height="110" rx="14" fill="${c.mid}"/>`).join("")}
-    <path d="M1020 360 H1160 V240 H1280" />
-    <path d="M1120 560 L1240 680 M1240 560 L1120 680" stroke-width="12" opacity="0.8"/>
-    <path d="M700 580 L740 640 L780 580 M740 640 V720" stroke-width="10" opacity="0.7"/>
-  `),
-  "why-is-my-laptop-fan-so-loud": frame("violet", (c) => `
-    <rect x="440" y="230" width="560" height="360" rx="24"/>
-    <path d="M360 650 H1080 L1040 590 H400 Z" fill="${c.mid}"/>
-    <circle cx="720" cy="410" r="80"/>
-    <path d="M720 330 C760 380 760 440 720 490 M640 410 C690 370 750 370 800 410" stroke-width="8"/>
-    <path d="M1080 360 C1120 400 1120 460 1080 500 M1140 320 C1200 380 1200 480 1140 540 M1200 280 C1280 360 1280 500 1200 580" stroke-width="10" opacity="0.7"/>
-  `),
-  "why-does-my-phone-screen-keep-dimming": frame("blue", (c) => `
-    <rect x="600" y="160" width="320" height="600" rx="52"/>
-    <path d="M720 210 H800"/>
-    <rect x="630" y="240" width="260" height="460" rx="20" fill="${c.mid}"/>
-    <rect x="630" y="470" width="260" height="230" rx="20" fill="${c.ink}" opacity="0.35" stroke="none"/>
-    <circle cx="1120" cy="360" r="60"/>
-    <path d="M1120 260 V280 M1120 440 V460 M1020 360 H1040 M1200 360 H1220" stroke-width="10"/>
-    <path d="M1040 560 H1220" stroke-width="12"/>
-    <circle cx="1090" cy="560" r="18" fill="${c.ink}"/>
-  `),
+  // The five 2026-09-27 guides use designed photos supplied by the editor.
 };
 
 

@@ -10,7 +10,7 @@ publishedAt: 2026-09-27
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/garbage-disposal-humming-but-not-working.webp
-  alt: "Illustration of a kitchen sink with a garbage disposal unit and an Allen wrench below it"
+  alt: "Garbage disposal under a kitchen sink making a humming sound but not grinding, with food scraps in the drain"
 tags: [garbage disposal, kitchen, plumbing, drains]
 relatedArticles: [why-is-my-dishwasher-not-draining, why-does-my-house-smell-like-sewage]
 sources:
