@@ -7,12 +7,19 @@ category: home-problems
 description: "Freezer is cold but the fridge is warm? Learn the 8 most common causes, from blocked vents to frost on the coils, and simple fixes you can try today."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/fridge-not-cooling-but-freezer-is.webp
   alt: "Illustration of a refrigerator with a cold freezer section and a warm fridge section"
 tags: [refrigerator, appliances, kitchen, food safety]
 relatedArticles: [why-is-my-dishwasher-not-draining, why-is-my-microwave-not-heating]
+sources:
+  - title: "FDA: Refrigerator Thermometers, Cold Facts about Food Safety"
+    url: "https://www.fda.gov/food/buy-store-serve-safe-food/refrigerator-thermometers-cold-facts-about-food-safety"
+  - title: "USDA FSIS: Refrigeration and Food Safety"
+    url: "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/refrigeration"
+  - title: "FoodSafety.gov: Food Safety During Power Outage"
+    url: "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
 faq:
   - question: "Why is my freezer cold but my fridge warm?"
     answer: "In most fridges, cold air is made in the freezer and blown into the fridge by a fan through small vents. If the vents are blocked, the fan stops working, or frost builds up on the cooling coils, the freezer stays cold but the fridge gets warm."
@@ -139,7 +146,7 @@ Adding a lot of warm groceries, leaving the door open, or opening it often on a 
 
 **Fix:** Give it a few hours to catch up. Let hot leftovers cool a little before putting them in, and try not to open the door too often.
 
-## Quick reference table
+## Symptoms and fixes at a glance
 
 | What you notice | Most likely cause | Try this first |
 | --- | --- | --- |
@@ -197,6 +204,6 @@ Call a technician if:
 
 Have your fridge's **model number** ready. It is usually on a sticker inside the fridge, on the side wall or under the crisper drawers.
 
-## The bottom line
+## What to do first
 
 When the freezer is cold but the fridge is warm, cold air is not getting from the freezer to the fridge. First, keep your food safe and check the temperature. Then move food away from the vents, check the settings, and clean the condenser coils. If you see frost on the back wall of the freezer, do a manual defrost. If the problem comes back, the evaporator fan, damper, or defrost system likely needs repair.

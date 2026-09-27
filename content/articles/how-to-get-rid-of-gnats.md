@@ -7,13 +7,18 @@ category: everyday-solutions
 description: "Gnats in your house? Find out which kind you have, trap the adults, and kill the eggs in plant soil and drains with simple, safe methods that really work."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-get-rid-of-gnats.webp
   alt: "Illustration of a potted plant with small gnats flying above it and a yellow sticky trap"
 tags: [gnats, fungus gnats, pests, houseplants, fruit flies]
 relatedArticles: [how-to-get-rid-of-fruit-flies, why-does-my-house-smell-like-sewage]
 popular: 7
+sources:
+  - title: "UC Statewide IPM Program: Fungus Gnats"
+    url: "https://ipm.ucanr.edu/PMG/PESTNOTES/pn7448.html"
+  - title: "University of Minnesota Extension: Fruit flies"
+    url: "https://apps.extension.umn.edu/garden/diagnose/insect/indoor/flies/small/fruit-flies.html"
 faq:
   - question: "What kills gnats instantly?"
     answer: "A spray bottle of water with a few drops of dish soap kills adult gnats on contact. A vinegar and dish soap trap also catches them fast. But these only kill the adults. To stop gnats for good, you also need to remove the place where they lay eggs, like wet plant soil, a dirty drain, or old fruit."
@@ -215,6 +220,6 @@ Most gnat problems can be solved at home. Consider calling a professional if:
 - You think they are breeding inside a wall, under the floor, or in a hidden leak
 - The bugs bite, which means they may not be gnats at all
 
-## The bottom line
+## What to remember
 
 To get rid of gnats, you need to trap the adults and remove the place where they breed. For fungus gnats, let the plant soil dry out and use yellow sticky traps. For fruit flies, clear out old fruit and trash and set a vinegar trap. For drain flies, scrub the drain until the slime is gone. Keep at it for a few weeks, and your home will be gnat-free.

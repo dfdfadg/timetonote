@@ -7,12 +7,17 @@ category: tech-problems
 description: "Laptop running slow? Find out why, from too many startup apps to a full hard drive, and follow these simple steps to make Windows or Mac laptops fast again."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-laptop-so-slow.webp
   alt: "Illustration of a laptop with a loading circle on the screen and a slow snail beside it"
 tags: [laptop, computer, windows, mac, speed, troubleshooting]
 relatedArticles: [why-is-my-internet-so-slow, why-does-my-phone-get-hot]
+sources:
+  - title: "Microsoft Support: Tips to improve PC performance in Windows"
+    url: "https://support.microsoft.com/en-us/windows/experience/performance-optimization/tips-to-improve-pc-performance-in-windows"
+  - title: "Microsoft Support: Power settings in Windows 11"
+    url: "https://support.microsoft.com/en-us/windows/experience/power-battery/power-settings-in-windows-11"
 faq:
   - question: "Why is my laptop so slow all of a sudden?"
     answer: "A laptop that gets slow suddenly is often installing updates, running a virus scan, or syncing files in the background. It can also be caused by a new program that starts on its own, a full hard drive, overheating, or malware. Restart it first, then check Task Manager on Windows or Activity Monitor on a Mac to see what is using the most power."
@@ -218,6 +223,6 @@ Take your laptop to a repair shop or contact the maker if:
 
 **Back up your files** before any repair, in case something goes wrong.
 
-## The bottom line
+## The short version
 
 Most slow laptops can be fixed at home. Start with a restart. Then close extra programs and tabs, turn off startup apps, free up storage space, and install updates. Keep your laptop cool and check for viruses. If your laptop is old and still slow after all of that, an SSD upgrade or a new laptop may be the best fix.

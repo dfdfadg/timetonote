@@ -7,12 +7,17 @@ category: home-problems
 description: "A sewage smell in your house usually comes from a dry drain trap, a bad toilet seal, or a blocked vent. Find the cause fast and fix it with these simple steps."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-house-smell-like-sewage.webp
   alt: "Illustration of a sink drain with a U-shaped pipe and smell lines rising from it"
 tags: [smells, plumbing, drains, sewer gas]
 relatedArticles: [why-does-my-room-smell-musty, why-is-my-toilet-running, how-to-get-rid-of-gnats]
+sources:
+  - title: "OSHA: Hydrogen Sulfide Hazards"
+    url: "https://www.osha.gov/hydrogen-sulfide/hazards"
+  - title: "Minnesota Department of Health: Hydrogen Sulfide and Sulfur Bacteria in Well Water"
+    url: "https://www.health.state.mn.us/communities/environment/water/wells/waterquality/hydrosulfide.html"
 faq:
   - question: "Is it dangerous to smell sewage in my house?"
     answer: "A faint smell for a short time is usually not dangerous, but you should not ignore it. Sewer gas can cause headaches, nausea, and dizziness. If the smell is strong, open windows, leave the house, and call a plumber. If it smells like rotten eggs near a gas stove or furnace, leave right away and call your gas company."
@@ -231,6 +236,6 @@ You can fix many sewer smells on your own. But call a licensed plumber if:
 
 A plumber can do a **smoke test**. They blow harmless smoke into the pipes and watch where it comes out. This finds hidden cracks and leaks quickly.
 
-## The bottom line
+## Quick summary
 
 Most sewage smells in a house come from a dry drain trap, and you can fix that in seconds by running water. If that does not work, check the toilet seal, clean the sink overflow, and clear slimy drains. When the smell is strong, keeps coming back, or comes with gurgling drains, call a plumber. And if it ever smells like rotten eggs near a gas appliance, get out and call your gas company right away.

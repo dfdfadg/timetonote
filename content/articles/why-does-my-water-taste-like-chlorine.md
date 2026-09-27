@@ -7,12 +7,17 @@ category: home-problems
 description: "Tap water tasting or smelling like chlorine or bleach? Learn why it happens, whether it is safe, and simple ways to get rid of the taste at home."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-water-taste-like-chlorine.webp
   alt: "Illustration of a glass of tap water next to a water pitcher with a filter"
 tags: [water, chlorine, drinking water, water filter]
 relatedArticles: [why-does-my-water-smell-like-rotten-eggs, how-to-increase-water-pressure-in-house]
+sources:
+  - title: "CDC: About Water Disinfection with Chlorine and Chloramine"
+    url: "https://www.cdc.gov/drinking-water/about/about-water-disinfection-with-chlorine-and-chloramine.html"
+  - title: "CDC: How Water Treatment Works"
+    url: "https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html"
 faq:
   - question: "Is it safe to drink water that tastes like chlorine?"
     answer: "Yes, in most cases. Water utilities add small amounts of chlorine or chloramine to kill germs. The EPA limits these disinfectants in drinking water to a level that is considered safe. The taste may be strong, but the water is usually safe to drink."
@@ -188,6 +193,6 @@ Call your water company if:
 
 Utilities want to know about taste and smell problems, and many will check your water at no cost.
 
-## The bottom line
+## Key takeaways
 
 Water tastes like chlorine because utilities add disinfectants to keep it safe from germs. It is usually safe to drink. To improve the taste, chill your water, let it sit in an open pitcher if your city uses chlorine, or use a carbon filter that is certified to remove chlorine or chloramine. If the smell is suddenly very strong or the water looks unusual, call your water utility.

@@ -7,13 +7,20 @@ category: tech-problems
 description: "iPhone won't charge, charges slowly, or stops at 80%? Try these 12 fixes in order, from checking the cable and cleaning the port to battery health."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/iphone-not-charging.webp
   alt: "Illustration of a smartphone with a charging cable and a lightning bolt symbol"
 tags: [iphone, charging, battery, troubleshooting]
 relatedArticles: [why-does-my-phone-get-hot, why-is-my-wifi-not-working]
 popular: 2
+sources:
+  - title: "Apple Support: If you see a liquid-detection alert on your iPhone"
+    url: "https://support.apple.com/en-us/102643"
+  - title: "Apple Support: If your iPhone or iPad gets too hot or too cold"
+    url: "https://support.apple.com/en-us/118431"
+  - title: "Apple Support: Force restart iPhone"
+    url: "https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios"
 faq:
   - question: "Why does my iPhone stop charging at 80%?"
     answer: "This is usually on purpose. Optimized Battery Charging learns your daily routine and waits at 80% to help your battery last longer. Newer iPhones also have an 80% charging limit you can turn on. Your iPhone can also pause charging if it gets too warm. Check Settings, then Battery, then Charging (called Battery Health & Charging on some iOS versions)."
@@ -170,7 +177,7 @@ A good charger makes a big difference in how fast and safely your iPhone charges
 - **USB-C iPhones** (iPhone 15 and newer) use a USB-C to USB-C cable.
 - **Avoid very cheap chargers** from unknown brands. They may charge slowly, get hot, or damage your phone.
 
-## Quick reference table
+## Quick guide: what you see and what to do
 
 | What you see | Most likely cause | Try this first |
 | --- | --- | --- |
@@ -191,6 +198,6 @@ A good charger makes a big difference in how fast and safely your iPhone charges
 - **Keep iOS updated.**
 - **Leave Optimized Battery Charging on** to help the battery last longer.
 
-## The bottom line
+## Still not charging?
 
 Most iPhone charging problems come from a bad cable or charger, lint in the port, heat, or a charging setting. Try a different cable and charger first, then clean the port gently with a wooden toothpick and restart your phone. If it stops at 80%, check your battery settings. If nothing works, have Apple check the port and battery.

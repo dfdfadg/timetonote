@@ -7,13 +7,18 @@ category: internet-apps
 description: "Wi-Fi down on one device or all of them? Use this simple checklist to find out if the problem is your device, your router, or your internet provider."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-wifi-not-working.webp
   alt: "Illustration of a Wi-Fi router with signal waves and an alert symbol"
 tags: [wifi, internet, router, troubleshooting]
 relatedArticles: [why-is-my-internet-so-slow, iphone-not-charging]
 popular: 5
+sources:
+  - title: "Microsoft Support: Fix Wi-Fi connection issues in Windows"
+    url: "https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c"
+  - title: "FCC: Household Broadband Guide"
+    url: "https://www.fcc.gov/consumers/guides/household-broadband-guide"
 faq:
   - question: "What does 'connected, no internet' mean?"
     answer: "It means your device is connected to your router, but the router cannot reach the internet. The problem is usually the router, the modem, or your internet provider, not your device. Restart the modem and router, check the cables, and check your provider's outage page."
@@ -169,7 +174,7 @@ Sometimes Wi-Fi connects but works badly. Here is what helps:
 
 If you are connected but pages still load slowly, our guide on [how to speed up slow internet](/why-is-my-internet-so-slow) goes deeper into speed tests, router placement, and more.
 
-## Quick reference table
+## Problem and fix table
 
 | What you see | Likely cause | Try this |
 | --- | --- | --- |
@@ -201,6 +206,6 @@ Call your provider if:
 
 Tell them what you already tried. They can test your line from their end and send a new modem, router, or technician if needed.
 
-## The bottom line
+## Quick recap
 
 When your Wi-Fi is not working, first check if the problem is one device or all of them. If it is all of them, check for an outage and restart your modem and router. If it is one device, turn Wi-Fi off and on, restart the device, and forget and rejoin the network. Most Wi-Fi problems are fixed with these simple steps. If not, your internet provider can help.

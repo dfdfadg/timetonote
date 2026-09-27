@@ -7,7 +7,7 @@ import { StaticPage } from "@/components/layout/StaticPage";
 export const metadata: Metadata = pageMetadata({
   title: "Contact TimeToNote",
   absoluteTitle: true,
-  description: "How to contact the TimeToNote editorial team with corrections, questions or topic suggestions.",
+  description: "How to contact TimeToNote with corrections, questions or topic suggestions.",
   path: "/contact",
 });
 
@@ -16,7 +16,7 @@ export default function ContactPage() {
     <StaticPage
       title="Contact us"
       path="/contact"
-      intro="We read every message. The fastest way to reach the editorial team is by email."
+      intro="We read every message. The fastest way to reach us is by email."
     >
       <p className="rounded-2xl border border-line bg-surface p-6 text-center">
         <span className="block text-sm text-muted">Email</span>

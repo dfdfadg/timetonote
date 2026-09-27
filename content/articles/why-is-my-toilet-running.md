@@ -7,12 +7,17 @@ category: home-problems
 description: "A running toilet can waste up to 200 gallons of water a day. Find the cause in minutes and fix it yourself, usually with a cheap flapper or a quick adjustment."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-toilet-running.webp
   alt: "Illustration of a toilet tank with water drops and a wrench"
 tags: [toilet, plumbing, water leak, bathroom]
 relatedArticles: [why-does-my-house-smell-like-sewage, why-does-my-room-smell-musty]
+sources:
+  - title: "US EPA WaterSense: Fix a Leak Week"
+    url: "https://www.epa.gov/watersense/fix-leak-week"
+  - title: "Kohler: Toilet constantly leaking or running"
+    url: "https://assist.kohler.com/en/toilets-and-seats/Toilet-Constantly-Leaking-or-Running"
 faq:
   - question: "Is a running toilet an emergency?"
     answer: "No, it is not usually an emergency, but you should fix it soon. A running toilet can waste up to 200 gallons of water a day and raise your water bill. If the toilet is overflowing onto the floor, turn off the water valve behind the toilet right away."
@@ -55,7 +60,7 @@ Look inside the tank while the toilet is running.
 This simple test tells you if the flapper is leaking.
 
 1. Put 5 to 10 drops of food coloring into the tank water.
-2. Do not flush. Wait 15 to 30 minutes.
+2. Do not flush. Wait at least 10 minutes (the EPA suggests checking after about 10 minutes; waiting a little longer can catch very slow leaks).
 3. Look in the bowl.
 
 If you see colored water in the bowl, the flapper is leaking. Flush afterward so the color does not stain the bowl.
@@ -127,7 +132,7 @@ If the flush handle sticks in the down position, the flapper stays open and wate
 
 **How to fix it:** Check that the handle moves freely. Tighten the nut inside the tank that holds the handle. Note that this nut usually turns the opposite way from normal nuts. If the handle is loose or broken, replace it.
 
-## Quick reference table
+## Quick guide: what you see and what to do
 
 | What you notice | Most likely cause | Fix |
 | --- | --- | --- |
@@ -191,6 +196,6 @@ You can fix most running toilets yourself. Call a plumber if:
 - The water shut-off valve behind the toilet will not turn or is leaking
 - You do not feel comfortable taking apart the tank parts
 
-## The bottom line
+## Recap
 
 Most running toilets are caused by a worn flapper, a chain that is the wrong length, or a float set too high. Use the food coloring test to find a leaking flapper, and check if water is spilling into the overflow tube. A new flapper costs just a few dollars and takes about 15 minutes to install. Fixing it quickly can save you hundreds of gallons of water every day.

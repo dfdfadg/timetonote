@@ -7,12 +7,15 @@ category: everyday-solutions
 description: "Shrunk a shirt or sweater in the wash? Learn how to unshrink clothes with hair conditioner and warm water, which fabrics you can save, and how to stop shrinking."
 author: agha-ali-abbas
 publishedAt: 2026-09-26
-updatedAt: 2026-09-26
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-unshrink-clothes.webp
   alt: "Illustration of a small shrunken shirt next to a larger shirt and a bowl of water"
 tags: [laundry, clothes, shrinking, fabric care]
 relatedArticles: [how-to-get-gum-out-of-clothes, why-does-my-washing-machine-smell]
+sources:
+  - title: "Swinburne University: Why some clothes shrink in the wash, and how to unshrink them"
+    url: "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/"
 faq:
   - question: "Can you really unshrink clothes?"
     answer: "Often, yes, at least partly. Clothes made from natural fibers, like cotton, wool, and cashmere, can usually be stretched back some of the way after soaking in lukewarm water with hair conditioner or baby shampoo. Badly shrunk items, and wool that has turned thick and felted, may not return to their full size."
@@ -200,6 +203,6 @@ Take the item to a professional cleaner or tailor if:
 
 A tailor may be able to add fabric panels or let out seams to make it fit again.
 
-## The bottom line
+## Summary
 
 To unshrink clothes, soak them in lukewarm water with hair conditioner or baby shampoo for about 30 minutes, press out the water with a towel, and gently stretch the item back into shape. Hold it in place and let it air dry flat. This works best for cotton, wool, and cashmere that shrank a little. To avoid the problem next time, wash in cold water and air dry clothes that shrink easily.

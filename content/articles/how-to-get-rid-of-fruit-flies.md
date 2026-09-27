@@ -7,13 +7,18 @@ category: everyday-solutions
 description: "Get rid of fruit flies for good: find where they breed, set easy DIY traps, and break their life cycle in about two weeks. Simple steps anyone can follow."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-get-rid-of-fruit-flies.webp
   alt: "Illustration of a fruit bowl next to a jar trap with small flies"
 tags: [fruit flies, pests, kitchen, cleaning]
 relatedArticles: [how-to-get-rid-of-gnats, how-to-clean-a-dusty-house]
 popular: 6
+sources:
+  - title: "University of Minnesota Extension: Fruit flies"
+    url: "https://apps.extension.umn.edu/garden/diagnose/insect/indoor/flies/small/fruit-flies.html"
+  - title: "UC Statewide IPM Program: Fungus Gnats"
+    url: "https://ipm.ucanr.edu/PMG/PESTNOTES/pn7448.html"
 faq:
   - question: "Where do fruit flies come from?"
     answer: "Fruit flies come in from outside when they smell ripe or rotting food. Their eggs can also come home on fruit and vegetables from the store. Once inside, they lay eggs in anything wet and sweet, like old fruit, trash, drains, and spills."
@@ -190,6 +195,6 @@ Most fruit fly problems can be solved at home. Call a pest control company if:
 - You run a business kitchen or food shop
 - You think the flies are breeding in a hidden spot, like under a floor or behind a wall
 
-## The bottom line
+## The two-part plan in short
 
 To get rid of fruit flies, remove what they breed in and trap the adults at the same time. Throw out old fruit, take out the trash, rinse your recycling, and clean your drains. Set an apple cider vinegar trap with a few drops of dish soap. Keep going for about two weeks, and keep ripe fruit in the fridge so they do not come back.

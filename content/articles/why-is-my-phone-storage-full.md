@@ -7,12 +7,17 @@ category: tech-problems
 description: "Phone storage full? See what is using up your space and free it up fast on iPhone or Android, without losing your photos, messages, or favorite apps."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-phone-storage-full.webp
   alt: "Illustration of a smartphone with a full storage bar and photo icons"
 tags: [phone, storage, iphone, android, photos, apps]
 relatedArticles: [why-does-my-phone-get-hot, iphone-not-charging]
+sources:
+  - title: "Apple Support: How to check the storage on your iPhone and iPad"
+    url: "https://support.apple.com/en-us/108429"
+  - title: "Samsung: Free up storage space on your Samsung phone or tablet"
+    url: "https://www.samsung.com/us/support/answer/ANS10002029/"
 faq:
   - question: "Why is my phone storage full when I deleted everything?"
     answer: "Deleted photos and videos often go to a Recently Deleted or Trash folder first, and they still take up space for up to 30 days. Your phone also keeps app data, message attachments, and system files. Empty the Recently Deleted folder in your Photos app and check your storage settings to see what is left."
@@ -224,6 +229,6 @@ If you have cleaned up everything and your phone is still full, you might need m
 - **Move photos to a computer** or external drive.
 - **Get a phone with more storage** next time. For most people today, 128 GB is the minimum, and 256 GB is better if you take a lot of photos and videos.
 
-## The bottom line
+## Quick summary
 
 Your phone storage is usually full because of photos, videos, apps, and message attachments. First, check your storage settings to see what is using the most space. Then back up your photos to the cloud, empty the Recently Deleted folder, offload apps you do not use, and clean up messages and downloads. Check your storage once a month, and you will not see that "Storage Full" message again.

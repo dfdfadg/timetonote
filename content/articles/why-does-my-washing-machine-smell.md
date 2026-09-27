@@ -7,12 +7,17 @@ category: home-problems
 description: "Musty or rotten egg smell from your washer? Learn what causes it and how to clean your washing machine step by step, so your laundry smells fresh again."
 author: agha-ali-abbas
 publishedAt: 2026-09-26
-updatedAt: 2026-09-26
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-washing-machine-smell.webp
   alt: "Illustration of a front-load washing machine with smell lines coming from the door"
 tags: [washing machine, laundry, smells, cleaning, mold]
 relatedArticles: [why-does-my-room-smell-musty, why-does-my-house-smell-like-sewage, why-is-my-dishwasher-not-draining]
+sources:
+  - title: "GE Appliances: Why does my washing machine smell?"
+    url: "https://repair.geappliances.com/resources/faq/article/why-does-my-washing-machine-smell"
+  - title: "Whirlpool: Why does my washing machine smell like mildew?"
+    url: "https://www.whirlpool.com/blog/washers-and-dryers/washer-smells-like-mildew.html"
 faq:
   - question: "Why does my washing machine smell like mildew?"
     answer: "A mildew smell comes from mold and bacteria growing in damp spots, like the rubber door seal, the detergent drawer, and the drain filter. It happens most when the door stays closed after washing, wet clothes are left inside, or too much detergent builds up."
@@ -177,7 +182,7 @@ If your clothes come out smelling musty or sour:
 
 Either way, keeping the machine dry between washes is the most important habit.
 
-## Quick reference table
+## Match your symptom to the fix
 
 | Smell | Most likely cause | Fix |
 | --- | --- | --- |
@@ -186,10 +191,6 @@ Either way, keeping the machine dry between washes is the most important habit.
 | Rotten eggs or sewer | Dry trap or clogged drain | Run a rinse cycle; check the standpipe; call a plumber |
 | Swampy, dirty water | Clogged drain pump filter | Clean the filter |
 | Burning | Motor, belt, or electrical problem | Stop using it and call a technician |
-
-## Does the laundry room matter?
-
-Yes. A damp, closed-up laundry room makes the washer stay wet longer. Run an exhaust fan or open a window while you do laundry, and make sure your dryer vents to the outside. Keep the area around the washer clean and dry, and wipe up any spills or drips right away.
 
 ## When to call a technician or plumber
 
@@ -201,6 +202,6 @@ Call a professional if:
 - You think the drain pipe or trap is the problem
 - There is mold you cannot reach inside the machine
 
-## The bottom line
+## In short
 
 A smelly washing machine is usually caused by mold and bacteria in damp spots, fed by leftover detergent and softener. Clean the door seal, detergent drawer, and drain filter, then run a hot cleaning cycle. After each wash, leave the door open and take out wet clothes right away. If the smell is like rotten eggs or sewer gas, check the drain. With a little care each month, your washer and your laundry will stay fresh.

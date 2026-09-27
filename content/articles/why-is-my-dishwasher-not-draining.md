@@ -7,12 +7,17 @@ category: home-problems
 description: "Water sitting in the bottom of your dishwasher? Learn why it will not drain and how to fix it yourself, from cleaning the filter to checking the drain hose."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-dishwasher-not-draining.webp
   alt: "Illustration of an open dishwasher with standing water and a filter"
 tags: [dishwasher, appliances, kitchen, drains, plumbing]
 relatedArticles: [fridge-not-cooling-but-freezer-is, why-does-my-house-smell-like-sewage]
+sources:
+  - title: "Bosch: Dishwasher not draining"
+    url: "https://www.bosch-home.com/us/owner-support/get-support/support-selfhelp-dishwasher-not-drain"
+  - title: "Whirlpool: How to unclog a dishwasher drain"
+    url: "https://www.whirlpool.com/blog/kitchen/how-to-fix-a-clogged-dishwasher.html"
 faq:
   - question: "Is it normal to have a little water in the bottom of the dishwasher?"
     answer: "Yes. A small amount of clear water, often less than a cup, around the filter area is normal in many dishwashers. It keeps the seals moist. If there is more than an inch of water, or the water is dirty and smelly, the dishwasher is not draining properly."
@@ -149,7 +154,7 @@ Sometimes the dishwasher's control board or a sensor fails, and it never tells t
 
 **Fix:** Look up the error code in your manual or on the maker's website. Try resetting the dishwasher by turning off the power at the breaker for 5 minutes. If the problem continues, call a repair technician.
 
-## Quick reference table
+## Symptoms and fixes at a glance
 
 | What you notice | Most likely cause | Try this first |
 | --- | --- | --- |
@@ -187,6 +192,6 @@ Call a technician if:
 
 Have the **model number** ready. It is usually on a sticker on the edge of the door or the side of the tub.
 
-## The bottom line
+## Quick summary
 
 When your dishwasher will not drain, start with the easy fixes. Run a cancel or drain cycle, then clean the filter at the bottom of the tub. Run the garbage disposal, clear the sink drain, and check that the drain hose is not kinked. If you just installed a new disposal, knock out the plug. If it still will not drain, the pump or control board may need a repair technician.

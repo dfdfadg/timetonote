@@ -7,12 +7,17 @@ category: home-problems
 description: "Microwave running but food stays cold? Learn the common causes, the safe fixes you can try yourself, and when it is time to repair or replace it."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-microwave-not-heating.webp
   alt: "Illustration of a microwave with a cold plate of food and a snowflake symbol"
 tags: [microwave, appliances, kitchen, safety]
 relatedArticles: [fridge-not-cooling-but-freezer-is, why-is-my-dishwasher-not-draining]
+sources:
+  - title: "FDA: Microwave Ovens"
+    url: "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens"
+  - title: "Whirlpool: Microwave not heating, possible causes and fixes"
+    url: "https://www.whirlpool.com/blog/kitchen/microwave-not-heating.html"
 faq:
   - question: "Why does my microwave run but not heat?"
     answer: "When a microwave lights up, spins, and makes noise but does not heat, the problem is usually a bad door switch or a failed part in the high-voltage system, such as the magnetron, diode, or capacitor. These parts are dangerous to work on and should be checked by a trained technician."
@@ -115,7 +120,7 @@ A fuse inside the microwave protects it from power surges. If it blows, the micr
 
 The control board is the microwave's brain. If it fails, the microwave may not send power to the heating parts, even though the display and buttons work.
 
-## Quick reference table
+## Cheat sheet
 
 | What you notice | Likely cause | What to do |
 | --- | --- | --- |
@@ -154,15 +159,6 @@ Here is a simple way to decide:
 - **Type:** **Over-the-range** and **built-in** microwaves cost more to replace and install, so repairing them is more often worth it.
 - **Safety:** If the door is damaged, the microwave sparks often, or you smell burning, it is safer to replace it.
 
-## Tips for heating food more evenly
-
-Even a working microwave can leave cold spots. These tips help:
-
-- Spread food in an even layer, with thicker parts toward the outside of the plate.
-- Stir or flip food halfway through.
-- Cover food loosely to trap steam.
-- Let food stand for a minute after heating, so the heat spreads.
-
 ## How to make your microwave last longer
 
 - **Never run it empty.** Running a microwave with nothing inside can damage the magnetron.
@@ -197,6 +193,6 @@ Call an appliance repair technician if:
 
 Have your **model number** ready. It is usually on a sticker inside the door frame or on the back of the microwave.
 
-## The bottom line
+## Key points
 
 When your microwave runs but does not heat, start with the safe checks. Test it with a cup of water, set the power level to high, turn off demo mode and child lock, make sure the door closes fully, and check the outlet and breaker. If it still will not heat, a part like the door switch or magnetron has likely failed. Never open the case yourself. Call a technician, or replace the microwave if it is old or the repair costs too much.

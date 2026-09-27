@@ -7,12 +7,17 @@ category: everyday-solutions
 description: "Get sticky label glue off glass, plastic, wood, metal, clothes, and cars with things you already have at home, like oil, rubbing alcohol, and warm soapy water."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-remove-sticker-residue.webp
   alt: "Illustration of a jar with a half-peeled label and a cloth next to it"
 tags: [cleaning, stickers, stains, household tips]
 relatedArticles: [how-to-clean-a-dusty-house, how-to-get-rid-of-fruit-flies]
+sources:
+  - title: "The Kitchn: The easiest way to remove sticker residue (tested)"
+    url: "https://www.thekitchn.com/best-way-remove-sticky-stickers-23201250"
+  - title: "Samsung: Recommended way to remove sticker residue from a refrigerator"
+    url: "https://ushl.samsung.com/nz/support/home-appliances/recommended-way-to-remove-sticker-residue-from-a-refrigerator"
 faq:
   - question: "What is the best thing to remove sticker residue?"
     answer: "For most surfaces, cooking oil or rubbing alcohol works best. Oil softens the glue so you can wipe it away, and rubbing alcohol breaks it down. Always wash the area with warm, soapy water afterward to remove any oily film."
@@ -227,10 +232,6 @@ A little care up front means less cleaning later:
 - **Soak glass jars** in warm soapy water before peeling.
 - **For new items**, peel stickers soon after you buy them. Glue gets harder to remove over time, especially in the sun.
 
-## Get the most out of your cleaning time
-
-If you are cleaning labels off jars to reuse them, it is a good time to tidy up your kitchen too. Clean kitchens and dry counters also help keep pests away. Our guide on [getting rid of fruit flies](/how-to-get-rid-of-fruit-flies) explains how sticky spills and old food attract them. For a simple top-to-bottom cleaning plan, see [how to clean a dusty house step by step](/how-to-clean-a-dusty-house).
-
-## The bottom line
+## In a nutshell
 
 To remove sticker residue, soften the glue first and then wipe it away. Warm soapy water, cooking oil, rubbing alcohol, and a hair dryer work on most surfaces. Use a plastic card instead of a metal blade, test on a hidden spot first, and wash the area with soap and water when you are done. With the right method, sticky residue comes off in just a few minutes.

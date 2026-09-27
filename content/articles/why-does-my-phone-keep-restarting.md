@@ -7,12 +7,17 @@ category: tech-problems
 description: "iPhone or Android restarting on its own? Find out why, from buggy apps to a worn battery, and follow these simple steps to stop the restart loop."
 author: agha-ali-abbas
 publishedAt: 2026-09-26
-updatedAt: 2026-09-26
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-phone-keep-restarting.webp
   alt: "Illustration of a smartphone with a circular restart arrow on the screen"
 tags: [phone, iphone, android, restarting, battery, troubleshooting]
 relatedArticles: [why-does-my-phone-get-hot, why-is-my-phone-storage-full]
+sources:
+  - title: "Apple Support: Force restart iPhone"
+    url: "https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios"
+  - title: "Samsung: What to do if your Samsung phone keeps restarting"
+    url: "https://www.samsung.com/latin_en/support/mobile-devices/what-to-do-if-your-samsung-phone-keeps-restarting/"
 faq:
   - question: "Why does my phone restart by itself at night?"
     answer: "Some phones are set to restart on their own to stay fast. Many Samsung phones have an Auto restart or Auto optimization setting that restarts the phone at a set time, often overnight. Phones also restart after installing an update. If it happens only at night, check for these settings before you worry."
@@ -165,13 +170,6 @@ A **factory reset** erases everything and puts the phone back the way it came fr
 - **Try the other fixes first.** A reset should be one of the last steps.
 - **If the phone still restarts after a reset**, the problem is almost certainly hardware.
 
-## iPhone vs. Android: what is different?
-
-Most causes are the same on both, but a few tips are specific:
-
-- **iPhone:** There is no Safe Mode, so finding a bad app takes more trial and error. Battery Health is easy to check in Settings. Apple can read crash logs if you contact support.
-- **Android:** Safe Mode makes it easy to test apps. Some brands, like Samsung, have built-in auto restart settings that can look like a problem but are normal. Battery and device care tools can also show which apps crash most.
-
 ## How to keep your phone from restarting
 
 - **Keep software and apps updated.**
@@ -192,6 +190,6 @@ Contact the phone maker or a trusted repair shop if:
 - The restarts started after a drop or water damage
 - It restarts even in Safe Mode (Android) or after a factory reset
 
-## The bottom line
+## Recap
 
 A phone that keeps restarting usually has a software bug, a bad app, a worn battery, overheating, or full storage. Start by updating your software and apps, freeing up storage, and removing the case. On Android, use Safe Mode to find a bad app. Check your battery health, and keep the phone cool. If the restarts continue after a reset of settings, or the phone is stuck in a loop, get it checked by the maker or a repair shop.

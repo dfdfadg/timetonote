@@ -7,7 +7,7 @@ category: tools
 description: "Learn the easy percentage change formula with simple worked examples for prices, sales, and test scores, plus the common mistakes that give wrong answers."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-calculate-percentage-change.webp
   alt: "Illustration of a percent sign next to a rising bar chart"
@@ -193,7 +193,7 @@ Something costs $115 after a 15% price increase. What was the original price?
 - 1 + 0.15 = 1.15
 - 115 ÷ 1.15 = **$100**
 
-## Quick reference table
+## Cheat sheet
 
 | What you want to know | Formula |
 | --- | --- |
@@ -290,6 +290,6 @@ You can check your answers with our [free percentage change calculator](/tools/p
 - **Business:** How much did sales grow this month?
 - **Health:** How much weight did you lose or gain?
 
-## The bottom line
+## Summary
 
 To find percentage change, subtract the old value from the new value, divide by the old value, and multiply by 100. A positive answer is an increase, and a negative answer is a decrease. Always divide by the old value, and remember that percentages do not cancel out. For quick answers without the math, try the [TimeToNote percentage change calculator](/tools/percentage-calculator), which shows the formula next to every result.

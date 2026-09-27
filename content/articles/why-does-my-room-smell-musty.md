@@ -7,13 +7,18 @@ category: home-problems
 description: "A musty smell almost always means damp air and mold or mildew nearby. Learn how to find the source, remove the smell, and stop it from coming back."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-room-smell-musty.webp
   alt: "Illustration of a window with damp spots next to a dehumidifier"
 tags: [damp, mold, smells, humidity, indoor air quality]
 relatedArticles: [why-does-my-house-smell-like-sewage, why-is-my-house-so-dusty]
 popular: 3
+sources:
+  - title: "US EPA: A Brief Guide to Mold, Moisture and Your Home"
+    url: "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
+  - title: "US EPA: Biological Contaminants and Indoor Air Quality"
+    url: "https://www.epa.gov/indoor-air-quality-iaq/biological-contaminants-and-indoor-air-quality"
 faq:
   - question: "Is a musty smell dangerous?"
     answer: "The smell itself is not harmful, but it usually means there is mold or damp nearby. Mold can cause allergy symptoms, trigger asthma, and bother your eyes, nose, and throat. Children, older adults, and people with breathing problems are most at risk. Find and fix the cause instead of covering the smell."
@@ -199,6 +204,6 @@ Call a mold specialist, plumber, roofer, or contractor if:
 
 If you rent your home, tell your landlord about damp and mold in writing as soon as you notice it.
 
-## The bottom line
+## In short
 
 A musty smell almost always means moisture and mold or mildew somewhere nearby. Find the source first, and fix any leaks. Then dry the room with fresh air, a dehumidifier, and exhaust fans. Clean small mold spots, wash fabrics, and use baking soda to soak up what is left. Keep the humidity below 50%, and the musty smell will stay gone.

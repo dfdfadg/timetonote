@@ -7,12 +7,15 @@ category: home-problems
 description: "Weak shower or slow faucets? Learn why your water pressure is low and how to increase it, from cleaning aerators to adjusting the pressure regulator."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-increase-water-pressure-in-house.webp
   alt: "Illustration of a shower head with weak drops and a pressure gauge"
 tags: [water pressure, plumbing, shower, faucets]
 relatedArticles: [why-is-my-toilet-running, why-does-my-house-smell-like-sewage]
+sources:
+  - title: "US EPA WaterSense: Fix a Leak Week"
+    url: "https://www.epa.gov/watersense/fix-leak-week"
 faq:
   - question: "What is normal water pressure for a house?"
     answer: "Most homes have water pressure between about 40 and 80 psi (pounds per square inch). Many plumbers say 45 to 60 psi is ideal. Below 40 psi usually feels weak, and above 80 psi can damage pipes and appliances."
@@ -177,7 +180,7 @@ Low pressure on a well system can come from:
 
 Working on well pumps involves electricity and should be done by a well or pump professional.
 
-## Quick reference table
+## At a glance
 
 | Problem | Most likely cause | Fix |
 | --- | --- | --- |
@@ -210,6 +213,6 @@ Call a licensed plumber if:
 
 Plumbing problems often come in groups. If you also notice a sewer smell or slow drains, read our guide on [what causes a sewage smell in the house](/why-does-my-house-smell-like-sewage).
 
-## The bottom line
+## Summary
 
 To increase water pressure in your house, first check if the problem is one fixture or the whole house. For one fixture, clean the aerator or shower head with vinegar. For the whole house, make sure the main valve is fully open, check the pressure regulator, and look for clogged filters and leaks. Test with a pressure gauge, and aim for 45 to 60 psi. If the easy fixes do not work, a plumber can find and fix the cause.

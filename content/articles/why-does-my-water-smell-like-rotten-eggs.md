@@ -7,12 +7,17 @@ category: home-problems
 description: "Rotten egg smell in your tap water? Find out if it comes from your water heater, your drain, or your water supply, and how to get rid of it for good."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-water-smell-like-rotten-eggs.webp
   alt: "Illustration of a glass of water under a faucet with smell lines rising from it"
 tags: [water, smells, water heater, well water, plumbing]
 relatedArticles: [why-does-my-house-smell-like-sewage, how-to-increase-water-pressure-in-house, why-does-my-water-taste-like-chlorine]
+sources:
+  - title: "Minnesota Department of Health: Hydrogen Sulfide and Sulfur Bacteria in Well Water"
+    url: "https://www.health.state.mn.us/communities/environment/water/wells/waterquality/hydrosulfide.html"
+  - title: "OSHA: Hydrogen Sulfide Hazards"
+    url: "https://www.osha.gov/hydrogen-sulfide/hazards"
 faq:
   - question: "Is it safe to drink water that smells like rotten eggs?"
     answer: "In most cases, the rotten egg smell comes from small amounts of hydrogen sulfide gas, which is a nuisance but usually not a health risk at the low levels people can smell. However, a strong or new smell can sometimes mean sewage or other contamination, especially in well water. If you are not sure, drink bottled water and have your water tested."
@@ -188,6 +193,6 @@ Call a plumber, well contractor, or water treatment company if:
 - The water looks cloudy or discolored
 - You are not comfortable working on the water heater
 
-## The bottom line
+## What to do first
 
 A rotten egg smell in water comes from hydrogen sulfide gas. Start by smelling a glass of water away from the sink to rule out the drain. Then check if the smell is in the hot water only, which points to the water heater, or in both hot and cold, which points to your well, softener, or supply. Flushing the water heater, replacing the anode rod, cleaning drains, and treating well water fix most cases. When in doubt, test your water.

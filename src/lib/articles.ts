@@ -22,6 +22,11 @@ export interface FaqItem {
   answer: string;
 }
 
+export interface Source {
+  title: string;
+  url: string;
+}
+
 export interface FeaturedImage {
   src: string;
   alt: string;
@@ -42,6 +47,8 @@ export interface ArticleFrontmatter {
   tags: string[];
   relatedArticles?: string[];
   faq?: FaqItem[];
+  /** Official or expert sources the guide is checked against (shown at the end). */
+  sources?: Source[];
   /** Absolute canonical override. Defaults to https://timetonote.com/{slug}. */
   canonical?: string;
   noindex?: boolean;
@@ -155,6 +162,9 @@ function parseArticle(fileName: string): Article {
     tags: Array.isArray(fm.tags) ? fm.tags.map(String) : [],
     relatedArticles: Array.isArray(fm.relatedArticles) ? fm.relatedArticles.map(String) : [],
     faq: faq?.length ? faq : undefined,
+    sources: Array.isArray(fm.sources)
+      ? (fm.sources as Source[]).filter((x) => x && x.title && /^https:\/\//.test(String(x.url)))
+      : undefined,
     noindex: Boolean(fm.noindex),
     draft: Boolean(fm.draft),
     popular: typeof fm.popular === "number" ? fm.popular : undefined,

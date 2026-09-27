@@ -7,7 +7,7 @@ category: tools
 description: "Learn how to calculate a tip in your head in seconds. Simple tricks for 15%, 18%, and 20% tips, how to split the bill, and a handy tip chart."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-calculate-a-tip.webp
   alt: "Illustration of a restaurant receipt with a percent sign and coins"
@@ -261,6 +261,6 @@ Rounding up makes the math faster, saves you from carrying lots of coins, and se
 
 Calculating a tip is the same as finding a percentage of a number. Once you know the tricks, you can use them for sales, discounts, and more. To learn how to figure out how much a price went up or down, read our guide on [how to calculate percentage change](/how-to-calculate-percentage-change).
 
-## The bottom line
+## Tip math in one minute
 
 To calculate a tip, start by finding 10% of your bill by moving the decimal point one place to the left. Double it for 20%, or add half of it for 15%. Round your bill to make the math easier, and check the receipt for any service charge before you tip. For quick, exact answers, [let our calculator do the math](/tools/percentage-calculator).

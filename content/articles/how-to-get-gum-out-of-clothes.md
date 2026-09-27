@@ -7,12 +7,17 @@ category: everyday-solutions
 description: "Gum stuck on your clothes? Freeze it, scrape it, and remove what is left with simple things you have at home. Works on jeans, shirts, and most fabrics."
 author: agha-ali-abbas
 publishedAt: 2026-09-26
-updatedAt: 2026-09-26
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-get-gum-out-of-clothes.webp
   alt: "Illustration of a pair of jeans with pink gum and an ice cube next to it"
 tags: [laundry, stains, gum, clothes, cleaning]
 relatedArticles: [how-to-remove-sticker-residue, how-to-unshrink-clothes]
+sources:
+  - title: "Tide: How to get gum out of clothes"
+    url: "https://tide.com/en-us/how-to-wash-clothes/how-to-remove-stains/chewing-gum-stains"
+  - title: "Maytag: How to get gum out of clothes"
+    url: "https://www.maytag.com/blog/washers-and-dryers/how-to-get-gum-out-of-clothes.html"
 faq:
   - question: "What is the fastest way to get gum out of clothes?"
     answer: "Freeze it. Put the item in a plastic bag in the freezer for 1 to 2 hours, or hold ice on the gum for 10 to 15 minutes. When the gum is hard, scrape it off with a spoon or dull knife. Then treat any leftover mark with dish soap and wash as usual."
@@ -198,15 +203,6 @@ If laundry day also left you with a shirt that shrank in the wash, our guide on 
 
 Only at the very end. Hot water makes gum softer and stickier, so it can spread. Always start with cold to harden the gum and remove the bulk. Once the gum is gone, you can wash the item in the warmest water its care label allows to remove any leftover residue.
 
-## Tips for parents
-
-Kids are the most common source of gum on laundry. A few habits save a lot of trouble:
-
-- **Make pocket checks part of laundry day.** Turn pants and jackets inside out before washing.
-- **Keep a small freezer bag in the laundry room** so you can freeze gummy clothes right away.
-- **Teach kids to wrap gum** in paper or a wrapper before throwing it away.
-- **Keep an old spoon and toothbrush** near the washer for quick scraping and scrubbing.
-
-## The bottom line
+## What to remember
 
 To get gum out of clothes, freeze it first, then scrape it off with a spoon or dull knife. Use dish soap, a little oil, warm vinegar, or rubbing alcohol for sticky bits that are left, and always test on a hidden spot first. Treat any stain with dish soap, wash the item, and air dry it until you are sure the gum is gone. Never put gummy clothes in the dryer.

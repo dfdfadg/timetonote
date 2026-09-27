@@ -7,12 +7,17 @@ category: tech-problems
 description: "Is your phone getting hot? Learn the 10 most common reasons, how to cool it down safely in minutes, and when heat is a sign of a bigger problem."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-phone-get-hot.webp
   alt: "Illustration of a smartphone with a thermometer and heat waves around it"
 tags: [phone, overheating, battery, iphone, android, troubleshooting]
 relatedArticles: [iphone-not-charging, why-is-my-phone-storage-full]
+sources:
+  - title: "Apple Support: If your iPhone or iPad gets too hot or too cold"
+    url: "https://support.apple.com/en-us/118431"
+  - title: "Samsung: Why is my Samsung phone overheating or getting hot"
+    url: "https://www.samsung.com/uk/support/mobile-devices/what-to-do-when-your-phone-heats-up/"
 faq:
   - question: "Is it bad if my phone gets hot?"
     answer: "A phone that feels warm while charging, gaming, or streaming is normal. A phone that gets too hot to hold comfortably, shows a temperature warning, or gets hot while you are not using it is a problem. Too much heat can wear out the battery faster and, in rare cases, damage the phone."
@@ -242,6 +247,6 @@ Contact your phone maker or a trusted repair shop if:
 
 If your phone is under warranty or has insurance, a repair or battery replacement may be free or low cost.
 
-## The bottom line
+## Key points
 
 Your phone gets hot because the battery and processor make heat when they work hard. Charging, gaming, videos, hot weather, thick cases, weak signals, and busy background apps are the most common reasons. To cool it down, stop using it, take off the case, and move it to a shady spot. Never put it in the fridge. If your phone stays hot for no reason, drains fast, or looks swollen, get it checked by a professional.

@@ -7,12 +7,19 @@ category: internet-apps
 description: "Slow internet? Run a quick speed test, then work through these 12 common causes, from an old router to busy evenings, with simple fixes you can try today."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-internet-so-slow.webp
   alt: "Illustration of a speed meter pointing to slow next to a Wi-Fi router"
 tags: [internet, wifi, router, speed, troubleshooting]
 relatedArticles: [why-is-my-wifi-not-working, why-is-my-laptop-so-slow]
+sources:
+  - title: "FCC: Broadband Speed Guide"
+    url: "https://www.fcc.gov/consumers/guides/broadband-speed-guide"
+  - title: "FCC: Household Broadband Guide"
+    url: "https://www.fcc.gov/consumers/guides/household-broadband-guide"
+  - title: "Microsoft Support: Why is my Internet connection so slow?"
+    url: "https://support.microsoft.com/en-us/windows/experience/connectivity-networking/why-is-my-internet-connection-so-slow"
 faq:
   - question: "Why is my internet slow at night?"
     answer: "In the evening, many people in your area are online at the same time, streaming shows and playing games. This can crowd your internet provider's network and slow everyone down. People in your own home may also be using more of your connection at night."
@@ -222,6 +229,6 @@ Call your provider if:
 
 Tell them what you already tried. This can save time and help them find the problem faster.
 
-## The bottom line
+## Where to start
 
 Slow internet is usually caused by weak Wi-Fi, old equipment, or too many devices online at the same time. Start with a speed test and a router restart. Then move the router to a better spot, use the right Wi-Fi band, and pause background downloads. If your internet is still slow, even with a cable, the problem is likely with your provider or plan, and it is time to give them a call.

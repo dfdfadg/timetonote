@@ -7,13 +7,18 @@ category: home-problems
 description: "Clean a dusty house the right way: top to bottom, dry to wet, with tools that trap dust. Includes a room-by-room checklist and a simple weekly routine."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-clean-a-dusty-house.webp
   alt: "Illustration of a spray bottle, cleaning cloth, and vacuum cleaner"
 tags: [dust, cleaning, cleaning routine]
 relatedArticles: [why-is-my-house-so-dusty, how-to-remove-sticker-residue]
 popular: 4
+sources:
+  - title: "US EPA: Care for Your Air, A Guide to Indoor Air Quality"
+    url: "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality"
+  - title: "US EPA: Should You Have the Air Ducts in Your Home Cleaned?"
+    url: "https://www.epa.gov/indoor-air-quality-iaq/should-you-have-air-ducts-your-home-cleaned"
 faq:
   - question: "Should I dust or vacuum first?"
     answer: "Dust first, then vacuum. Dusting knocks dust down onto the floor. Vacuuming last picks it all up. If you vacuum first, you will have to do it again."
@@ -210,6 +215,6 @@ If dust makes you sneeze, cough, or itch, these tips help:
 
 If your symptoms do not get better, talk to a doctor or pharmacist.
 
-## The bottom line
+## Key takeaways
 
 To clean a dusty house, always work from top to bottom and finish with the floors. Use a damp microfiber cloth instead of a feather duster, and a vacuum with a HEPA filter. Clean the hidden spots, like the tops of cabinets and under the bed. Then keep up with a simple weekly routine, and change your air filter on time. Your home will stay cleaner for longer.

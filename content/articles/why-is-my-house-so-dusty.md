@@ -7,13 +7,20 @@ category: home-problems
 description: "Dust coming back days after you clean? Learn the 12 most common reasons your house is so dusty and the simple changes that really cut dust down."
 author: agha-ali-abbas
 publishedAt: 2026-09-25
-updatedAt: 2026-09-25
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-house-so-dusty.webp
   alt: "Illustration of a house with dust floating in a beam of light"
 tags: [dust, cleaning, indoor air quality, allergies]
 relatedArticles: [how-to-clean-a-dusty-house, why-does-my-room-smell-musty]
 popular: 1
+sources:
+  - title: "US EPA: Should You Have the Air Ducts in Your Home Cleaned?"
+    url: "https://www.epa.gov/indoor-air-quality-iaq/should-you-have-air-ducts-your-home-cleaned"
+  - title: "US EPA: A Brief Guide to Mold, Moisture and Your Home (indoor humidity)"
+    url: "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
+  - title: "US EPA: Care for Your Air, A Guide to Indoor Air Quality"
+    url: "https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality"
 faq:
   - question: "Is most house dust really dead skin?"
     answer: "No. Dead skin is only one part of house dust. Dust is a mix of dirt and pollen from outside, tiny bits of fabric, pet hair and dander, hair, and bits of food and bugs. In many homes, a big part of the dust comes from outdoors."
@@ -198,6 +205,6 @@ Most dusty homes just need the changes above. But talk to a professional if:
 
 A heating and cooling technician can check your furnace and air system. A doctor can help with allergies.
 
-## The bottom line
+## Summary: how to cut down on dust
 
 A dusty house usually comes down to a few simple things: a dirty air filter, dust coming in from outside, pets, fabric, and cleaning methods that spread dust around. Start by changing your filter, dusting with a damp cloth, and using a good vacuum. Add a doormat, a no-shoes rule, and weekly bedding washes. Within a few weeks, you should notice a lot less dust on your shelves.

@@ -9,4 +9,4 @@ export const staticPages = [
 ] as const;
 
 /** Last meaningful update of the legal/static pages (used in the sitemap). */
-export const staticPagesUpdatedAt = "2026-09-25";
+export const staticPagesUpdatedAt = "2026-09-27";

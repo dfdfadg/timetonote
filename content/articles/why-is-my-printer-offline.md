@@ -7,12 +7,17 @@ category: internet-apps
 description: "Printer says offline even though it is on? Learn why it happens and how to fix it on Windows and Mac, from restarting to clearing the print queue."
 author: agha-ali-abbas
 publishedAt: 2026-09-26
-updatedAt: 2026-09-26
+updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-printer-offline.webp
   alt: "Illustration of a printer with a Wi-Fi symbol and a red offline mark"
 tags: [printer, wifi, windows, mac, troubleshooting]
 relatedArticles: [why-is-my-wifi-not-working, why-is-my-laptop-so-slow]
+sources:
+  - title: "HP Support: Printer offline issues"
+    url: "https://support.hp.com/us-en/help/printer/printer-offline"
+  - title: "Canon USA: Resolve printer is offline or not responding (Windows)"
+    url: "https://support.usa.canon.com/kb/s/article/ART180034"
 faq:
   - question: "Why does my printer say offline when it is on?"
     answer: "Your computer shows a printer as offline when it cannot talk to it. This usually happens because the printer lost its Wi-Fi connection, the printer's network address changed, a stuck print job is blocking the queue, or Windows has Use Printer Offline turned on."
@@ -182,7 +187,7 @@ If your printer connects with a USB cable:
 - Try a different USB cable. Cables do wear out.
 - Avoid USB hubs. Plug the printer directly into the computer.
 
-## Quick reference table
+## At a glance
 
 | What you notice | Most likely cause | Try this first |
 | --- | --- | --- |
@@ -215,6 +220,6 @@ Contact the maker's support team if:
 - It is offline on every device after all these steps
 - It is still under warranty
 
-## The bottom line
+## The short version
 
 A printer shows offline when your computer cannot reach it. Restart the printer, computer, and router first. Then make sure both are on the same Wi-Fi network, turn off "Use Printer Offline" on Windows, and clear stuck print jobs. If that does not work, remove and re-add the printer and update its driver. To stop it from happening again, keep the printer close to the router and reserve its IP address.

@@ -37,6 +37,13 @@ export default function AboutPage() {
         ))}
       </ul>
 
+      <h2>Who is behind TimeToNote</h2>
+      <p>
+        TimeToNote is run by <Link href="/authors/agha-ali-abbas">Agha Ali Abbas</Link>, who has worked in SEO and
+        content writing for 18 years. He started the site after years of seeing people struggle with long, confusing,
+        or sales-driven answers to simple household and tech problems.
+      </p>
+
       <h2>How we write</h2>
       <p>
         Guides are researched against manufacturer documentation, official support pages and reputable sources, and

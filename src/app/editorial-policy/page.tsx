@@ -30,6 +30,7 @@ export default function EditorialPolicyPage() {
       <ul>
         <li>We prioritize manufacturer documentation, official support pages, government and public-health guidance, and recognized standards bodies.</li>
         <li>Where methods are based on practical experience rather than official guidance, we say so.</li>
+        <li>The main sources for each guide are listed at the end of the guide, so you can check them yourself.</li>
         <li>We avoid claims we can’t support, and we don’t invent statistics, tests or reviews.</li>
       </ul>
 
@@ -50,8 +51,9 @@ export default function EditorialPolicyPage() {
       <h2>Use of AI tools</h2>
       <p>
         We may use software tools, including AI writing assistants, to help with research, outlining and editing.
-        Every guide is reviewed, fact-checked and edited by the editorial team before it is published, and the
-        editorial team is responsible for everything we publish.
+        Every guide is reviewed, fact-checked and edited by our founder and editor,{" "}
+        <Link href="/authors/agha-ali-abbas">Agha Ali Abbas</Link>, who has 18 years of experience in SEO and content
+        writing. He is responsible for everything we publish.
       </p>
 
       <h2>Updates and corrections</h2>

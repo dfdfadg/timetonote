@@ -90,6 +90,26 @@ export function ArticleView({ article, related }: { article: Article; related: A
           )}
           <div className="prose-article" dangerouslySetInnerHTML={{ __html: article.html }} />
 
+          {article.sources && article.sources.length > 0 && (
+            <section aria-labelledby="sources-heading" className="mt-12 rounded-2xl border border-line bg-surface p-5 sm:p-6">
+              <h2 id="sources-heading" className="text-lg font-semibold text-ink">
+                Sources
+              </h2>
+              <p className="mt-1 text-sm text-muted">
+                This guide was checked against these official and manufacturer sources.
+              </p>
+              <ul className="mt-3 list-disc space-y-1.5 pl-5 text-sm">
+                {article.sources.map((src) => (
+                  <li key={src.url}>
+                    <a href={src.url} rel="noopener" className="text-brand underline-offset-2 hover:underline">
+                      {src.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
           {article.faq && (
             <div className="mt-14">
               <FaqSection faq={article.faq} />

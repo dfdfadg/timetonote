@@ -65,6 +65,8 @@ export function authorRef(author: Author) {
     "@type": author.type,
     name: author.name,
     url: absoluteUrl(`/authors/${author.slug}`),
+    ...(author.image ? { image: absoluteUrl(author.image) } : {}),
+    ...(author.type === "Person" ? { jobTitle: author.role } : {}),
   };
 }
 
@@ -83,6 +85,7 @@ export function articleSchema(article: Article) {
     articleSection: article.categoryInfo.name,
     keywords: article.tags.join(", "),
     wordCount: article.wordCount,
+    ...(article.sources?.length ? { citation: article.sources.map((x) => x.url) } : {}),
     author: authorRef(article.authorInfo),
     publisher: { "@id": ORG_ID, "@type": "Organization", name: siteConfig.name, logo: { "@type": "ImageObject", url: absoluteUrl(siteConfig.logoPath) } },
     isPartOf: { "@id": WEBSITE_ID },
@@ -159,7 +162,9 @@ export function authorPageSchema(author: Author) {
       url,
       ...(author.image ? { image: absoluteUrl(author.image) } : {}),
       ...(author.links?.length ? { sameAs: author.links.map((l) => l.url) } : {}),
-      ...(author.type === "Person" ? { worksFor: { "@id": ORG_ID } } : {}),
+      ...(author.type === "Person"
+        ? { worksFor: { "@id": ORG_ID }, jobTitle: author.role, knowsAbout: ["SEO", "Content writing", "Home troubleshooting", "Consumer technology"] }
+        : {}),
     },
   };
 }
