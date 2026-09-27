@@ -89,7 +89,7 @@ Most dishwashers made in the last 10 to 15 years have a **filter** at the bottom
 
 In many kitchens, the dishwasher drains into the **garbage disposal** under the sink. If the disposal is full of food, the dishwasher water has nowhere to go.
 
-**Fix:** Run cold water in the sink and turn on the garbage disposal for 20 to 30 seconds. Then run a drain cycle on the dishwasher.
+**Fix:** Run cold water in the sink and turn on the garbage disposal for 20 to 30 seconds. Then run a drain cycle on the dishwasher. If the disposal only hums, follow our steps for [freeing a jammed garbage disposal](/garbage-disposal-humming-but-not-working).
 
 ### 3. A new disposal still has the knockout plug
 

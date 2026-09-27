@@ -205,7 +205,7 @@ Phones are built to protect themselves. When they get too hot, you may notice:
 - The camera flash will not work
 - A temperature warning covers the screen
 
-On an iPhone, you may see a message that says the phone needs to cool down before you can use it. This is normal. Let it cool, and the phone will go back to normal.
+On an iPhone, you may see a message that says the phone needs to cool down before you can use it. If your screen keeps getting darker for other reasons too, see [why a phone screen keeps dimming](/why-does-my-phone-screen-keep-dimming). This is normal. Let it cool, and the phone will go back to normal.
 
 If your phone gets too hot often, it can shorten the life of the battery. That is why it is worth fixing the cause.
 

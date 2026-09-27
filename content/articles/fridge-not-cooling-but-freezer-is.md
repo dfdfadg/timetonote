@@ -187,6 +187,7 @@ Here are a few things to think about:
 - **Clean the condenser coils** every 6 to 12 months.
 - **Check the door seals** a few times a year.
 - **Keep a thermometer** in the fridge and freezer.
+- **If the ice maker stops too**, see [how to fix an ice maker that is not making ice](/why-is-my-ice-maker-not-working).
 - **Leave a few inches of space** around the fridge for airflow.
 - **Keep the fridge level** so the doors close fully.
 

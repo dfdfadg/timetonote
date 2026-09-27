@@ -166,7 +166,7 @@ If your clothes come out smelling musty or sour:
 
 - **Leave the door or lid open** after every wash.
 - **Wipe the door seal dry** after the last load of the day.
-- **Take out wet clothes right away.**
+- **Take out wet clothes right away.** If your dryer then takes forever, see [why a dryer takes so long to dry](/why-is-my-dryer-taking-so-long-to-dry).
 - **Use the right amount of HE detergent.**
 - **Use less fabric softener.**
 - **Run a cleaning cycle once a month.**

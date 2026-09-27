@@ -139,7 +139,7 @@ When a laptop gets too hot, it slows itself down on purpose to cool off. This is
 - Gently blow dust out of the vents with a can of compressed air, with the laptop turned off.
 - Consider a laptop cooling pad with a fan.
 
-If you hear the fan running loudly all the time, the laptop is working too hard or too hot.
+If you hear the fan running loudly all the time, the laptop is working too hard or too hot. Our guide on [quieting a noisy laptop fan](/why-is-my-laptop-fan-so-loud) covers this in detail.
 
 ### 8. It is in battery saver mode
 
