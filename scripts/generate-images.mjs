@@ -333,11 +333,6 @@ const illustrations = {
   `),
 };
 
-const logoSvg = (size) => `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="${size >= 256 ? 7 : 0}" fill="#0d6b5e"/>
-  <path d="M9 10.5h14M16 10.5V23" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
-  <circle cx="22.5" cy="21.5" r="2.2" fill="#fff"/>
-</svg>`;
 
 await fs.mkdir(out("public/images/articles"), { recursive: true });
 
@@ -346,7 +341,3 @@ for (const [slug, svg] of Object.entries(illustrations)) {
   console.log(`✓ public/images/articles/${slug}.webp`);
 }
 
-await sharp(Buffer.from(logoSvg(512))).png().toFile(out("public/logo.png"));
-console.log("✓ public/logo.png");
-await sharp(Buffer.from(logoSvg(180))).png().toFile(out("src/app/apple-icon.png"));
-console.log("✓ src/app/apple-icon.png");

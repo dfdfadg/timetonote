@@ -287,3 +287,10 @@ body {
 .prose-page ul { list-style: disc; padding-left: 1.4em; }
 .prose-page li + li { margin-top: 0.35em; }
 .prose-page a { color: var(--brand); text-decoration: underline; text-underline-offset: 3px; }
+
+/* Logo: teal mark on light backgrounds, light-teal mark in dark mode. */
+.logo-dark { display: none; }
+@media (prefers-color-scheme: dark) {
+  .logo-light { display: none; }
+  .logo-dark { display: block; }
+}

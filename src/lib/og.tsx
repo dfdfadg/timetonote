@@ -1,7 +1,13 @@
+import fs from "node:fs";
+import path from "node:path";
 import { ImageResponse } from "next/og";
 import { siteConfig } from "@/config/site";
 
 export const ogSize = { width: 1200, height: 630 };
+
+const logoMark = `data:image/png;base64,${fs
+  .readFileSync(path.join(process.cwd(), "public", "brand", "logo-mark.png"))
+  .toString("base64")}`;
 
 const ACCENTS: Record<string, string> = {
   amber: "#9a5b00",
@@ -31,22 +37,8 @@ export function renderOgCard({ title, eyebrow, accent = "brand" }: { title: stri
         }}
       >
         <div style={{ display: "flex", alignItems: "center", gap: 18 }}>
-          <div
-            style={{
-              width: 56,
-              height: 56,
-              borderRadius: 14,
-              background: "#0d6b5e",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              color: "#fff",
-              fontSize: 34,
-              fontWeight: 700,
-            }}
-          >
-            T
-          </div>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={logoMark} width={64} height={64} alt="" />
           <div style={{ fontSize: 34, fontWeight: 700, color: "#16181d" }}>{siteConfig.name}</div>
         </div>
         <div style={{ display: "flex", flexDirection: "column" }}>

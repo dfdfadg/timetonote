@@ -15,7 +15,7 @@ export function AuthorAvatar({ author, size = 40 }: { author: Author; size?: num
     );
   }
   if (author.type === "Organization") {
-    return <span style={{ width: size, height: size }} className="block shrink-0"><LogoMark className="h-full w-full" /></span>;
+    return <LogoMark size={size} />;
   }
   const initials = author.name
     .split(" ")

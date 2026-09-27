@@ -1,20 +1,21 @@
+import Image from "next/image";
 import Link from "next/link";
 import { siteConfig } from "@/config/site";
 
-export function LogoMark({ className = "" }: { className?: string }) {
+/** The "TN" monogram from the TimeToNote logo, in the site's teal (light version in dark mode). */
+export function LogoMark({ className = "", size = 36 }: { className?: string; size?: number }) {
   return (
-    <svg viewBox="0 0 32 32" className={className} aria-hidden="true" focusable="false">
-      <rect width="32" height="32" rx="8" fill="var(--brand)" />
-      <path d="M9 10.5h14M16 10.5V23" stroke="#fff" strokeWidth="2.6" strokeLinecap="round" />
-      <circle cx="22.5" cy="21.5" r="2.2" fill="#fff" />
-    </svg>
+    <span className={`relative inline-block shrink-0 ${className}`} style={{ width: size, height: size }}>
+      <Image src="/brand/logo-mark.png" alt="" width={size} height={size} className="logo-light h-full w-full" priority />
+      <Image src="/brand/logo-mark-dark.png" alt="" width={size} height={size} className="logo-dark h-full w-full" />
+    </span>
   );
 }
 
 export function Logo() {
   return (
-    <Link href="/" className="flex items-center gap-2.5 rounded-md" aria-label={`${siteConfig.name} home`}>
-      <LogoMark className="h-8 w-8 shrink-0" />
+    <Link href="/" className="flex items-center gap-2 rounded-md" aria-label={`${siteConfig.name} home`}>
+      <LogoMark size={36} />
       <span className="font-serif text-xl font-semibold tracking-tight text-ink">
         Time<span className="text-brand">To</span>Note
       </span>
