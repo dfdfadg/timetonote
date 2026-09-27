@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-get-rid-of-fruit-flies.webp
-  alt: "Illustration of a fruit bowl next to a jar trap with small flies"
+  alt: "Glass jar fruit fly trap with a paper funnel next to a bowl of fruit"
 tags: [fruit flies, pests, kitchen, cleaning]
 relatedArticles: [how-to-get-rid-of-gnats, how-to-clean-a-dusty-house]
 popular: 6

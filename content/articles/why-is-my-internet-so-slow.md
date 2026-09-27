@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-internet-so-slow.webp
-  alt: "Illustration of a speed meter pointing to slow next to a Wi-Fi router"
+  alt: "Laptop showing a slow speed meter and a Wi-Fi warning, next to a home router"
 tags: [internet, wifi, router, speed, troubleshooting]
 relatedArticles: [why-is-my-wifi-not-working, why-is-my-laptop-so-slow]
 sources:

@@ -90,17 +90,6 @@ const illustrations = {
     <path d="M1180 260 V310"/>
     <circle cx="1180" cy="342" r="4" fill="${c.ink}"/>
   `),
-  "how-to-get-rid-of-fruit-flies": frame("emerald", (c) => `
-    <path d="M380 560 H860 C860 690 760 750 620 750 C480 750 380 690 380 560 Z"/>
-    <circle cx="520" cy="500" r="70" fill="${c.mid}"/>
-    <circle cx="660" cy="470" r="80" fill="${c.mid}"/>
-    <path d="M740 520 C780 420 860 410 880 450 C850 520 790 550 740 520 Z" fill="${c.mid}"/>
-    <path d="M660 390 C670 360 690 350 710 345" stroke-width="10"/>
-    <rect x="1020" y="440" width="220" height="310" rx="30"/>
-    <path d="M1010 440 H1250" />
-    <path d="M1030 620 H1230" stroke-width="10" opacity="0.6"/>
-    ${[[1080,330],[1170,300],[930,380],[1250,360],[880,300]].map(([x,y]) => `<g stroke-width="6"><ellipse cx="${x}" cy="${y}" rx="12" ry="8" fill="${c.ink}" stroke="none"/><path d="M${x-6} ${y-6} C${x-24} ${y-28} ${x-4} ${y-30} ${x} ${y-8} M${x+6} ${y-6} C${x+24} ${y-28} ${x+4} ${y-30} ${x} ${y-8}"/></g>`).join("")}
-  `),
   "how-to-calculate-percentage-change": frame("rose", (c) => `
     <circle cx="520" cy="340" r="70"/>
     <circle cx="760" cy="600" r="70"/>
@@ -134,15 +123,6 @@ const illustrations = {
     <rect x="1090" y="260" width="70" height="330" rx="35"/>
     <circle cx="1125" cy="640" r="60" fill="${c.mid}"/>
     <path d="M1125 620 V380" stroke-width="22"/>
-  `),
-  "why-is-my-internet-so-slow": frame("violet", (c) => `
-    <path d="M460 600 A300 300 0 0 1 1060 600"/>
-    <path d="M510 600 H560 M1010 600 H960 M555 420 L590 445 M965 420 L930 445 M760 300 V350"/>
-    <path d="M760 600 L560 520" stroke-width="18"/>
-    <circle cx="760" cy="600" r="26" fill="${c.ink}"/>
-    <rect x="1120" y="620" width="260" height="90" rx="24"/>
-    <circle cx="1180" cy="665" r="10" fill="${c.ink}"/>
-    <path d="M1200 540 A90 90 0 0 1 1300 540 M1225 580 A40 40 0 0 1 1275 580"/>
   `),
   "why-is-my-laptop-so-slow": frame("blue", (c) => `
     <rect x="480" y="220" width="560" height="360" rx="24"/>
@@ -215,15 +195,6 @@ const illustrations = {
     <rect x="930" y="340" width="80" height="140" rx="16" fill="${c.mid}"/>
     <path d="M1100 380 C1180 380 1180 560 1100 560"/>
   `),
-  "why-is-google-chrome-so-slow": frame("violet", (c) => `
-    <rect x="420" y="200" width="760" height="500" rx="28"/>
-    <path d="M420 290 H1180"/>
-    <rect x="450" y="225" width="120" height="44" rx="10" fill="${c.mid}"/>
-    <rect x="590" y="225" width="120" height="44" rx="10" fill="${c.mid}"/>
-    <rect x="730" y="225" width="120" height="44" rx="10" fill="${c.mid}"/>
-    <rect x="870" y="225" width="120" height="44" rx="10" fill="${c.mid}"/>
-    <path d="M800 420 A70 70 0 1 1 730 490" stroke-width="16"/>
-  `),
   "why-does-my-bluetooth-keep-disconnecting": frame("blue", (c) => `
     <rect x="440" y="220" width="240" height="440" rx="40"/>
     <path d="M530 260 H590"/>
@@ -256,14 +227,6 @@ const illustrations = {
     <ellipse cx="690" cy="560" rx="150" ry="30"/>
     <path d="M690 400 V500 M640 425 L740 475 M740 425 L640 475" stroke-width="8"/>
   `),
-  "why-is-my-printer-offline": frame("violet", (c) => `
-    <rect x="480" y="360" width="560" height="260" rx="30"/>
-    <path d="M580 360 V240 H940 V360" />
-    <rect x="600" y="560" width="320" height="170" rx="10" fill="${c.mid}"/>
-    <circle cx="960" cy="440" r="14" fill="${c.ink}"/>
-    <path d="M1130 300 A120 120 0 0 1 1290 300 M1165 340 A60 60 0 0 1 1255 340" />
-    <path d="M1150 420 L1270 540 M1270 420 L1150 540" stroke-width="14"/>
-  `),
   "why-does-my-washing-machine-smell": frame("emerald", (c) => `
     <rect x="520" y="180" width="440" height="560" rx="30"/>
     <path d="M520 290 H960"/>
@@ -272,14 +235,7 @@ const illustrations = {
     <rect x="560" y="220" width="120" height="40" rx="10"/>
     <path d="M1060 480 C1030 440 1090 410 1060 370 M1130 500 C1100 460 1160 430 1130 390 M1200 480 C1170 440 1230 410 1200 370" stroke-width="10" opacity="0.7"/>
   `),
-  "how-to-unshrink-clothes": frame("amber", (c) => `
-    <path d="M420 330 L500 280 H580 C590 320 650 320 660 280 H740 L820 330 L790 400 L740 380 V560 H500 V380 L450 400 Z" fill="${c.mid}"/>
-    <path d="M880 250 L990 190 H1080 C1090 240 1170 240 1180 190 H1270 L1380 250 L1340 340 L1270 310 V640 H990 V310 L920 340 Z"/>
-    <path d="M820 470 H900 M880 450 L900 470 L880 490" stroke-width="10"/>
-  `),
-  // Designed photos supplied by the editor replace the illustrations for the
-  // five 2026-09-27 guides, how-to-get-gum-out-of-clothes and
-  // why-does-my-phone-keep-restarting.
+  // Guides missing here use designed photos supplied by the editor.
 };
 
 

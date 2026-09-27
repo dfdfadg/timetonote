@@ -10,7 +10,7 @@ publishedAt: 2026-09-26
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-printer-offline.webp
-  alt: "Illustration of a printer with a Wi-Fi symbol and a red offline mark"
+  alt: "Printer with a red error mark and a laptop screen that says Printer Offline"
 tags: [printer, wifi, windows, mac, troubleshooting]
 relatedArticles: [why-is-my-wifi-not-working, why-is-my-laptop-so-slow]
 sources:

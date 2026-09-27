@@ -10,7 +10,7 @@ publishedAt: 2026-09-26
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/how-to-unshrink-clothes.webp
-  alt: "Illustration of a small shrunken shirt next to a larger shirt and a bowl of water"
+  alt: "Blue sweater shown shrunken before and stretched back to size after, with folded clothes on a table"
 tags: [laundry, clothes, shrinking, fabric care]
 relatedArticles: [how-to-get-gum-out-of-clothes, why-does-my-washing-machine-smell]
 sources:

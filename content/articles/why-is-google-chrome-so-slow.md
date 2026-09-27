@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-google-chrome-so-slow.webp
-  alt: "Illustration of a web browser window with many tabs and a loading circle"
+  alt: "Laptop showing the Chrome logo and a speed meter, with a snail beside it"
 tags: [chrome, browser, speed, computer, troubleshooting]
 relatedArticles: [why-is-my-laptop-so-slow, why-is-my-internet-so-slow]
 sources:

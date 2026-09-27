@@ -37,6 +37,7 @@ export interface Tool {
 export const tools: Tool[] = [
   {
     slug: "word-counter",
+    image: { src: "/images/tools/word-counter.webp", alt: "Laptop running a word counter that shows words, characters, sentences and paragraphs", width: 1536, height: 1024 },
     name: "Word Counter",
     title: "Word Counter: Count Words, Characters and Reading Time",
     description:
@@ -95,6 +96,7 @@ export const tools: Tool[] = [
   },
   {
     slug: "days-until-christmas",
+    image: { src: "/images/tools/days-until-christmas.webp", alt: "Desk calendar with December 25 circled next to a Christmas tree, gifts and a snowman", width: 1536, height: 1024 },
     name: "Christmas Countdown",
     h1: "How Many Days Until Christmas?",
     title: "How Many Days Until Christmas? Live Countdown",
