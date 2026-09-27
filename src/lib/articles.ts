@@ -275,12 +275,3 @@ export function toSummary(a: Article): ArticleSummary {
     tags: a.tags,
   };
 }
-
-export function paginate<T>(items: T[], page: number, pageSize: number) {
-  const totalPages = Math.max(1, Math.ceil(items.length / pageSize));
-  return {
-    items: items.slice((page - 1) * pageSize, page * pageSize),
-    page,
-    totalPages,
-  };
-}

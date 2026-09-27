@@ -1,10 +1,10 @@
 import type { MetadataRoute } from "next";
-import { absoluteUrl, siteConfig } from "@/config/site";
+import { absoluteUrl } from "@/config/site";
 import { authors } from "@/data/authors";
 import { categories } from "@/data/categories";
 import { staticPages, staticPagesUpdatedAt } from "@/data/pages";
 import { tools, toolPath } from "@/data/tools";
-import { getArticlesByCategory, getIndexableArticles, paginate } from "@/lib/articles";
+import { getArticlesByCategory, getIndexableArticles } from "@/lib/articles";
 
 /**
  * XML sitemap: homepage, categories (+ pagination), articles, tools, authors
@@ -19,20 +19,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: absoluteUrl("/"), lastModified: latest(articles.map((a) => a.updatedAt)), changeFrequency: "daily", priority: 1 },
   ];
 
-  const categoryEntries: MetadataRoute.Sitemap = categories.flatMap((c) => {
-    const items = getArticlesByCategory(c.slug);
-    const lastModified = latest(items.map((a) => a.updatedAt));
-    const { totalPages } = paginate(items, 1, siteConfig.pageSize);
-    return [
-      { url: absoluteUrl(c.path), lastModified, changeFrequency: "weekly" as const, priority: 0.8 },
-      ...Array.from({ length: Math.max(0, totalPages - 1) }, (_, i) => ({
-        url: absoluteUrl(`${c.path}/page/${i + 2}`),
-        lastModified,
-        changeFrequency: "weekly" as const,
-        priority: 0.4,
-      })),
-    ];
-  });
+  const categoryEntries: MetadataRoute.Sitemap = categories.map((c) => ({
+    url: absoluteUrl(c.path),
+    lastModified: latest(getArticlesByCategory(c.slug).map((a) => a.updatedAt)),
+    changeFrequency: "weekly" as const,
+    priority: 0.8,
+  }));
 
   const articleEntries: MetadataRoute.Sitemap = articles.map((a) => ({
     url: a.url,

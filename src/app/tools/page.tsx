@@ -21,8 +21,6 @@ export default function ToolsPage() {
       <CategoryView
         category={category}
         articles={articles}
-        page={1}
-        totalPages={1}
         schemaItems={[
           ...tools.map((t) => ({ name: t.name, path: toolPath(t.slug) })),
           ...articles.map((a) => ({ name: a.title, path: a.path })),

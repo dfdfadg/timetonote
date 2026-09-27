@@ -34,6 +34,12 @@ const nextConfig: NextConfig = {
         destination: `https://${CANONICAL_HOST}/:path*`,
         permanent: true,
       })),
+      // Categories use "Load more" instead of numbered pages: /tech-problems/page/2 → /tech-problems
+      {
+        source: `/:category(${EDITORIAL_CATEGORIES})/page/:n`,
+        destination: "/:category",
+        permanent: true,
+      },
       // Articles are never nested under categories:
       // /home-problems/why-is-my-house-so-dusty → /why-is-my-house-so-dusty
       {

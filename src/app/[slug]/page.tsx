@@ -1,13 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { siteConfig } from "@/config/site";
 import { editorialCategories, getCategory } from "@/data/categories";
 import {
   getAllArticles,
   getArticle,
   getArticlesByCategory,
   getRelatedArticles,
-  paginate,
   toSummary,
 } from "@/lib/articles";
 import { pageMetadata } from "@/lib/metadata";
@@ -62,9 +60,7 @@ export default async function SlugPage({ params }: PageProps<"/[slug]">) {
 
   const category = getCategory(slug);
   if (category) {
-    const all = getArticlesByCategory(category.slug);
-    const { items, totalPages } = paginate(all, 1, siteConfig.pageSize);
-    return <CategoryView category={category} articles={items.map(toSummary)} page={1} totalPages={totalPages} />;
+    return <CategoryView category={category} articles={getArticlesByCategory(category.slug).map(toSummary)} />;
   }
 
   const article = getArticle(slug);

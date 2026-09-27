@@ -7,30 +7,26 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 import { Container } from "@/components/ui/Container";
 import { categoryIcons } from "@/components/ui/Icons";
-import { Pagination } from "@/components/ui/Pagination";
+import { LoadMoreGrid } from "@/components/ui/LoadMoreGrid";
+import { siteConfig } from "@/config/site";
 
 export function CategoryView({
   category,
   articles,
-  page,
-  totalPages,
   children,
   schemaItems,
 }: {
   category: Category;
+  /** Every article in the category; extra ones are revealed with "Load more". */
   articles: ArticleSummary[];
-  page: number;
-  totalPages: number;
   /** Extra content rendered above the article grid (e.g. tools). */
   children?: ReactNode;
   /** Items listed in CollectionPage schema (defaults to the articles). */
   schemaItems?: { name: string; path: string }[];
 }) {
-  const pagePath = page === 1 ? category.path : `${category.path}/page/${page}`;
   const crumbs: Crumb[] = [
     { name: "Home", path: "/" },
     { name: category.name, path: category.path },
-    ...(page > 1 ? [{ name: `Page ${page}`, path: pagePath }] : []),
   ];
   const Icon = categoryIcons[category.slug];
 
@@ -46,7 +42,6 @@ export function CategoryView({
             <div>
               <h1 className="font-serif text-3xl font-semibold tracking-tight text-ink sm:text-4xl">
                 {category.name}
-                {page > 1 && <span className="text-muted">, page {page}</span>}
               </h1>
               <p className="mt-3 max-w-2xl text-lg leading-relaxed text-ink-soft">{category.description}</p>
             </div>
@@ -59,14 +54,15 @@ export function CategoryView({
         {articles.length > 0 ? (
           <section aria-labelledby="guides-heading">
             <h2 id="guides-heading" className="mb-6 font-serif text-2xl font-semibold tracking-tight text-ink">
-              {page === 1 ? `Latest ${category.name.toLowerCase()} guides` : "More guides"}
+              {`Latest ${category.name.toLowerCase()} guides`}
             </h2>
-            <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
-              {articles.map((a, i) => (
-                <ArticleCard key={a.slug} article={a} showCategory={false} priority={page === 1 && i < 3} />
+            <LoadMoreGrid
+              step={siteConfig.pageSize}
+              label="Load more guides"
+              items={articles.map((a, i) => (
+                <ArticleCard key={a.slug} article={a} showCategory={false} priority={i < 3} />
               ))}
-            </div>
-            <Pagination basePath={category.path} page={page} totalPages={totalPages} />
+            />
           </section>
         ) : (
           !children && (
@@ -82,7 +78,7 @@ export function CategoryView({
           collectionPageSchema({
             name: category.name,
             description: category.description,
-            path: pagePath,
+            path: category.path,
             items: schemaItems ?? articles.map((a) => ({ name: a.title, path: a.path })),
           }),
           breadcrumbSchema(crumbs),
