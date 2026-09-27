@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-water-taste-like-chlorine.webp
-  alt: "Illustration of a glass of tap water next to a water pitcher with a filter"
+  alt: "Woman tasting a glass of tap water with a chlorine symbol and lemon slices nearby"
 tags: [water, chlorine, drinking water, water filter]
 relatedArticles: [why-does-my-water-smell-like-rotten-eggs, how-to-increase-water-pressure-in-house]
 sources:

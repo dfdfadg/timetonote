@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-dishwasher-not-draining.webp
-  alt: "Illustration of an open dishwasher with standing water and a filter"
+  alt: "Open dishwasher with standing water at the bottom and a close-up of a clogged filter"
 tags: [dishwasher, appliances, kitchen, drains, plumbing]
 relatedArticles: [fridge-not-cooling-but-freezer-is, why-does-my-house-smell-like-sewage]
 sources:

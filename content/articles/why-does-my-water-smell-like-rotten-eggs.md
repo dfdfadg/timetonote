@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-water-smell-like-rotten-eggs.webp
-  alt: "Illustration of a glass of water under a faucet with smell lines rising from it"
+  alt: "Woman holding her nose next to a running kitchen faucet, with a smelly drain and cracked eggs"
 tags: [water, smells, water heater, well water, plumbing]
 relatedArticles: [why-does-my-house-smell-like-sewage, how-to-increase-water-pressure-in-house, why-does-my-water-taste-like-chlorine]
 sources:

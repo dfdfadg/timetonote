@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-house-so-dusty.webp
-  alt: "Illustration of a house with dust floating in a beam of light"
+  alt: "Dust floating over a living room table next to a cloth and a vacuum cleaner"
 tags: [dust, cleaning, indoor air quality, allergies]
 relatedArticles: [how-to-clean-a-dusty-house, why-does-my-room-smell-musty]
 popular: 1

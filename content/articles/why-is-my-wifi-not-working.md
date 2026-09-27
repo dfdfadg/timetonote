@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-wifi-not-working.webp
-  alt: "Illustration of a Wi-Fi router with signal waves and an alert symbol"
+  alt: "Laptop showing No Internet Connection next to a router with a Wi-Fi error sign"
 tags: [wifi, internet, router, troubleshooting]
 relatedArticles: [why-is-my-internet-so-slow, iphone-not-charging]
 popular: 5
