@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-bluetooth-keep-disconnecting.webp
-  alt: "Illustration of wireless headphones and a phone with a broken Bluetooth signal between them"
+  alt: "Phone showing a Bluetooth disconnected message next to wireless earbuds in their case"
 tags: [bluetooth, headphones, phone, windows, troubleshooting]
 relatedArticles: [why-is-my-wifi-not-working, why-does-my-phone-get-hot]
 sources:

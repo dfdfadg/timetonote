@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-does-my-phone-get-hot.webp
-  alt: "Illustration of a smartphone with a thermometer and heat waves around it"
+  alt: "Phone on a table with a red hot thermometer on its screen, next to a small fan and a cloth"
 tags: [phone, overheating, battery, iphone, android, troubleshooting]
 relatedArticles: [iphone-not-charging, why-is-my-phone-storage-full]
 sources:

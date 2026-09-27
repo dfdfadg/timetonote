@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-toilet-running.webp
-  alt: "Illustration of a toilet tank with water drops and a wrench"
+  alt: "Woman checking a toilet tank with the lid off while water keeps running into the bowl"
 tags: [toilet, plumbing, water leak, bathroom]
 relatedArticles: [why-does-my-house-smell-like-sewage, why-does-my-room-smell-musty]
 sources:

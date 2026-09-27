@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/iphone-not-charging.webp
-  alt: "Illustration of a smartphone with a charging cable and a lightning bolt symbol"
+  alt: "iPhone on a table showing a low battery and a charging error, next to a worried woman holding another phone"
 tags: [iphone, charging, battery, troubleshooting]
 relatedArticles: [why-does-my-phone-get-hot, why-is-my-wifi-not-working]
 popular: 2

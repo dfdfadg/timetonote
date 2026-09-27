@@ -10,7 +10,7 @@ publishedAt: 2026-09-25
 updatedAt: 2026-09-27
 featuredImage:
   src: /images/articles/why-is-my-microwave-not-heating.webp
-  alt: "Illustration of a microwave with a cold plate of food and a snowflake symbol"
+  alt: "Worried woman looking at an open microwave with a cold plate inside"
 tags: [microwave, appliances, kitchen, safety]
 relatedArticles: [fridge-not-cooling-but-freezer-is, why-is-my-dishwasher-not-draining]
 sources:

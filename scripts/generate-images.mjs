@@ -69,14 +69,6 @@ const illustrations = {
     <circle cx="1080" cy="600" r="36"/>
     <path d="M1010 300 C1040 270 1070 330 1100 300 C1130 270 1160 330 1190 300" stroke-width="10" opacity="0.7"/>
   `),
-  "iphone-not-charging": frame("blue", (c) => `
-    <rect x="600" y="140" width="330" height="620" rx="54"/>
-    <path d="M720 190 H810"/>
-    <path d="M790 330 L700 470 H780 L740 600 L850 430 H770 L810 330 Z" fill="${c.mid}" stroke-width="12"/>
-    <path d="M765 760 V810 C765 860 820 860 900 860 H1200" />
-    <rect x="1200" y="820" width="120" height="80" rx="14"/>
-    <path d="M1060 250 L1160 350 M1160 250 L1060 350" stroke-width="12" opacity="0.8"/>
-  `),
   "why-is-my-wifi-not-working": frame("violet", (c) => `
     <rect x="520" y="560" width="560" height="170" rx="36"/>
     <circle cx="620" cy="645" r="14" fill="${c.ink}"/>
@@ -116,28 +108,12 @@ const illustrations = {
     ${[[1060,440],[1130,500],[1080,560],[1150,600]].map(([x,y]) => `<circle cx="${x}" cy="${y}" r="7" fill="${c.ink}" stroke="none"/>`).join("")}
     ${[[600,300],[700,260],[860,320],[560,220],[920,250]].map(([x,y]) => `<g stroke-width="5"><ellipse cx="${x}" cy="${y}" rx="9" ry="6" fill="${c.ink}" stroke="none"/><path d="M${x-4} ${y-5} C${x-18} ${y-22} ${x-3} ${y-24} ${x} ${y-7} M${x+4} ${y-5} C${x+18} ${y-22} ${x+3} ${y-24} ${x} ${y-7}"/></g>`).join("")}
   `),
-  "why-does-my-phone-get-hot": frame("blue", (c) => `
-    <rect x="560" y="160" width="320" height="600" rx="52"/>
-    <path d="M680 210 H760"/>
-    <path d="M500 300 C470 260 530 230 500 190 M950 300 C920 260 980 230 950 190 M500 560 C470 520 530 490 500 450 M950 560 C920 520 980 490 950 450" stroke-width="10" opacity="0.7"/>
-    <rect x="1090" y="260" width="70" height="330" rx="35"/>
-    <circle cx="1125" cy="640" r="60" fill="${c.mid}"/>
-    <path d="M1125 620 V380" stroke-width="22"/>
-  `),
   "why-is-my-laptop-so-slow": frame("blue", (c) => `
     <rect x="480" y="220" width="560" height="360" rx="24"/>
     <path d="M400 640 H1120 L1080 580 H440 Z" fill="${c.mid}"/>
     <path d="M760 330 A70 70 0 1 1 690 400" stroke-width="16"/>
     <path d="M1180 660 C1180 600 1260 580 1290 630 C1320 680 1260 700 1230 680 M1150 680 H1330"/>
     <circle cx="1300" cy="600" r="6" fill="${c.ink}"/>
-  `),
-  "why-is-my-toilet-running": frame("amber", (c) => `
-    <rect x="520" y="180" width="360" height="200" rx="20"/>
-    <path d="M560 380 H840 C840 520 780 580 700 580 C620 580 560 520 560 380 Z" fill="${c.mid}"/>
-    <path d="M640 580 L620 720 H780 L760 580"/>
-    <path d="M700 250 V330 M660 290 H740" stroke-width="10" opacity="0.6"/>
-    <path d="M980 300 C960 340 1000 360 980 400 M1040 330 C1020 370 1060 390 1040 430" stroke-width="10" opacity="0.7"/>
-    <path d="M1080 560 L1220 700 M1180 540 A40 40 0 1 1 1240 600" stroke-width="16"/>
   `),
   "how-to-remove-sticker-residue": frame("emerald", (c) => `
     <rect x="520" y="220" width="320" height="480" rx="40"/>
@@ -195,14 +171,6 @@ const illustrations = {
     <rect x="930" y="340" width="80" height="140" rx="16" fill="${c.mid}"/>
     <path d="M1100 380 C1180 380 1180 560 1100 560"/>
   `),
-  "why-does-my-bluetooth-keep-disconnecting": frame("blue", (c) => `
-    <rect x="440" y="220" width="240" height="440" rx="40"/>
-    <path d="M530 260 H590"/>
-    <path d="M1000 380 C1000 280 1200 280 1200 380 V480"/>
-    <rect x="970" y="450" width="70" height="120" rx="24" fill="${c.mid}"/>
-    <rect x="1160" y="450" width="70" height="120" rx="24" fill="${c.mid}"/>
-    <path d="M740 400 L790 440 M830 470 L880 510 M740 520 L790 480 M830 450 L880 410" stroke-width="10" opacity="0.7"/>
-  `),
   "fridge-not-cooling-but-freezer-is": frame("blue", (c) => `
     <rect x="560" y="140" width="360" height="640" rx="28"/>
     <path d="M560 360 H920"/>
@@ -219,13 +187,6 @@ const illustrations = {
     <circle cx="750" cy="560" r="40"/>
     <path d="M1080 540 H1240 V640" />
     <path d="M1200 600 L1280 680" stroke-width="12" opacity="0.8"/>
-  `),
-  "why-is-my-microwave-not-heating": frame("rose", (c) => `
-    <rect x="400" y="260" width="760" height="420" rx="30"/>
-    <rect x="450" y="310" width="480" height="320" rx="16" fill="${c.mid}"/>
-    <path d="M1010 330 H1110 M1010 400 H1110 M1010 470 H1110" stroke-width="10"/>
-    <ellipse cx="690" cy="560" rx="150" ry="30"/>
-    <path d="M690 400 V500 M640 425 L740 475 M740 425 L640 475" stroke-width="8"/>
   `),
   "why-does-my-washing-machine-smell": frame("emerald", (c) => `
     <rect x="520" y="180" width="440" height="560" rx="30"/>
