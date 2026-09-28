@@ -35,6 +35,7 @@ export const legacyRedirects: Redirect[] = [
   // Old URLs from the previous site with a close match on the new site
   // (from Search Console data, 2026-09-25).
   { source: "/how-many-days-until-christmas", destination: "/tools/days-until-christmas" },
+  { source: "/how-many-days-until-thanksgiving", destination: "/tools/days-until-thanksgiving" },
   { source: "/how-to-improve-water-pressure-in-your-house", destination: "/how-to-increase-water-pressure-in-house" },
   { source: "/house-smells-musty", destination: "/why-does-my-room-smell-musty" },
   { source: "/house-humid-with-ac", destination: "/why-does-my-room-smell-musty" },

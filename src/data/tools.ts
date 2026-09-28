@@ -162,10 +162,197 @@ To turn days into weeks, divide by 7. For 54 days, that is 7 weeks and 5 days. I
 
 ## Plan ahead for the holidays
 
-The countdown is a good reminder to plan early. Many people start holiday shopping in November, and shipping gets busy in December. Check store and carrier shipping deadlines so gifts arrive on time, and set a budget before you start. If you are hosting, a quick deep clean a week or two before guests arrive makes the season less stressful. Our [simple house cleaning routine](/how-to-clean-a-dusty-house) can help you get ready.`,
+The countdown is a good reminder to plan early. Many people start holiday shopping in November, and shipping gets busy in December. Check store and carrier shipping deadlines so gifts arrive on time, and set a budget before you start. If you are hosting, a quick deep clean a week or two before guests arrive makes the season less stressful. Our [simple house cleaning routine](/how-to-clean-a-dusty-house) can help you get ready.
+
+Want to count down to other holidays? Try our [Thanksgiving countdown](/tools/days-until-thanksgiving), [Halloween countdown](/tools/days-until-halloween), or [New Year countdown](/tools/days-until-new-year).`,
     keywords: ["christmas countdown", "days until christmas", "how many days until christmas", "sleeps until christmas", "weeks until christmas"],
     publishedAt: "2026-09-25",
     updatedAt: "2026-09-25",
+  },
+  {
+    slug: "days-until-thanksgiving",
+    name: "Thanksgiving Countdown",
+    h1: "How Many Days Until Thanksgiving?",
+    title: "How Many Days Until Thanksgiving? Live Countdown",
+    description:
+      "See how many days, weeks, and hours are left until Thanksgiving with this free live countdown. It finds the fourth Thursday of November for you.",
+    summary: "Live countdown of the days and weeks until US Thanksgiving.",
+    howTo: [
+      "Open this page. The countdown starts on its own and updates every second.",
+      "Read the big number for the days left, or check the weeks, sleeps, and weekends below it.",
+      "Bookmark the page. After Thanksgiving it switches to next year's date on its own.",
+    ],
+    faq: [
+      {
+        question: "How many days until Thanksgiving?",
+        answer:
+          "The countdown at the top of this page shows the exact number of days until Thanksgiving in your time zone. It updates on its own every day.",
+      },
+      {
+        question: "When is Thanksgiving 2026?",
+        answer: "Thanksgiving 2026 is on Thursday, November 26. In 2027, it is on Thursday, November 25.",
+      },
+      {
+        question: "Why does the date of Thanksgiving change every year?",
+        answer:
+          "In the United States, Thanksgiving is always on the fourth Thursday of November. That Thursday lands on a different date each year, anywhere from November 22 to November 28.",
+      },
+      {
+        question: "Is this countdown for US or Canadian Thanksgiving?",
+        answer:
+          "This countdown is for US Thanksgiving. Canadian Thanksgiving is on the second Monday of October.",
+      },
+    ],
+    about: `## Thanksgiving dates for the next five years
+
+US Thanksgiving is always on the fourth Thursday of November.
+
+| Year | Thanksgiving Day |
+| --- | --- |
+| 2026 | Thursday, November 26 |
+| 2027 | Thursday, November 25 |
+| 2028 | Thursday, November 23 |
+| 2029 | Thursday, November 22 |
+| 2030 | Thursday, November 28 |
+
+## How to find the date of Thanksgiving
+
+You can find it on any calendar in two steps:
+
+1. Look at November and find the first Thursday.
+2. Count forward three more Thursdays. That fourth Thursday is Thanksgiving.
+
+Because November 1 can fall on any day of the week, Thanksgiving is always between November 22 and November 28.
+
+## A simple Thanksgiving planning timeline
+
+- **3 to 4 weeks before:** Make your guest list and plan the menu.
+- **2 weeks before:** Order a fresh turkey or buy a frozen one.
+- **4 to 5 days before:** Start thawing a frozen turkey in the fridge. Plan about 1 day for every 4 to 5 pounds.
+- **1 to 2 days before:** Make pies, sides, and anything that can be cooked ahead.
+- **The day before:** Clean the kitchen and set the table.
+
+A clean house makes hosting much easier. Our [guide to a quick deep clean](/how-to-clean-a-dusty-house) can help you get ready. And if you are splitting the bill for a meal out, our [tip calculator guide](/how-to-calculate-a-tip) makes the math simple.
+
+Christmas comes right after, so you may also like our [Christmas countdown](/tools/days-until-christmas).`,
+    keywords: ["thanksgiving countdown", "days until thanksgiving", "how many days until thanksgiving", "when is thanksgiving"],
+    publishedAt: "2026-09-28",
+    updatedAt: "2026-09-28",
+  },
+  {
+    slug: "days-until-halloween",
+    name: "Halloween Countdown",
+    h1: "How Many Days Until Halloween?",
+    title: "How Many Days Until Halloween? Live Countdown",
+    description:
+      "See how many days, weeks, and hours are left until Halloween on October 31 with this free live countdown. It updates every second in your time zone.",
+    summary: "Live countdown of the days and weeks until Halloween.",
+    howTo: [
+      "Open this page. The countdown starts on its own and updates every second.",
+      "Read the big number for the days left, or check the weeks, sleeps, and weekends below it.",
+      "Bookmark the page. After Halloween it starts counting to next year on its own.",
+    ],
+    faq: [
+      {
+        question: "How many days until Halloween?",
+        answer:
+          "The countdown at the top of this page shows the exact number of days until Halloween in your time zone. It updates on its own every day.",
+      },
+      {
+        question: "What day of the week is Halloween 2026?",
+        answer: "Halloween 2026 is on a Saturday, October 31. In 2027, it falls on a Sunday.",
+      },
+      {
+        question: "Is Halloween always on October 31?",
+        answer:
+          "Yes. Halloween is always on October 31. Some towns move trick-or-treating to a nearby day, so check your local news or city website.",
+      },
+    ],
+    about: `## Halloween dates for the next five years
+
+Halloween is always on October 31, but the day of the week changes.
+
+| Year | Halloween |
+| --- | --- |
+| 2026 | Saturday, October 31 |
+| 2027 | Sunday, October 31 |
+| 2028 | Tuesday, October 31 |
+| 2029 | Wednesday, October 31 |
+| 2030 | Thursday, October 31 |
+
+## A simple Halloween planning list
+
+- **4 weeks before:** Pick costumes. Order online early, because popular ones sell out.
+- **2 to 3 weeks before:** Buy pumpkins and decorations.
+- **1 week before:** Carve pumpkins. Carved pumpkins usually last about a week.
+- **A few days before:** Buy candy and check your porch lights and walkway.
+
+## Halloween safety tips
+
+- Add reflective tape or glow sticks to costumes so drivers can see kids.
+- Use face paint instead of masks that block vision.
+- Walk on sidewalks and cross at corners.
+- Check candy before kids eat it, and toss anything that is opened.
+
+Fall is also when fruit flies and gnats show up around pumpkins and candy bowls. If that happens, our [fruit fly guide](/how-to-get-rid-of-fruit-flies) shows easy ways to get rid of them. Planning ahead for the next holiday? Try our [Thanksgiving countdown](/tools/days-until-thanksgiving).`,
+    keywords: ["halloween countdown", "days until halloween", "how many days until halloween", "when is halloween"],
+    publishedAt: "2026-09-28",
+    updatedAt: "2026-09-28",
+  },
+  {
+    slug: "days-until-new-year",
+    name: "New Year Countdown",
+    h1: "How Many Days Until New Year?",
+    title: "How Many Days Until New Year? Live Countdown",
+    description:
+      "See how many days, hours, minutes, and seconds are left until New Year's Day with this free live countdown. It counts to midnight in your time zone.",
+    summary: "Live countdown to midnight on New Year's Day.",
+    howTo: [
+      "Open this page. The countdown starts on its own and updates every second.",
+      "Read the big number for the days left, or watch the hours, minutes, and seconds tick down.",
+      "Keep the page open on New Year's Eve to count down to midnight.",
+    ],
+    faq: [
+      {
+        question: "How many days until New Year?",
+        answer:
+          "The countdown at the top of this page shows the exact number of days until January 1 in your time zone. It updates on its own every day.",
+      },
+      {
+        question: "What day of the week is New Year's Day 2027?",
+        answer: "New Year's Day 2027 is on a Friday, January 1. In 2028, it falls on a Saturday.",
+      },
+      {
+        question: "Does the countdown reach zero at midnight where I live?",
+        answer:
+          "Yes. It uses the clock on your phone or computer, so it counts down to midnight on January 1 in your own time zone.",
+      },
+    ],
+    about: `## New Year's Day dates for the next five years
+
+| Year | New Year's Day |
+| --- | --- |
+| 2027 | Friday, January 1 |
+| 2028 | Saturday, January 1 |
+| 2029 | Monday, January 1 |
+| 2030 | Tuesday, January 1 |
+| 2031 | Wednesday, January 1 |
+
+## Why New Year starts at different times around the world
+
+Each time zone reaches midnight at a different time. Islands in the Pacific Ocean, like Kiribati, see the new year first. New York reaches midnight about 5 hours after London. Some US islands, like American Samoa, are among the last places to ring in the new year.
+
+## Easy ways to get ready for the new year
+
+- **Set one or two simple goals.** Small, clear goals are easier to keep than a long list.
+- **Clean out your phone.** A new year is a good time to delete old photos and apps. Our [guide to clearing phone storage](/why-is-my-phone-storage-full) shows how.
+- **Do a quick home reset.** Clear clutter and dust before the year starts.
+- **Plan your budget.** Look back at what you spent during the holidays. Our [percentage change guide](/how-to-calculate-percentage-change) helps you compare this year to last year.
+
+Counting down to an earlier holiday too? See our [Christmas countdown](/tools/days-until-christmas).`,
+    keywords: ["new year countdown", "days until new year", "how many days until new year", "new year's day"],
+    publishedAt: "2026-09-28",
+    updatedAt: "2026-09-28",
   },
   {
     slug: "keyword-cannibalization-checker",
