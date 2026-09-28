@@ -12,7 +12,7 @@ featuredImage:
   src: /images/articles/why-does-my-water-smell-like-rotten-eggs.webp
   alt: "Woman holding her nose next to a running kitchen faucet, with a smelly drain and cracked eggs"
 tags: [water, smells, water heater, well water, plumbing]
-relatedArticles: [why-does-my-house-smell-like-sewage, how-to-increase-water-pressure-in-house, why-does-my-water-taste-like-chlorine]
+relatedArticles: [why-does-my-house-smell-like-sewage, how-to-install-a-water-filtration-system, why-does-my-water-taste-like-chlorine]
 sources:
   - title: "Minnesota Department of Health: Hydrogen Sulfide and Sulfur Bacteria in Well Water"
     url: "https://www.health.state.mn.us/communities/environment/water/wells/waterquality/hydrosulfide.html"
@@ -111,7 +111,7 @@ If you have a private well and both hot and cold water smell, the gas is likely 
    - **Aeration systems** that let the gas escape from the water
    - **Chlorine or hydrogen peroxide injection** for strong levels
 
-A water treatment professional can help you choose the right system based on your test results.
+A water treatment professional can help you choose the right system based on your test results. If you plan to do some of the work yourself, our guide on [installing a home water filter](/how-to-install-a-water-filtration-system) covers the basic steps.
 
 ## Fix 3: Clean a smelly drain
 

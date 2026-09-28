@@ -123,6 +123,17 @@ const illustrations = {
     <circle cx="1080" cy="660" r="54" fill="${c.mid}"/>
     <circle cx="1200" cy="690" r="44" fill="${c.mid}"/>
   `),
+  "how-to-install-a-water-filtration-system": frame("blue", (c) => `
+    <path d="M380 220 H620 V300"/>
+    <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>
+    <path d="M360 460 H1180"/>
+    <path d="M620 460 V560 H760"/>
+    <rect x="760" y="480" width="140" height="280" rx="30" fill="${c.mid}"/>
+    <path d="M780 540 H880 M780 600 H880 M780 660 H880" stroke-width="8" opacity="0.6"/>
+    <path d="M900 560 H1040 V380 H1120 V300" />
+    <path d="M1090 300 H1150" stroke-width="16"/>
+    <path d="M1120 340 V360" stroke-width="10" opacity="0.7"/>
+  `),
   "how-to-increase-water-pressure-in-house": frame("blue", (c) => `
     <path d="M420 260 H700 V330"/>
     <path d="M600 330 H800 L780 400 H620 Z" fill="${c.mid}"/>

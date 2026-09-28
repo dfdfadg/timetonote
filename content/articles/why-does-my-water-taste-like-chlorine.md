@@ -12,7 +12,7 @@ featuredImage:
   src: /images/articles/why-does-my-water-taste-like-chlorine.webp
   alt: "Woman tasting a glass of tap water with a chlorine symbol and lemon slices nearby"
 tags: [water, chlorine, drinking water, water filter]
-relatedArticles: [why-does-my-water-smell-like-rotten-eggs, how-to-increase-water-pressure-in-house]
+relatedArticles: [how-to-install-a-water-filtration-system, why-does-my-water-smell-like-rotten-eggs, how-to-increase-water-pressure-in-house]
 sources:
   - title: "CDC: About Water Disinfection with Chlorine and Chloramine"
     url: "https://www.cdc.gov/drinking-water/about/about-water-disinfection-with-chlorine-and-chloramine.html"
@@ -127,7 +127,7 @@ If chlorine bothers your skin or hair, a **shower filter** can reduce chlorine i
 
 ### 7. Consider a whole-house filter
 
-A whole-house carbon filter removes chlorine from all the water in your home. It costs more and needs professional installation, but it can help if the taste bothers you at every faucet.
+A whole-house carbon filter removes chlorine from all the water in your home. It costs more and often needs a plumber, but it can help if the taste bothers you at every faucet. See our [step-by-step water filter install guide](/how-to-install-a-water-filtration-system) to learn what the job involves.
 
 ## Chlorine vs. chloramine: which one is in your water?
 

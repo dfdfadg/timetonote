@@ -43,4 +43,23 @@ export const legacyRedirects: Redirect[] = [
   { source: "/home-improvement", destination: "/home-problems" },
   { source: "/tools/prozent-rechner", destination: "/tools/percentage-calculator" },
   { source: "/de/:path*", destination: "/tools" },
+
+  // Old URLs still getting visits (Search Console, last 16 months) that were
+  // returning 404. Each goes to the closest matching page on the new site.
+  { source: "/intel-wireless-bluetooth-error-code-54", destination: "/why-does-my-bluetooth-keep-disconnecting" },
+  { source: "/cable-internet-vs-fiber-optics", destination: "/why-is-my-internet-so-slow" },
+  { source: "/seasonal-home-maintenance-checklist-for-2025-26", destination: "/home-problems" },
+  { source: "/home-improvement-renovation-remodeling-diy-tip", destination: "/home-problems" },
+  { source: "/home-improvement/:path*", destination: "/home-problems" },
+  { source: "/tech/:path*", destination: "/tech-problems" },
+  { source: "/write-for-us", destination: "/contact" },
+  { source: "/sample-page", destination: "/" },
+  // Old German and SEO tools that no longer exist.
+  {
+    source:
+      "/tools/:tool(google-review-calculator|impressum-generator|brutto-netto-rechner|mwst-rechner|rechnungs-generator|tage-rechner|iban-pruefer|ust-id-pruefung|local-seo-score-checker)",
+    destination: "/tools",
+  },
+  // Old category archives for topics the site no longer covers.
+  { source: "/:section(business|entertainment|gaming|security|education|pet|travel|sports)/:path*", destination: "/" },
 ];
