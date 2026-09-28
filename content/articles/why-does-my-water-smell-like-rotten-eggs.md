@@ -89,7 +89,7 @@ Most water heaters have a long metal rod inside, called an **anode rod**. It pro
 
 **How to fix it:**
 
-1. **Flush the water heater.** This removes sediment where bacteria like to grow. Your water heater's manual explains how. It usually means turning off the power or gas, attaching a hose to the drain valve, and draining some water out.
+1. **Flush the water heater.** This removes sediment where bacteria like to grow. Your water heater's manual explains how. It usually means turning off the power or gas, attaching a hose to the drain valve, and draining some water out. Our [step-by-step water heater flush guide](/why-is-my-water-heater-making-noise) walks through the whole process.
 2. **Replace the anode rod.** A plumber can swap a magnesium rod for an **aluminum-zinc** anode rod or a **powered anode rod**. These are much less likely to cause the smell.
 3. **Raise the temperature for a short time.** Some plumbers heat the tank higher for a few hours to kill bacteria. This can cause dangerous scalding, so only do it with a plumber's guidance.
 

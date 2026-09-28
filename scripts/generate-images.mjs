@@ -123,6 +123,58 @@ const illustrations = {
     <circle cx="1080" cy="660" r="54" fill="${c.mid}"/>
     <circle cx="1200" cy="690" r="44" fill="${c.mid}"/>
   `),
+  "why-is-my-smoke-detector-chirping": frame("rose", (c) => `
+    <path d="M400 200 H1200"/>
+    <path d="M620 200 V250 H980 V200"/>
+    <ellipse cx="800" cy="300" rx="220" ry="70" fill="${c.mid}"/>
+    <circle cx="800" cy="300" r="14" fill="${c.ink}"/>
+    <path d="M1060 380 C1100 420 1100 480 1060 520 M1130 350 C1190 410 1190 490 1130 550" stroke-width="10" opacity="0.7"/>
+    <path d="M540 380 C500 420 500 480 540 520 M470 350 C410 410 410 490 470 550" stroke-width="10" opacity="0.7"/>
+    <rect x="720" y="520" width="160" height="220" rx="18"/>
+    <path d="M770 505 H830" stroke-width="16"/>
+    <rect x="745" y="660" width="110" height="55" rx="8" fill="${c.mid}"/>
+  `),
+  "why-is-my-furnace-blowing-cold-air": frame("amber", (c) => `
+    <rect x="460" y="200" width="320" height="520" rx="24"/>
+    <path d="M460 330 H780"/>
+    <path d="M530 400 H710 M530 460 H710 M530 520 H710" stroke-width="8" opacity="0.6"/>
+    <rect x="560" y="600" width="120" height="60" rx="10" fill="${c.mid}"/>
+    <rect x="900" y="240" width="160" height="200" rx="24"/>
+    <circle cx="980" cy="330" r="46" fill="${c.mid}"/>
+    <path d="M900 560 H1260 V720 H900 Z" fill="${c.bg}"/>
+    <path d="M940 600 H1220 M940 640 H1220 M940 680 H1220" stroke-width="8"/>
+    <path d="M1080 520 V470 M1055 485 L1105 505 M1105 485 L1055 505" stroke-width="10" opacity="0.8"/>
+  `),
+  "why-is-there-condensation-on-my-windows": frame("blue", (c) => `
+    <rect x="460" y="170" width="520" height="600" rx="16"/>
+    <path d="M720 170 V770 M460 470 H980"/>
+    ${[[540,260],[620,330],[820,250],[900,340],[560,560],[860,600],[640,660],[900,700]].map(([x,y]) => `<path d="M${x} ${y-24} C${x+16} ${y} ${x+16} ${y+16} ${x} ${y+16} C${x-16} ${y+16} ${x-16} ${y} ${x} ${y-24} Z" fill="${c.mid}" stroke-width="6"/>`).join("")}
+    <circle cx="1170" cy="420" r="110"/>
+    <path d="M1100 470 A80 80 0 0 1 1240 470" stroke-width="10" opacity="0.6"/>
+    <path d="M1170 420 L1230 370" stroke-width="14"/>
+    <circle cx="1170" cy="420" r="14" fill="${c.ink}"/>
+  `),
+  "why-is-my-water-heater-making-noise": frame("amber", (c) => `
+    <rect x="600" y="180" width="300" height="560" rx="60"/>
+    <path d="M680 180 V120 M820 180 V120" stroke-width="16"/>
+    <rect x="690" y="420" width="120" height="70" rx="10" fill="${c.mid}"/>
+    <path d="M620 690 H880" stroke-width="10" opacity="0.6"/>
+    <path d="M960 500 C1000 540 1000 600 960 640 M1030 470 C1090 530 1090 610 1030 670 M1100 440 C1180 520 1180 620 1100 700" stroke-width="10" opacity="0.7"/>
+    <circle cx="700" cy="660" r="10" fill="${c.ink}"/>
+    <circle cx="760" cy="645" r="8" fill="${c.ink}"/>
+    <circle cx="820" cy="665" r="10" fill="${c.ink}"/>
+  `),
+  "how-to-get-rid-of-stink-bugs": frame("emerald", (c) => `
+    <path d="M360 640 H1240"/>
+    <path d="M620 300 L720 260 H820 L920 300 L880 520 L770 580 L660 520 Z" fill="${c.mid}"/>
+    <path d="M770 300 V560" stroke-width="8"/>
+    <path d="M700 250 L660 180 M840 250 L880 180" stroke-width="8"/>
+    <path d="M640 380 L560 350 M630 460 L550 480 M900 380 L980 350 M910 460 L990 480" stroke-width="8"/>
+    <rect x="1040" y="420" width="160" height="220" rx="22"/>
+    <path d="M1040 500 H1200" stroke-width="8" opacity="0.6"/>
+    <circle cx="1090" cy="560" r="12" fill="${c.mid}"/>
+    <circle cx="1140" cy="590" r="10" fill="${c.mid}"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>

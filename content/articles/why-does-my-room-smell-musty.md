@@ -54,7 +54,7 @@ Rooms that stay closed up hold in moisture. Every time you breathe, shower, or c
 
 ### 2. Condensation on windows and walls
 
-Do you see water drops on the inside of your windows in the morning? That is **condensation**. It happens when warm, damp air touches a cold surface and turns back into water. Over time, it soaks into window frames, walls, and corners. You might see black spots near windows or in corners behind furniture. This is very common in bedrooms during cold weather.
+Do you see water drops on the inside of your windows in the morning? That is **condensation**. It happens when warm, damp air touches a cold surface and turns back into water. Over time, it soaks into window frames, walls, and corners. You might see black spots near windows or in corners behind furniture. This is very common in bedrooms during cold weather. Our guide on [stopping window condensation](/why-is-there-condensation-on-my-windows) covers this problem in more detail.
 
 ### 3. Drying laundry inside
 

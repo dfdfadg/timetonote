@@ -42,7 +42,7 @@ Fruit flies are drawn to the smell of fermenting food. That is food that is very
 
 They also hitch a ride. Fruit flies often lay eggs on fruit and vegetables at the store or farm. You bring them home without knowing it, and a few days later, you have flies.
 
-Fruit flies love warm weather. That is why they are most common in summer and early fall.
+Fruit flies love warm weather. That is why they are most common in summer and early fall. Fall also brings other bugs indoors, and our guide on [removing stink bugs without the smell](/how-to-get-rid-of-stink-bugs) can help with those.
 
 ## The fruit fly life cycle (and why it matters)
 
