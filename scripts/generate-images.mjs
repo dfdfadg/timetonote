@@ -175,6 +175,33 @@ const illustrations = {
     <circle cx="1090" cy="560" r="12" fill="${c.mid}"/>
     <circle cx="1140" cy="590" r="10" fill="${c.mid}"/>
   `),
+  "how-to-view-saved-reels-on-facebook": frame("blue", (c) => `
+    <rect x="600" y="160" width="320" height="600" rx="52"/>
+    <path d="M720 210 H800"/>
+    <rect x="630" y="240" width="260" height="460" rx="20" fill="${c.mid}"/>
+    <path d="M730 400 L830 460 L730 520 Z" fill="${c.ink}" stroke="none"/>
+    <path d="M1080 300 H1200 V520 L1140 470 L1080 520 Z" fill="${c.mid}"/>
+  `),
+  "delete-youtube-search-history-on-your-phone": frame("rose", (c) => `
+    <rect x="560" y="160" width="320" height="600" rx="52"/>
+    <path d="M680 210 H760"/>
+    <rect x="600" y="260" width="240" height="60" rx="30"/>
+    <circle cx="640" cy="290" r="14"/>
+    <rect x="600" y="380" width="240" height="160" rx="24" fill="${c.mid}"/>
+    <path d="M700 420 L760 460 L700 500 Z" fill="${c.ink}" stroke="none"/>
+    <path d="M1030 330 H1230 M1070 330 V300 H1190 V330 M1060 330 L1080 560 H1180 L1200 330" />
+    <path d="M1110 380 V510 M1150 380 V510" stroke-width="8"/>
+  `),
+  "how-to-sign-up-for-walmart-plus": frame("blue", (c) => `
+    <rect x="460" y="160" width="320" height="600" rx="52"/>
+    <path d="M580 210 H660"/>
+    <path d="M510 360 H560 L590 500 H710 L740 400 H575" />
+    <circle cx="605" cy="545" r="16" fill="${c.ink}"/>
+    <circle cx="695" cy="545" r="16" fill="${c.ink}"/>
+    <path d="M930 380 H1210 V620 H930 Z" fill="${c.mid}"/>
+    <path d="M930 380 L1070 300 L1210 380 M1070 380 V620" />
+    <path d="M1070 160 V260 M1020 210 H1120" stroke-width="16"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>
