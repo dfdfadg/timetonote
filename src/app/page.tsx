@@ -11,6 +11,16 @@ import { ArrowRightIcon, categoryIcons } from "@/components/ui/Icons";
 import { SearchForm } from "@/components/ui/SearchForm";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 
+/** Tools featured on the homepage; the full list lives on /tools. */
+const HOME_TOOLS = [
+  "days-until-christmas",
+  "space-heater-cost-calculator",
+  "air-fryer-conversion-calculator",
+  "days-until-thanksgiving",
+  "costco-membership-calculator",
+  "percentage-calculator",
+];
+
 export const metadata: Metadata = pageMetadata({
   title: `${siteConfig.name}: ${siteConfig.tagline}`,
   absoluteTitle: true,
@@ -148,7 +158,7 @@ export default function HomePage() {
             linkLabel="All tools"
           />
           <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {tools.map((t) => (
+            {HOME_TOOLS.map((slug) => tools.find((t) => t.slug === slug)).filter((t) => t !== undefined).map((t) => (
               <Link
                 key={t.slug}
                 href={toolPath(t.slug)}

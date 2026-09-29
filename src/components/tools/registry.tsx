@@ -16,5 +16,10 @@ export const toolComponents: Record<string, ComponentType> = {
   }),
   "days-until-halloween": dynamic(() => import("./HolidayCountdown").then((m) => m.HalloweenCountdown), { loading: Loading }),
   "days-until-new-year": dynamic(() => import("./HolidayCountdown").then((m) => m.NewYearCountdown), { loading: Loading }),
+  "space-heater-cost-calculator": dynamic(() => import("./SpaceHeaterCostCalculator"), { loading: Loading }),
+  "costco-membership-calculator": dynamic(() => import("./CostcoMembershipCalculator"), { loading: Loading }),
+  "dehumidifier-size-calculator": dynamic(() => import("./DehumidifierSizeCalculator"), { loading: Loading }),
+  "walmart-plus-calculator": dynamic(() => import("./WalmartPlusCalculator"), { loading: Loading }),
+  "air-fryer-conversion-calculator": dynamic(() => import("./AirFryerConverter"), { loading: Loading }),
   "keyword-cannibalization-checker": dynamic(() => import("./KeywordCannibalizationChecker"), { loading: Loading }),
 };

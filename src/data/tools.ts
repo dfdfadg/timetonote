@@ -355,6 +355,280 @@ Counting down to an earlier holiday too? See our [Christmas countdown](/tools/da
     updatedAt: "2026-09-28",
   },
   {
+    slug: "space-heater-cost-calculator",
+    name: "Space Heater Cost Calculator",
+    h1: "Space Heater Cost Calculator",
+    title: "Space Heater Cost Calculator: Cost Per Hour, Day and Month",
+    description:
+      "See how much your space heater costs to run per hour, day, month, and winter. Enter the wattage, hours, and your electricity rate for an instant answer.",
+    summary: "Find out what your space heater costs to run each hour, day, and month.",
+    howTo: [
+      "Pick a common heater size or type the wattage from your heater's label.",
+      "Enter how many hours a day you run it.",
+      "Enter your electricity rate in cents per kWh from your electric bill. The costs update right away.",
+    ],
+    faq: [
+      {
+        question: "How much does it cost to run a 1500-watt space heater?",
+        answer:
+          "A 1500-watt heater uses 1.5 kWh each hour on high. At 17 cents per kWh, that is about 26 cents an hour, $2.04 for 8 hours, or about $61 a month if you run it 8 hours a day.",
+      },
+      {
+        question: "Is it cheaper to use a space heater or central heat?",
+        answer:
+          "Heating one small room with a space heater and turning the thermostat down for the rest of the house can save money. Heating the whole home with several space heaters is usually more expensive than a furnace or heat pump.",
+      },
+      {
+        question: "Where do I find my electricity rate?",
+        answer:
+          "Look on your electric bill for the price per kWh. If your bill has several charges, add the supply and delivery rates together. Many U.S. homes pay somewhere around 15 to 20 cents per kWh.",
+      },
+      {
+        question: "Does the eco or low setting save money?",
+        answer:
+          "Yes. Most heaters use about 750 watts on low, which is half the cost of high. A heater with a thermostat also turns off when the room is warm, which lowers the real cost.",
+      },
+    ],
+    about: `## How the space heater cost is calculated
+
+The math is simple:
+
+**Cost per hour = watts ÷ 1,000 × electricity rate**
+
+For example, a 1,500-watt heater at 17 cents per kWh costs 1.5 × $0.17 = **about $0.26 an hour**.
+
+| Heater setting | Watts | Cost per hour at 17¢ | 8 hours a day for 30 days |
+| --- | --- | --- | --- |
+| Low | 750 | about $0.13 | about $31 |
+| Medium | 1,000 | about $0.17 | about $41 |
+| High | 1,500 | about $0.26 | about $61 |
+
+## Ways to spend less on space heating
+
+- **Heat the room you are in,** and lower the main thermostat a few degrees.
+- **Use the thermostat or eco mode** so the heater cycles off when the room is warm.
+- **Close doors** to keep warm air in one room.
+- **Seal drafts** around windows and doors.
+
+## Stay safe with space heaters
+
+- Keep heaters at least 3 feet from anything that can burn, like curtains, bedding, and furniture.
+- Plug heaters straight into a wall outlet, not an extension cord or power strip.
+- Turn heaters off when you leave the room or go to sleep.
+- Choose a model with tip-over and overheat shutoff.
+- Make sure your [smoke alarms are working and not chirping](/why-is-my-smoke-detector-chirping).
+
+If your main heat is not keeping up, check our guide on [a furnace blowing cold air](/why-is-my-furnace-blowing-cold-air) before you rely on space heaters.`,
+    relatedArticles: ["why-is-my-furnace-blowing-cold-air", "why-is-there-condensation-on-my-windows"],
+    keywords: ["space heater cost", "space heater electricity cost", "cost to run space heater", "1500 watt heater cost"],
+    publishedAt: "2026-09-29",
+    updatedAt: "2026-09-29",
+  },
+  {
+    slug: "costco-membership-calculator",
+    name: "Costco Membership Calculator",
+    h1: "Costco Membership Calculator: Is Executive Worth It?",
+    title: "Costco Membership Calculator: Is Executive Worth It?",
+    description:
+      "Enter what you spend at Costco each month to see if the Executive membership pays off, how big your 2% reward would be, and your break-even point.",
+    summary: "See if Costco Executive pays for itself based on your spending.",
+    howTo: [
+      "Enter how much you spend at Costco in a typical month.",
+      "Read the answer at the top. It tells you if Executive or Gold Star is the better deal.",
+      "Check your yearly 2% reward and the break-even amount below it.",
+    ],
+    faq: [
+      {
+        question: "How much do I need to spend at Costco for Executive to be worth it?",
+        answer:
+          "About $3,250 a year, or roughly $271 a month. At that point, the 2% reward equals the extra $65 you pay for Executive.",
+      },
+      {
+        question: "Can I lose money by upgrading to Executive?",
+        answer:
+          "Costco lets you downgrade back to Gold Star and refunds the upgrade fee, minus any 2% reward you already earned. This makes it low risk to try.",
+      },
+      {
+        question: "What purchases do not earn the 2% reward?",
+        answer:
+          "Some purchases, such as gas and tobacco, and certain services do not count. Check Costco's current list before you decide.",
+      },
+    ],
+    about: `## How the Costco calculator works
+
+- **Gold Star** costs $65 a year. **Executive** costs $130 a year, which is $65 more.
+- Executive members get a **2% reward** on most purchases, capped at $1,250 a year.
+- The break-even point is **$65 ÷ 2% = $3,250 a year**.
+
+| Monthly spending | Yearly 2% reward | Executive vs Gold Star |
+| --- | --- | --- |
+| $150 | $36 | Gold Star is better |
+| $271 | $65 | Break even |
+| $400 | $96 | Executive saves about $31 |
+| $600 | $144 | Executive saves about $79 |
+
+For the full picture, read our guide on [whether a Costco membership is worth it](/is-costco-membership-worth-it). If it is not for you, here is [how to cancel Costco and get your fee back](/how-to-cancel-costco-membership).`,
+    relatedArticles: ["is-costco-membership-worth-it", "how-to-cancel-costco-membership"],
+    keywords: ["costco executive membership calculator", "is costco executive worth it", "costco 2% reward calculator", "costco membership calculator"],
+    publishedAt: "2026-09-29",
+    updatedAt: "2026-09-29",
+  },
+  {
+    slug: "dehumidifier-size-calculator",
+    name: "Dehumidifier Size Calculator",
+    h1: "What Size Dehumidifier Do I Need?",
+    title: "Dehumidifier Size Calculator: What Size Do I Need?",
+    description:
+      "Find the right dehumidifier size in pints for your room, basement, or home. Enter the square footage and how damp it is to get a quick recommendation.",
+    summary: "Find the right dehumidifier size in pints for your space.",
+    howTo: [
+      "Measure the room and enter the area in square feet.",
+      "Choose how damp the space feels.",
+      "Check the box if it is a basement, laundry room, or crawl space, then read your recommended size.",
+    ],
+    faq: [
+      {
+        question: "What size dehumidifier do I need for a basement?",
+        answer:
+          "Most basements need a 35-pint or 50-pint unit. Basements are usually damper than living spaces, so pick one size larger than you would for a bedroom of the same size.",
+      },
+      {
+        question: "Is a bigger dehumidifier better?",
+        answer:
+          "Usually, a little bigger is better. A larger unit removes moisture faster, runs fewer hours, and often lasts longer. Just make sure it fits your space and budget.",
+      },
+      {
+        question: "Why do new dehumidifiers have smaller pint numbers?",
+        answer:
+          "In 2019, the U.S. changed how dehumidifiers are tested. A unit that used to be labeled 70 pints is often labeled about 50 pints now, even though it removes the same amount of water.",
+      },
+      {
+        question: "What humidity should I set my dehumidifier to?",
+        answer: "The EPA suggests keeping indoor humidity between 30 and 50 percent. Setting a dehumidifier to about 45 to 50 percent works well in most homes.",
+      },
+    ],
+    about: `## Dehumidifier size chart
+
+This chart uses the pint ratings on new models.
+
+| Area | Damp | Very damp | Wet |
+| --- | --- | --- | --- |
+| Up to 500 sq ft | 22 pints | 35 pints | 50 pints |
+| 500 to 1,000 sq ft | 35 pints | 50 pints | 50 pints or larger |
+| 1,000 to 2,500 sq ft | 50 pints | 50 pints or larger | Whole-house |
+
+For basements, laundry rooms, and crawl spaces, go up one size.
+
+## Signs you need a dehumidifier
+
+- A musty smell that will not go away
+- Water on the inside of your windows
+- Damp spots, mold, or mildew
+- Air that feels sticky even with the AC on
+
+Our guides on [a house that stays humid with the AC on](/house-humid-with-ac), [condensation on windows](/why-is-there-condensation-on-my-windows), and [getting rid of a musty room smell](/why-does-my-room-smell-musty) explain the causes and other fixes.`,
+    relatedArticles: ["house-humid-with-ac", "why-does-my-room-smell-musty"],
+    keywords: ["dehumidifier size calculator", "what size dehumidifier do i need", "dehumidifier pints square feet", "basement dehumidifier size"],
+    publishedAt: "2026-09-29",
+    updatedAt: "2026-09-29",
+  },
+  {
+    slug: "walmart-plus-calculator",
+    name: "Walmart+ Savings Calculator",
+    h1: "Walmart+ Savings Calculator: Is It Worth It for You?",
+    title: "Walmart+ Savings Calculator: Is Walmart Plus Worth It?",
+    description:
+      "Find out if Walmart+ pays for itself. Enter your deliveries, online orders, gas, and streaming use to see your yearly savings after the membership fee.",
+    summary: "Add up what Walmart+ would really save you in a year.",
+    howTo: [
+      "Choose the yearly or monthly plan.",
+      "Enter how often you get grocery delivery, place small online orders, and buy gas at member stations.",
+      "Add the value of the included streaming service if you would use it. Your net savings show below.",
+    ],
+    faq: [
+      {
+        question: "How many orders do I need for Walmart+ to be worth it?",
+        answer:
+          "If you would otherwise pay about $10 per delivery, around 10 grocery deliveries a year cover the $98 yearly fee. Gas savings and streaming add even more value.",
+      },
+      {
+        question: "Are the numbers in this calculator exact?",
+        answer:
+          "No. Delivery fees, gas prices, and streaming prices change and vary by area. The fields are set to typical values, and you can change them to match what you pay.",
+      },
+    ],
+    about: `## How the Walmart+ calculator works
+
+The calculator adds up four kinds of savings and subtracts the membership fee:
+
+- **Delivery fees** you skip on grocery orders of $35 or more
+- **Shipping fees** you skip on smaller online orders
+- **Gas savings** of up to 10 cents per gallon at member stations
+- **Streaming value** from the included Paramount+ Essential or Peacock Premium plan
+
+At the time of writing, Walmart+ costs $98 a year or $12.95 a month. Prices and perks can change, so check Walmart's website.
+
+To learn how to join, what you get, and how to cancel, read our [Walmart+ sign-up guide](/how-to-sign-up-for-walmart-plus). Comparing memberships? Try our [Costco membership calculator](/tools/costco-membership-calculator) too.`,
+    relatedArticles: ["how-to-sign-up-for-walmart-plus", "is-costco-membership-worth-it"],
+    keywords: ["walmart plus calculator", "is walmart plus worth it", "walmart+ savings", "walmart plus membership value"],
+    publishedAt: "2026-09-29",
+    updatedAt: "2026-09-29",
+  },
+  {
+    slug: "air-fryer-conversion-calculator",
+    name: "Air Fryer Conversion Calculator",
+    h1: "Air Fryer Conversion Calculator: Oven to Air Fryer",
+    title: "Air Fryer Conversion Calculator: Oven to Air Fryer Time and Temp",
+    description:
+      "Convert any oven recipe to the air fryer in seconds. Enter the oven temperature and time to get the right air fryer temperature and cook time.",
+    summary: "Turn oven times and temperatures into air fryer settings.",
+    howTo: [
+      "Choose °F or °C.",
+      "Enter the oven temperature and cook time from your recipe.",
+      "Use the air fryer temperature and time shown, and start checking your food a few minutes early.",
+    ],
+    faq: [
+      {
+        question: "How do you convert oven time to air fryer time?",
+        answer:
+          "Lower the temperature by 25°F (about 15°C) and cut the cooking time by about 20 percent. A recipe that bakes at 400°F for 25 minutes usually takes about 20 minutes at 375°F in an air fryer.",
+      },
+      {
+        question: "Do I need to preheat my air fryer?",
+        answer:
+          "Many recipes turn out crispier if you preheat for 3 to 5 minutes. Some air fryers heat so fast that preheating is not needed. Check your manual.",
+      },
+      {
+        question: "Can I put foil or parchment in an air fryer?",
+        answer:
+          "Often yes, but keep it weighed down by food so it does not blow into the heating element, and do not cover the whole basket, because air needs to flow.",
+      },
+    ],
+    about: `## Air fryer conversion chart
+
+| Oven | Air fryer |
+| --- | --- |
+| 350°F for 20 min | 325°F for 16 min |
+| 375°F for 25 min | 350°F for 20 min |
+| 400°F for 25 min | 375°F for 20 min |
+| 425°F for 20 min | 400°F for 16 min |
+| 450°F for 15 min | 425°F for 12 min |
+
+## Tips for better air fryer results
+
+- **Do not overcrowd the basket.** Cook in batches so hot air can reach every side.
+- **Shake or flip halfway** for even browning.
+- **Use a little oil** on foods like vegetables and frozen fries for extra crunch.
+- **Check early.** Air fryers vary a lot by size and brand.
+- **Use a food thermometer** for meat. Chicken should reach 165°F inside.
+
+Cooking for a holiday crowd? Count down the days with our [Thanksgiving countdown tool](/tools/days-until-thanksgiving).`,
+    relatedArticles: [],
+    keywords: ["air fryer conversion calculator", "oven to air fryer", "air fryer time conversion", "air fryer temperature conversion"],
+    publishedAt: "2026-09-29",
+    updatedAt: "2026-09-29",
+  },
+  {
     slug: "keyword-cannibalization-checker",
     image: { src: "/images/tools/keyword-cannibalization-checker.webp", alt: "Laptop showing three pages competing for the same keyword, with a notebook of SEO checks", width: 1536, height: 1024 },
     name: "Keyword Cannibalization Checker",
