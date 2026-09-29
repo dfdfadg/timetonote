@@ -265,6 +265,20 @@ const illustrations = {
     <path d="M1120 440 L1180 390" stroke-width="14"/>
     <circle cx="1120" cy="440" r="14" fill="${c.ink}"/>
   `),
+  "when-do-clocks-change": frame("violet", (c) => `
+    <circle cx="760" cy="460" r="250" fill="${c.mid}"/>
+    <path d="M760 460 V300 M760 460 L870 520" stroke-width="16"/>
+    <circle cx="760" cy="460" r="16" fill="${c.ink}"/>
+    <path d="M1080 300 A330 330 0 0 1 1100 600" stroke-width="12"/>
+    <path d="M1060 320 L1080 290 L1115 310" stroke-width="12"/>
+  `),
+  "when-is-black-friday": frame("rose", (c) => `
+    <path d="M480 340 H820 L860 740 H440 Z" fill="${c.mid}"/>
+    <path d="M570 340 V290 C570 210 730 210 730 290 V340"/>
+    <path d="M900 260 L1080 260 L1180 360 L1000 540 L900 440 Z" />
+    <circle cx="960" cy="320" r="18" fill="${c.ink}"/>
+    <path d="M990 420 L1080 360 M1000 380 L1010 390 M1070 420 L1080 430" stroke-width="10"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>
