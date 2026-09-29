@@ -202,6 +202,46 @@ const illustrations = {
     <path d="M930 380 L1070 300 L1210 380 M1070 380 V620" />
     <path d="M1070 160 V260 M1020 210 H1120" stroke-width="16"/>
   `),
+  "taco-bell-app-not-working": frame("violet", (c) => `
+    <rect x="560" y="160" width="320" height="600" rx="52"/>
+    <path d="M680 210 H760"/>
+    <circle cx="720" cy="460" r="90" fill="${c.mid}"/>
+    <path d="M720 410 V470 M720 505 V510" stroke-width="16"/>
+    <path d="M980 560 A150 150 0 0 1 1280 560 Z" fill="${c.mid}"/>
+    <path d="M1030 520 H1060 M1100 490 H1130 M1170 510 H1200" stroke-width="10"/>
+  `),
+  "amazon-package-says-delivered-but-not-here": frame("amber", (c) => `
+    <rect x="480" y="200" width="300" height="540" rx="10"/>
+    <circle cx="740" cy="480" r="12" fill="${c.ink}"/>
+    <path d="M400 740 H1240"/>
+    <path d="M900 520 H1140 V740 H900 Z" fill="${c.bg}" stroke-dasharray="24 18"/>
+    <path d="M980 590 C980 550 1060 550 1060 590 C1060 620 1020 625 1020 660 M1020 690 V695" stroke-width="12"/>
+  `),
+  "how-to-cancel-costco-membership": frame("rose", (c) => `
+    <rect x="440" y="300" width="480" height="300" rx="28" fill="${c.mid}"/>
+    <path d="M440 380 H920" stroke-width="18"/>
+    <path d="M490 480 H660 M490 530 H600" stroke-width="10"/>
+    <path d="M760 450 L860 550 M860 450 L760 550" stroke-width="14"/>
+    <circle cx="1130" cy="450" r="110"/>
+    <path d="M1130 390 V510 M1095 420 C1095 395 1165 395 1165 420 C1165 450 1095 450 1095 480 C1095 505 1165 505 1165 480" stroke-width="10"/>
+  `),
+  "how-to-delete-ebay-account": frame("blue", (c) => `
+    <rect x="440" y="220" width="560" height="360" rx="24"/>
+    <path d="M380 640 H1060 L1020 580 H420 Z" fill="${c.mid}"/>
+    <circle cx="720" cy="360" r="60" fill="${c.mid}"/>
+    <path d="M620 520 C640 460 800 460 820 520" />
+    <path d="M1080 330 H1260 M1120 330 V300 H1220 V330 M1110 330 L1125 520 H1215 L1230 330" />
+  `),
+  "is-costco-membership-worth-it": frame("emerald", (c) => `
+    <path d="M400 330 H470 L520 560 H720 L760 400 H495" />
+    <circle cx="550" cy="620" r="22" fill="${c.ink}"/>
+    <circle cx="690" cy="620" r="22" fill="${c.ink}"/>
+    <path d="M1060 250 V660 M920 660 H1200"/>
+    <path d="M900 330 H1220" />
+    <path d="M900 330 L850 480 H950 Z M1220 330 L1170 480 H1270 Z" fill="${c.mid}"/>
+    <circle cx="900" cy="440" r="26"/>
+    <rect x="1190" y="410" width="60" height="50" rx="6"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>
