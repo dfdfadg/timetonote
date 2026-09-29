@@ -38,7 +38,9 @@ export const legacyRedirects: Redirect[] = [
   { source: "/how-many-days-until-thanksgiving", destination: "/tools/days-until-thanksgiving" },
   { source: "/how-to-improve-water-pressure-in-your-house", destination: "/how-to-increase-water-pressure-in-house" },
   { source: "/house-smells-musty", destination: "/why-does-my-room-smell-musty" },
-  { source: "/house-humid-with-ac", destination: "/why-does-my-room-smell-musty" },
+  // Short URLs from an earlier version of the site that Google still has indexed.
+  { source: "/house-so-dusty", destination: "/why-is-my-house-so-dusty" },
+  { source: "/window-condensation", destination: "/why-is-there-condensation-on-my-windows" },
   { source: "/cleaning-is-essential-for-home-maintenance", destination: "/how-to-clean-a-dusty-house" },
   { source: "/tech", destination: "/tech-problems" },
   { source: "/home-improvement", destination: "/home-problems" },

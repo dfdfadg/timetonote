@@ -242,6 +242,29 @@ const illustrations = {
     <circle cx="900" cy="440" r="26"/>
     <rect x="1190" y="410" width="60" height="50" rx="6"/>
   `),
+  "wall-cracks-worry": frame("amber", (c) => `
+    <rect x="420" y="170" width="760" height="580" rx="12"/>
+    <rect x="560" y="280" width="220" height="200" rx="8" fill="${c.mid}"/>
+    <path d="M780 480 L840 530 L820 580 L900 640 L880 700 L950 750" stroke-width="10"/>
+    <rect x="980" y="300" width="60" height="360" rx="8" fill="${c.mid}"/>
+    <path d="M980 360 H1010 M980 420 H1020 M980 480 H1010 M980 540 H1020 M980 600 H1010" stroke-width="6"/>
+  `),
+  "hidden-water-leaks": frame("blue", (c) => `
+    <rect x="420" y="170" width="760" height="580" rx="12"/>
+    <path d="M420 300 H1180" stroke-width="18"/>
+    <ellipse cx="760" cy="420" rx="150" ry="80" fill="${c.mid}"/>
+    ${[[760,330],[700,540],[820,600],[760,690]].map(([x,y]) => `<path d="M${x} ${y-24} C${x+16} ${y} ${x+16} ${y+16} ${x} ${y+16} C${x-16} ${y+16} ${x-16} ${y} ${x} ${y-24} Z" fill="${c.mid}" stroke-width="6"/>`).join("")}
+  `),
+  "house-humid-with-ac": frame("emerald", (c) => `
+    <rect x="420" y="220" width="520" height="220" rx="24"/>
+    <path d="M470 380 H890 M470 410 H890" stroke-width="8"/>
+    <circle cx="880" cy="280" r="14" fill="${c.ink}"/>
+    ${[[520,520],[640,580],[760,520],[880,590]].map(([x,y]) => `<path d="M${x} ${y-24} C${x+16} ${y} ${x+16} ${y+16} ${x} ${y+16} C${x-16} ${y+16} ${x-16} ${y} ${x} ${y-24} Z" fill="${c.mid}" stroke-width="6"/>`).join("")}
+    <circle cx="1120" cy="440" r="110"/>
+    <path d="M1050 490 A80 80 0 0 1 1190 490" stroke-width="10" opacity="0.6"/>
+    <path d="M1120 440 L1180 390" stroke-width="14"/>
+    <circle cx="1120" cy="440" r="14" fill="${c.ink}"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>
