@@ -21,6 +21,12 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   // Canonical URLs have no trailing slash: /about/ → 308 → /about
   trailingSlash: false,
+  // sharp is only used by build scripts; Vercel optimizes images itself.
+  // Keeping it (and its ~47 MB of native binaries) out of every function
+  // bundle cuts Vercel Functions storage per deployment by about 80%.
+  outputFileTracingExcludes: {
+    "/**": ["node_modules/sharp/**", "node_modules/@img/**"],
+  },
   images: {
     formats: ["image/avif", "image/webp"],
   },
