@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import { siteConfig } from "@/config/site";
 import { categories } from "@/data/categories";
 import { pageMetadata } from "@/lib/metadata";

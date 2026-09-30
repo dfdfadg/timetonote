@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import { staticPagesUpdatedAt } from "@/data/pages";
 import { pageMetadata } from "@/lib/metadata";
 import { StaticPage } from "@/components/layout/StaticPage";

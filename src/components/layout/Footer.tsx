@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import { siteConfig } from "@/config/site";
 import { categories } from "@/data/categories";
 import { staticPages } from "@/data/pages";

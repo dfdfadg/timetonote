@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import type { Author } from "@/data/authors";
 import { AuthorAvatar } from "@/components/article/AuthorAvatar";
 

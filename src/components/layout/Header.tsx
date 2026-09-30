@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import { mainNav } from "@/data/navigation";
 import { Logo } from "@/components/layout/Logo";
 import { DesktopNav, MobileNav } from "@/components/layout/NavLinks";

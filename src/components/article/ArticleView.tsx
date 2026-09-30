@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import type { Article } from "@/lib/articles";
 import { formatDate } from "@/lib/format";
 import { articleSchema, breadcrumbSchema, faqSchema, type Crumb } from "@/lib/schema";

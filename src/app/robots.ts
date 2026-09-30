@@ -15,6 +15,12 @@ export default function robots(): MetadataRoute.Robots {
         // The /search page itself also sends `noindex`.
         disallow: ["/search?", "/api/"],
       },
+      // SEO and data scrapers crawl heavily, use up Vercel request limits and
+      // bring no visitors. Search engines and AI assistants stay allowed.
+      {
+        userAgent: ["AhrefsBot", "SemrushBot", "MJ12bot", "DotBot", "PetalBot", "Bytespider", "DataForSeoBot", "BLEXBot", "serpstatbot", "barkrowler"],
+        disallow: "/",
+      },
     ],
     sitemap: absoluteUrl("/sitemap.xml"),
   };

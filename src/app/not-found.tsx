@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import { categories } from "@/data/categories";
 import { Container } from "@/components/ui/Container";
 import { SearchForm } from "@/components/ui/SearchForm";

@@ -28,7 +28,14 @@ const nextConfig: NextConfig = {
     "/**": ["node_modules/sharp/**", "node_modules/@img/**"],
   },
   images: {
-    formats: ["image/avif", "image/webp"],
+    // Source images are already WebP, so skip AVIF: each extra format doubles
+    // Vercel image transformations. Fewer widths and a long cache TTL keep
+    // transformations and cache writes low.
+    formats: ["image/webp"],
+    deviceSizes: [640, 828, 1200, 1600],
+    imageSizes: [96, 256, 384],
+    qualities: [75],
+    minimumCacheTTL: 2678400, // 31 days
   },
 
   async redirects() {

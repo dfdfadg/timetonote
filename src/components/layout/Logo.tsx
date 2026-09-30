@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import { siteConfig } from "@/config/site";
 
 /** The "TN" monogram from the TimeToNote logo, in the site's teal (light version in dark mode). */

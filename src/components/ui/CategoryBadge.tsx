@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import type { Category } from "@/data/categories";
 
 export function CategoryBadge({ category, link = true }: { category: Category; link?: boolean }) {

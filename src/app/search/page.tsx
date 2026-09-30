@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import { categories } from "@/data/categories";
 import { getPopularArticles } from "@/lib/articles";
 import { search, type SearchResultType } from "@/lib/search";

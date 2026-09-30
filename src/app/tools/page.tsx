@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import { getCategory } from "@/data/categories";
 import { tools, toolPath } from "@/data/tools";
 import { getArticlesByCategory, toSummary } from "@/lib/articles";

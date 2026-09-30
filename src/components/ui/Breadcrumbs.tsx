@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import type { Crumb } from "@/lib/schema";
 import { ChevronRightIcon } from "@/components/ui/Icons";
 

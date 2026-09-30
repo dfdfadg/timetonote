@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+import Link from "@/components/ui/Link";
 import type { ArticleSummary } from "@/lib/articles";
 import { formatDate } from "@/lib/format";
 import { ClockIcon } from "@/components/ui/Icons";
