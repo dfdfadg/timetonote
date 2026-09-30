@@ -6,8 +6,8 @@ import { siteConfig } from "@/config/site";
 export function LogoMark({ className = "", size = 36 }: { className?: string; size?: number }) {
   return (
     <span className={`relative inline-block shrink-0 ${className}`} style={{ width: size, height: size }}>
-      <Image src="/brand/logo-mark.png" alt="" width={size} height={size} className="logo-light h-full w-full" priority />
-      <Image src="/brand/logo-mark-dark.png" alt="" width={size} height={size} className="logo-dark h-full w-full" />
+      <Image src="/brand/logo-mark.png" alt={`${siteConfig.name} logo`} width={size} height={size} className="logo-light h-full w-full" priority />
+      <Image src="/brand/logo-mark-dark.png" alt={`${siteConfig.name} logo`} width={size} height={size} className="logo-dark h-full w-full" />
     </span>
   );
 }

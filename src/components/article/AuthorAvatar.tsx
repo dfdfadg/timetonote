@@ -7,7 +7,7 @@ export function AuthorAvatar({ author, size = 40 }: { author: Author; size?: num
     return (
       <Image
         src={author.image}
-        alt=""
+        alt={`Photo of ${author.name}`}
         width={size}
         height={size}
         className="shrink-0 rounded-full border border-line object-cover"

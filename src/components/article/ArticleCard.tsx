@@ -31,7 +31,7 @@ export function ArticleCard({
         <div className="aspect-[16/9] overflow-hidden border-b border-line bg-surface-muted">
           <Image
             src={article.featuredImage.src}
-            alt=""
+            alt={article.featuredImage.alt}
             width={article.featuredImage.width}
             height={article.featuredImage.height}
             sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw"

@@ -57,6 +57,15 @@ export const legacyRedirects: Redirect[] = [
   { source: "/tech/:path*", destination: "/tech-problems" },
   { source: "/write-for-us", destination: "/contact" },
   { source: "/sample-page", destination: "/" },
+  // More old URLs from the previous WordPress site (Bing IndexNow history, Sept 2026).
+  { source: "/how-many-days-until-halloween", destination: "/tools/days-until-halloween" },
+  { source: "/how-many-days-until-black-friday", destination: "/when-is-black-friday" },
+  { source: "/cyber-monday-30-tips-from-an-online-shopping", destination: "/when-is-black-friday" },
+  { source: "/all-tools", destination: "/tools" },
+  { source: "/keyword-cannibalization-checker", destination: "/tools/keyword-cannibalization-checker" },
+  { source: "/:tool(mwst-rechner|google-review-calculator)", destination: "/tools" },
+  { source: "/mold-no-water-damage", destination: "/why-does-my-room-smell-musty" },
+  { source: "/home-problems-worsen", destination: "/home-problems" },
   // Old German and SEO tools that no longer exist.
   {
     source:
