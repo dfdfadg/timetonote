@@ -116,6 +116,75 @@ Our guide on [clearing space when phone storage is full](/why-is-my-phone-storag
 
 If the phone will not charge properly after updating, our guide on [an iPhone that won't charge](/iphone-not-charging) can help. If it restarts on its own, see [fixes for an iPhone that restarts by itself](/why-does-my-phone-keep-restarting).
 
+## How much storage does iOS 27 need?
+
+The exact size depends on your model and current version, but big iOS updates need **at least 5 to 6 GB of free space** to download and install. For a big yearly update like iOS 27, having **10 to 15 GB free** is safer. If you are low on space, your iPhone may offer to remove some apps for a while and put them back after the update.
+
+| Your free space | What to do |
+|---|---|
+| 15 GB or more | You are ready to update |
+| 6 to 15 GB | Often enough, but clear a little extra to be safe |
+| Less than 6 GB | Delete apps, videos, or old messages first |
+
+## Update with a computer instead
+
+If the update keeps failing over Wi-Fi, you can use a computer.
+
+**On a Mac:**
+
+1. Connect your iPhone with a cable.
+2. Open **Finder** and click your iPhone in the sidebar.
+3. Click **Check for Update**, then **Download and Update**.
+
+**On a Windows PC:**
+
+1. Install the **Apple Devices** app (or iTunes on older Windows versions).
+2. Connect your iPhone with a cable.
+3. Select your iPhone, then click **Check for Update**.
+
+Keep the cable connected until the update finishes.
+
+## Should you update right away?
+
+Most people should update within a week or two. Updates bring new features and important security fixes. But there are a few reasons to wait a few days:
+
+- You rely on a special app for work that may not support iOS 27 yet.
+- You do not have time to deal with a possible problem this week.
+- You want to wait for the first bug-fix update, like iOS 27.0.1.
+
+If you wait, still install security updates when Apple offers them.
+
+## Before and after checklist
+
+**Before:**
+
+- [ ] Back up to iCloud or a computer
+- [ ] Know your Apple Account password
+- [ ] Know your iPhone passcode
+- [ ] Charge above 50 percent
+- [ ] Connect to Wi-Fi
+- [ ] Free up space
+
+**After:**
+
+- [ ] Update your apps
+- [ ] Check that photos, messages, and contacts look normal
+- [ ] Review new privacy and notification settings
+- [ ] Restart once if anything feels slow
+
+## Battery tips after updating
+
+For the first day or two, your iPhone does a lot of background work, like sorting photos and rebuilding search. To help the battery:
+
+- Keep it plugged in overnight after updating.
+- Turn on **Low Power Mode** if you need to save battery.
+- Check **Settings**, then **Battery**, to see which apps use the most power.
+- Give it 2 to 3 days before deciding the battery is worse.
+
+## Security note
+
+Only download iOS updates from **Settings** on your iPhone or through Apple's Finder and Apple Devices apps. Websites or messages that offer "iOS 27 downloads" or "early access" are often scams.
+
 ## The bottom line
 
 To update to iOS 27, back up your iPhone, plug it in, connect to Wi-Fi, and go to Settings, General, Software Update. iOS 27 is free for the iPhone 11 and later and the iPhone SE (2nd generation) and later. If the update does not show up, fails, or gets stuck, restart the phone, free up storage, and delete and re-download the update.

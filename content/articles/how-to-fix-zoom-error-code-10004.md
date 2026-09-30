@@ -98,6 +98,66 @@ If Zoom freezes or lags even after the fix, your computer may be short on memory
 
 *TimeToNote is not connected to Zoom. For account help, contact Zoom Support.*
 
+## Fixes by device
+
+The steps above work on most computers, but each device has a few extra things to check.
+
+### Windows
+
+- **Run Zoom as an administrator once.** Right-click the Zoom icon and choose **Run as administrator**, then check for updates. Some updates need extra permission to install.
+- **Check the date and time.** If your computer clock is wrong, secure connections to Zoom's servers can fail. Go to **Settings**, then **Time & language**, and turn on **Set time automatically**.
+- **Clear space on your C: drive.** Updates need room to download. If your drive is almost full, delete old downloads and empty the Recycle Bin.
+- **Install Windows updates.** Old system files can cause install errors.
+
+### Mac
+
+- **Allow the installer.** If macOS blocks it, go to **System Settings**, then **Privacy & Security**, and click **Open Anyway** next to the Zoom message.
+- **Move Zoom to the Applications folder.** Running it from Downloads can cause update problems.
+- **Check your Mac's free space** in **System Settings**, then **General**, then **Storage**.
+
+### iPhone and iPad
+
+The Zoom app updates through the App Store, not inside Zoom. Open the **App Store**, tap your profile picture, and update Zoom from the list. If it will not update, delete the app and install it again.
+
+### Android
+
+Open **Google Play**, search for **Zoom Workplace**, and tap **Update**. If it gets stuck, go to **Settings**, then **Apps**, then **Google Play Store**, and clear its cache.
+
+## What causes error 10004?
+
+| Cause | How common | Sign |
+|---|---|---|
+| Blocked by firewall or antivirus | Very common | Other websites work, but Zoom will not update |
+| Weak or unstable internet | Common | Pages load slowly, calls drop |
+| Zoom server problem | Sometimes | Many people report the same error at once |
+| Old or damaged Zoom install | Sometimes | Error keeps coming back after restarts |
+| Work or school network rules | Common on managed computers | Settings are grayed out or locked |
+| Wrong date and time | Rare | Other secure sites also show warnings |
+
+## How to join a meeting right now
+
+If you have a meeting in a few minutes, do not wait for the fix.
+
+1. **Use your browser.** Open the meeting link and look for **Join from your browser** at the bottom of the page. It works in Chrome, Edge, Safari, and Firefox.
+2. **Use your phone.** Install the Zoom app on your phone and join with the meeting ID and passcode.
+3. **Dial in by phone.** Most meeting invites list a phone number you can call for audio only.
+
+Then come back and fix the desktop app after the meeting.
+
+## Common mistakes to avoid
+
+- **Downloading Zoom from other websites.** Only use the official Zoom download page. Fake installers can contain malware.
+- **Turning off your firewall for good.** Pause it only for a moment, or better, add Zoom to the allowed list.
+- **Installing many copies.** Uninstall the old version before you install a new one, so they do not conflict.
+- **Ignoring updates for months.** Older Zoom versions may stop being able to join meetings at all. Turn on automatic updates if you can.
+
+## How to keep Zoom updating smoothly
+
+- In the Zoom app, open **Settings**, then **General**, and turn on **Automatically keep Zoom up to date**.
+- Restart your computer at least once a week.
+- Keep a few GB of free space on your drive.
+- Keep your antivirus updated so it recognizes Zoom as safe.
+
 ## The bottom line
 
 Zoom error code 10004 means the app could not reach Zoom's update servers. Check status.zoom.us, test your internet, and allow Zoom through your firewall, antivirus, and VPN. If it still fails, uninstall Zoom and download the latest version from zoom.us. Your meetings and settings will be waiting when you sign back in.

@@ -117,6 +117,68 @@ Until then, you can use a PIN, passcode, pattern, or face unlock.
 
 Other phone problems? See why [a phone screen keeps dimming](/why-does-my-phone-screen-keep-dimming) or [what to do when a phone gets hot](/why-does-my-phone-get-hot).
 
+## Fixes for popular phone brands
+
+Menus differ a little by brand. Here is where to find fingerprint settings on common phones.
+
+| Phone | Where to find fingerprint settings |
+|---|---|
+| iPhone with Touch ID | Settings, Touch ID & Passcode |
+| Samsung Galaxy | Settings, Security and privacy, Biometrics, Fingerprints |
+| Google Pixel | Settings, Security & privacy, Device unlock, Fingerprint |
+| Motorola | Settings, Security, Fingerprint |
+| OnePlus | Settings, Security & privacy, Device unlock, Fingerprint |
+
+### Samsung Galaxy tips
+
+- Samsung phones with an in-display sensor work best with the screen protector the phone came with or one made for your exact model.
+- Turn on **Touch sensitivity** in **Settings**, then **Display**, if you use a screen protector.
+- After adding a new protector, delete your fingerprints and add them again.
+
+### Google Pixel tips
+
+- Pixel phones have a **Screen protector mode** under **Settings**, then **Display & touch**, that makes the screen more sensitive.
+- Press firmly and hold your finger still until the phone vibrates.
+
+### iPhone tips
+
+- Make sure your finger touches the **metal ring** around the Home button, not just the button.
+- If Touch ID is grayed out or you see "Unable to complete Touch ID setup," Apple says the phone may need service.
+
+## Side-button and back-mounted sensors
+
+Some phones put the fingerprint sensor on the power button or on the back.
+
+- **Side-button sensors** often fail if you press the button too hard or only touch the edge. Rest your finger flat on the button without clicking it.
+- **Back sensors** get dirty from pockets and cases. Wipe them often, and check that your case has a clean cutout around the sensor.
+
+## Why fingerprints get harder to read over time
+
+- **Dry winter skin** makes the ridges on your fingers fainter.
+- **Cuts, burns, and calluses** change the pattern the phone saved.
+- **Hand washing and sanitizer** dry out skin.
+- **Some jobs and hobbies,** like construction, gardening, and playing guitar, wear down fingertips.
+
+Adding the same finger two or three times, and updating it every few months, helps the phone keep up with these changes.
+
+## Keep your phone secure while you fix it
+
+- Use a **strong PIN or passcode**, with 6 digits or more.
+- Turn on **face unlock** if your phone has it.
+- Do not remove your screen lock just because the fingerprint sensor is acting up.
+- If you think someone else's fingerprint is saved on your phone, delete all fingerprints and add only your own.
+
+## Signs it is a hardware problem
+
+| Sign | What it may mean |
+|---|---|
+| Fingerprint option is missing or grayed out | Sensor not detected |
+| Problems started after a drop or screen repair | Sensor damaged or not paired |
+| Error after water exposure | Moisture damage |
+| Sensor area is cracked or scratched | Physical damage |
+
+If you see these signs, contact your phone maker or an authorized repair shop. Unofficial screen replacements on some phones can break in-display fingerprint sensors.
+
 ## The bottom line
 
 When your fingerprint is not working, start simple: clean the sensor, dry your finger, and remove any case or screen protector in the way. Then delete and add your fingerprint again, and try saving the same finger twice. Restart and update the phone if it still fails. If the sensor is damaged or the option is missing, contact your phone maker for repair.

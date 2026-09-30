@@ -16,6 +16,8 @@ relatedArticles: [hidden-water-leaks, wall-cracks-worry, find-air-leaks]
 sources:
   - title: "Owens Corning: 3 Signs That It's Time to Replace Your Roof"
     url: "https://www.owenscorning.com/en-us/roofing/blog/when-to-replace-your-roof"
+  - title: "HomeGuide: Roof Repair Cost"
+    url: "https://homeguide.com/costs/roof-repair-cost"
 faq:
   - question: "How do I know if my roof needs to be replaced?"
     answer: "Common signs are a roof that is more than 20 years old, shingles that are curling, cracked, or missing in many places, lots of granules in the gutters, daylight through the roof boards in the attic, and a roof deck that sags. Leaks in several spots also point to replacement."
@@ -116,6 +118,67 @@ If you notice new cracks inside after a big storm, see our guide on [cracks that
 - **Trim branches** that hang over the roof. Our [tree trimming cost calculator](/tools/tree-trimming-cost-calculator) gives a price estimate.
 - **Keep the attic ventilated** so heat and moisture can escape.
 - **Get a roof inspection** every few years and after major storms.
+
+## How much do roof repairs and replacements cost?
+
+Prices vary a lot by region, roof size, pitch, and material. HomeGuide puts the average roof repair at about $900, with most jobs between $300 and $3,000. Here are rough U.S. ranges to help you plan. Always get written quotes.
+
+| Job | Rough cost range |
+|---|---|
+| Small leak or a few missing shingles | About $150 to $1,000 |
+| Fix flashing around a chimney or vent | About $240 to $700 |
+| Moderate repair (larger area, some decking) | About $600 to $1,500 |
+| Full asphalt shingle roof replacement (average home) | Often about $10,000, and up to $20,000 or more for large or steep roofs |
+| Metal roof replacement | Often much more than asphalt |
+
+A repair that costs more than about a third of a new roof may not be worth it on an old roof. Ask your roofer to explain both options.
+
+## How to check your roof safely from the ground
+
+1. **Use binoculars** to look at each side of the roof.
+2. **Look for patterns,** like missing shingles in one area or dark patches.
+3. **Check the gutters** for granules, shingle pieces, or sagging.
+4. **Walk around the house** and look at the roofline from a distance. It should look straight.
+5. **Take photos** so you can compare them next year.
+
+## How to check from the attic
+
+- Go up on a sunny day with a flashlight.
+- Look for **water stains, dark spots, or mold** on the wood.
+- Check if insulation is **wet or flattened**.
+- Look for **light** coming through.
+- Feel for **soft or spongy** spots on the roof boards from below, only where it is safe to reach.
+
+## How to choose a roofer
+
+- **Check the license and insurance.** Ask for proof of liability and workers' compensation insurance.
+- **Get at least three written quotes** with the same scope of work.
+- **Ask about the warranty** for both materials and labor.
+- **Read local reviews** and ask for references from recent jobs.
+- **Get a written contract** that lists materials, start date, cleanup, and payment terms.
+- **Avoid paying in full upfront.** A deposit is normal, but the final payment should come after the job is done.
+
+## Watch out for storm chasers
+
+After big storms, some out-of-town roofers go door to door. Be careful if someone:
+
+- Pressures you to sign right away
+- Offers to "cover your deductible"
+- Asks for full payment before starting
+- Has no local address or license
+
+Your insurance company and local building department can help you check a contractor.
+
+## Roof maintenance calendar
+
+| When | Task |
+|---|---|
+| Spring | Check for winter damage, clean gutters |
+| Summer | Trim branches, check attic ventilation |
+| Fall | Clean gutters again, check flashing and seals |
+| Winter | Watch for ice dams and attic leaks |
+| After big storms | Look for missing shingles and new stains |
+| Every few years | Professional roof inspection |
 
 ## The bottom line
 

@@ -7,7 +7,7 @@ category: internet-apps
 description: "Want to close your eBay account for good? Learn what to do first, the exact steps to delete it, how long it takes, and what to do if eBay will not let you close it."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/how-to-delete-ebay-account.webp
   alt: "Illustration of a laptop with a user account icon and a delete button"
@@ -109,6 +109,62 @@ Closing your account is permanent. If you are not sure, you could:
 If you are cleaning up your online life, you might also want to [clear your YouTube search history](/delete-youtube-search-history-on-your-phone) or review what you have saved on Facebook. And if you are closing eBay because of a bad delivery experience, our guide on [missing packages that say delivered](/amazon-package-says-delivered-but-not-here) has tips that work for most online stores.
 
 *TimeToNote is not connected to eBay. For account-specific help, contact eBay directly.*
+
+## How to close a seller or business account
+
+Sellers have a few extra steps before eBay will let them close an account.
+
+1. **End all active listings.** Go to **My eBay**, then **Selling**, and end every listing.
+2. **Ship and finish all orders.** Wait until buyers receive their items.
+3. **Wait for the return window to pass.** Returns and disputes can reopen after a sale.
+4. **Pay your final seller fees.** Check **Payments** in Seller Hub and pay any balance.
+5. **Cancel your eBay Store subscription** if you have one.
+6. **Download your sales and tax records.** You may need them for taxes, including any 1099-K forms eBay sends.
+7. **Then close the account** using the steps above.
+
+If you are a business seller, keep your records for as long as your accountant or tax rules require.
+
+## Close vs pause vs make a new account
+
+| Option | What it does | Best if |
+|---|---|---|
+| Close your account | Removes access for good | You never plan to use eBay again |
+| Stop using it | Account stays open, no fees if you are not selling | You might come back later |
+| Remove saved cards and turn off emails | Keeps account but reduces risk and spam | Privacy is your main worry |
+| Take listings on vacation (sellers) | Pauses selling while away | You need a break from selling |
+
+## What happens to your data?
+
+When you close your account:
+
+- You can no longer sign in or see your order history.
+- Your feedback and user ID are no longer active.
+- eBay may keep some information for legal, tax, and fraud-prevention reasons.
+
+If you want to learn what eBay keeps, look for the privacy center or privacy notice on eBay's site.
+
+## Protect your account if you think it was hacked
+
+If you want to close your account because of strange activity, secure it first:
+
+1. **Change your eBay password** right away.
+2. **Turn on two-step verification** in your account settings.
+3. **Check your saved addresses and payment methods** for anything you do not recognize.
+4. **Review recent purchases and messages.**
+5. **Contact eBay customer service** to report unauthorized activity.
+6. **Check your email account security,** since hackers often get in through email.
+
+Closing the account without reporting the problem may leave unpaid charges or open cases in your name.
+
+## Common problems when closing an eBay account
+
+| Message or problem | What it usually means |
+|---|---|
+| "You have an outstanding balance" | Pay your seller fees first |
+| "You have open transactions" | Wait for orders to be delivered and closed |
+| Close account link is missing | Try the desktop website, not the app |
+| No email from eBay | Check spam, then contact eBay customer service |
+| Account shows as still open after 30 days | Recent sales may extend the wait |
 
 ## The bottom line
 

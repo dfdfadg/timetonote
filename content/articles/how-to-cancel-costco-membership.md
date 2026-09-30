@@ -7,7 +7,7 @@ category: everyday-solutions
 description: "Learn how to cancel your Costco membership in a warehouse or by phone, how the refund works, what happens to Executive rewards, and how to just turn off auto-renew."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/how-to-cancel-costco-membership.webp
   alt: "Illustration of a membership card with a cancel mark next to a refund coin"
@@ -115,6 +115,56 @@ This does **not** cancel your current membership or give you a refund. It just s
 Looking for a different kind of membership? Our [Walmart+ sign-up and cost guide](/how-to-sign-up-for-walmart-plus) explains another option.
 
 *TimeToNote is not connected to Costco. Membership fees and rules can change, so check Costco's website or call them to confirm.*
+
+## Real refund examples
+
+These examples show how the refund usually works. Costco's rules can change, so confirm with Costco before you cancel.
+
+| Situation | Refund you might get |
+|---|---|
+| Gold Star member, canceled after 3 months | About $65 (the full fee) |
+| Gold Star member, canceled after 11 months | About $65 (the full fee) |
+| Executive member, earned $20 in 2% rewards | About $110 ($130 minus $20) |
+| Executive member, earned $150 in 2% rewards | About $0 from the fee, since the reward is more than the refund |
+| Executive member downgrading to Gold Star, earned $30 | About $35 back ($65 upgrade fee minus $30) |
+
+## What to say when you cancel
+
+You do not need a long explanation. You can say:
+
+> "Hi, I'd like to cancel my membership and get a refund, please. I'm the primary member, and here is my card and ID."
+
+If you only want to switch plans, say:
+
+> "I'd like to downgrade from Executive to Gold Star, please."
+
+Staff may ask why you are leaving. You can give a short reason or simply say it is not a fit right now.
+
+## Canceling a household or business card
+
+- **Household cards:** The free household card is tied to the primary member. When the main membership is canceled, the household card stops working too.
+- **Business memberships:** The business owner or primary member usually needs to cancel. Extra cardholders on a business account can often be removed without closing the whole membership.
+
+## Things to do before you cancel
+
+- **Use your Executive reward certificate** if you have one.
+- **Finish any big returns** you are still planning to make.
+- **Check gift cards and Costco Shop Cards,** which you may still be able to use online.
+- **Use up prescriptions or optical orders** in progress, or ask how canceling affects them.
+- **Cancel Costco Travel or services** linked to your membership, like auto programs, if needed.
+- **Turn off auto-renew online** so a new fee is not charged while you are deciding.
+
+## Cancel vs downgrade vs let it expire
+
+| Choice | What happens | Good if |
+|---|---|---|
+| Cancel now | Refund of the fee, card stops working today | You are sure you are done with Costco |
+| Downgrade | Keep shopping, get back the upgrade fee minus rewards | Executive is too much, but Costco still helps |
+| Turn off auto-renew | Keep shopping until the end of your year, no refund | You want to finish the year first |
+
+## If you move somewhere without a Costco
+
+If you are moving to an area with no nearby warehouse, you can still cancel by phone. You may also be able to keep shopping on costco.com, where some items ship to you, but think about whether that is worth the fee.
 
 ## The bottom line
 

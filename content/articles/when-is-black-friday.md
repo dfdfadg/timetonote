@@ -7,7 +7,7 @@ category: everyday-solutions
 description: "Black Friday 2026 is Friday, November 27, and Cyber Monday is November 30. See all the key shopping dates, when deals really start, and how to spot a real bargain."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/when-is-black-friday.webp
   alt: "Illustration of a shopping bag with a price tag and a calendar page"
@@ -121,6 +121,62 @@ If an order never shows up, our guide on [what to do when a package says deliver
 ## Getting ready for the season
 
 The time change comes a few weeks before Black Friday. See [when the clocks change this fall](/when-do-clocks-change) so you are not caught off guard.
+
+## Black Friday shopping plan: week by week
+
+| When | What to do |
+|---|---|
+| Early October | Make a gift list and set a total budget |
+| Mid October | Start tracking prices on the items you want |
+| Early November | Sign up for store emails and apps, compare early deals |
+| Week of Thanksgiving | Check final deals, buy items that hit your target price |
+| Black Friday | Shop early for doorbusters, or buy online |
+| Cyber Monday | Look for online-only deals and anything you missed |
+| December | Watch for price drops and use price-match policies if offered |
+
+## How to track prices
+
+- **Browser extensions and price trackers** can show a product's price history and send alerts when it drops.
+- **Store apps** often show member-only deals and let you save items to a list.
+- **Write down the regular price** for your top items in October, so you know a real deal when you see it.
+
+## Shipping deadlines matter
+
+If you are buying gifts online, check each store's holiday shipping deadlines. Popular carriers and stores post their last dates for standard and express shipping in November and December. Ordering early in the season gives you time to return or exchange items that do not work out.
+
+## Know the return policy
+
+Many stores offer **extended holiday return windows** for items bought in November and December. But some electronics and sale items have shorter return periods. Before you buy:
+
+- Check how many days you have to return the item.
+- Keep receipts and order emails in one folder.
+- Find out if you pay for return shipping.
+
+## Budget math example
+
+Say you have **$500** for holiday shopping and find these deals:
+
+| Item | Regular price | Sale price | You save |
+|---|---|---|---|
+| Headphones | $150 | $99 | $51 |
+| Air fryer | $120 | $79 | $41 |
+| Toy set | $60 | $40 | $20 |
+| Smart doorbell | $100 | $60 | $40 |
+| **Total** | **$430** | **$278** | **$152** |
+
+That leaves you **$222** for other gifts, food, or travel. Use our [free percentage calculator](/tools/percentage-calculator) to find the real discount on any deal.
+
+## Black Friday vs other big sales
+
+| Sale | Usually | Good for |
+|---|---|---|
+| Amazon Prime Day | July, plus a fall event | Amazon devices, many household items |
+| Labor Day | Early September | Mattresses, appliances |
+| Black Friday | Day after Thanksgiving | TVs, electronics, toys, kitchen items |
+| Cyber Monday | Monday after Thanksgiving | Online deals, clothing, tech |
+| After-Christmas sales | December 26 and later | Decorations, winter clothes, gift sets |
+
+If an item is not on sale on Black Friday, it may show up cheaper at one of these other times.
 
 ## The bottom line
 

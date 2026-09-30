@@ -114,6 +114,60 @@ Ready.gov and the CDC warn that generators make **carbon monoxide (CO)**, a gas 
 - **Sump pumps:** A battery backup can keep a basement from flooding during storms. Flooding can also lead to [hidden water damage](/hidden-water-leaks).
 - **Check on neighbors,** especially older adults and people who live alone.
 
+## Food safety guide by food type
+
+After a long outage, check each food before you eat it. This table is based on common food safety advice. If you are not sure, throw it out.
+
+| Food | Keep if held at 40°F or below | Throw out if above 40°F for more than 2 hours |
+|---|---|---|
+| Raw meat, poultry, seafood | Keep | Throw out |
+| Milk, cream, yogurt, soft cheese | Keep | Throw out |
+| Hard cheese (cheddar, Parmesan) | Keep | Usually safe |
+| Eggs and egg dishes | Keep | Throw out |
+| Cooked leftovers | Keep | Throw out |
+| Fresh fruits and raw vegetables | Keep | Usually safe if not cut |
+| Butter and margarine | Keep | Usually safe |
+| Ketchup, mustard, jam, peanut butter | Keep | Usually safe |
+| Opened mayonnaise and dressings | Keep | Throw out if above 50°F for 8 hours or more |
+| Baby formula (opened) | Keep | Throw out |
+
+## How to keep the fridge and freezer colder longer
+
+- **Keep doors closed.** Each opening lets cold air out.
+- **Group foods together** in the freezer. Packed items stay cold longer.
+- **Add ice.** Bags of ice or frozen water bottles help the fridge and freezer stay cold.
+- **Use a cooler** for items you need often, like milk and medicine, so you do not open the fridge.
+- **Dry ice** can keep a freezer cold longer. Handle it with gloves and never in a closed car or small room.
+
+## Water safety during outages
+
+Some homes lose water when the power goes out, especially homes with **well pumps**. Others may get a boil-water notice from the local utility.
+
+- Store at least **1 gallon of water per person per day** for several days.
+- If there is a boil-water notice, follow it until your utility says the water is safe.
+- If you have an electric water heater, the hot water in the tank can be used for washing for a while.
+
+## Medicine and medical needs
+
+- Some medicines, like insulin, must stay cold. Keep a cooler and ice packs ready, and ask your pharmacist how long your medicine can stay at room temperature.
+- Keep a **printed list** of medicines and doses in case your phone dies.
+- If you use oxygen or other powered medical devices, have a battery backup and a plan to go somewhere with power.
+
+## Keep your phone working
+
+- Turn on **Low Power Mode** or **Battery Saver**.
+- Close apps you do not need and lower screen brightness.
+- Use text messages instead of calls, since texts use less battery and often go through when calls do not.
+- Charge phones in your car, with the car running outside, not in a closed garage.
+
+## After a long outage: home check
+
+- Look for water leaks from frozen pipes or a sump pump that stopped.
+- Check the freezer and fridge temperatures.
+- Reset GFCI outlets in kitchens and bathrooms if they tripped.
+- Check that your furnace, water heater, and garage door work normally.
+- If you smell gas or see damaged wires, leave the area and call for help.
+
 ## The bottom line
 
 In a power outage, stay safe with flashlights, keep the fridge and freezer closed, unplug electronics, and report it to your utility. Food lasts about 4 hours in a closed fridge and 24 to 48 hours in a freezer. Never run a generator, grill, or gas stove indoors. Build a simple kit now so you are ready for the next outage.
