@@ -279,6 +279,28 @@ const illustrations = {
     <circle cx="960" cy="320" r="18" fill="${c.ink}"/>
     <path d="M990 420 L1080 360 M1000 380 L1010 390 M1070 420 L1080 430" stroke-width="10"/>
   `),
+  "find-air-leaks": frame("blue", (c) => `
+    <rect x="460" y="190" width="440" height="540" rx="12"/>
+    <path d="M680 190 V730 M460 460 H900"/>
+    <path d="M920 300 C980 280 1020 330 1080 310 M920 380 C990 360 1030 410 1110 390 M920 460 C980 440 1020 490 1080 470" stroke-width="10" opacity="0.7"/>
+    <rect x="1140" y="520" width="50" height="160" rx="10" fill="${c.mid}"/>
+    <path d="M1165 520 C1135 480 1185 470 1175 430 C1205 460 1200 500 1165 520 Z" fill="${c.ink}" stroke="none" opacity="0.8"/>
+  `),
+  "signs-your-roof-needs-repair-or-replacement": frame("amber", (c) => `
+    <path d="M400 480 L800 200 L1200 480" stroke-width="16"/>
+    <path d="M470 440 V740 H1130 V440"/>
+    <path d="M560 400 H660 M700 330 H800 M840 380 H940 M940 450 H1040" stroke-width="12"/>
+    <path d="M730 400 C760 380 780 420 810 400" stroke-width="10"/>
+    <rect x="720" y="560" width="160" height="180" rx="8" fill="${c.mid}"/>
+  `),
+  "how-to-paint-a-room-like-a-pro": frame("violet", (c) => `
+    <rect x="420" y="200" width="560" height="520" rx="12" fill="${c.bg}"/>
+    <rect x="420" y="200" width="300" height="520" fill="${c.mid}" stroke="none"/>
+    <rect x="680" y="300" width="200" height="80" rx="20"/>
+    <path d="M780 380 V440 H700 V600"/>
+    <rect x="1040" y="520" width="170" height="200" rx="16"/>
+    <path d="M1040 580 H1210" stroke-width="8"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>
