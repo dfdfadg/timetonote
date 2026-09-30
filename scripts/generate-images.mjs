@@ -301,6 +301,17 @@ const illustrations = {
     <rect x="1040" y="520" width="170" height="200" rx="16"/>
     <path d="M1040 580 H1210" stroke-width="8"/>
   `),
+  "what-to-do-if-an-uninsured-driver-hits-you": frame("rose", (c) => `
+    <path d="M380 560 V480 L440 400 H640 L700 480 V560 Z" fill="${c.mid}"/>
+    <circle cx="450" cy="570" r="34" fill="${c.ink}"/>
+    <circle cx="630" cy="570" r="34" fill="${c.ink}"/>
+    <path d="M760 580 V500 L820 420 H1020 L1080 500 V580 Z"/>
+    <circle cx="830" cy="590" r="34" fill="${c.ink}"/>
+    <circle cx="1010" cy="590" r="34" fill="${c.ink}"/>
+    <path d="M720 420 L740 460 L700 470 L730 500" stroke-width="10"/>
+    <path d="M1160 260 L1240 400 H1080 Z" fill="${c.mid}"/>
+    <path d="M1160 310 V350 M1160 375 V380" stroke-width="10"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>
