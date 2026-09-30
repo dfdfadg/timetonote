@@ -348,6 +348,24 @@ const illustrations = {
     <circle cx="1110" cy="320" r="70"/>
     <path d="M1110 280 V330 M1110 355 V360" stroke-width="12"/>
   `),
+  "how-to-update-to-ios-27-on-iphone": frame("violet", (c) => `
+    <rect x="600" y="160" width="320" height="600" rx="52"/>
+    <path d="M720 210 H800"/>
+    <circle cx="760" cy="400" r="70" fill="${c.mid}"/>
+    <path d="M760 360 V430 M730 405 L760 435 L790 405" stroke-width="10"/>
+    <rect x="660" y="540" width="200" height="24" rx="12"/>
+    <rect x="660" y="540" width="130" height="24" rx="12" fill="${c.ink}" stroke="none"/>
+  `),
+  "how-to-prepare-your-home-for-a-new-pet": frame("emerald", (c) => `
+    <path d="M380 460 L700 240 L1020 460 V740 H380 Z"/>
+    <ellipse cx="600" cy="660" rx="140" ry="50" fill="${c.mid}"/>
+    <path d="M820 640 H960 L940 700 H840 Z" fill="${c.mid}"/>
+    <circle cx="1120" cy="420" r="30" fill="${c.mid}"/>
+    <circle cx="1080" cy="360" r="18" fill="${c.mid}"/>
+    <circle cx="1130" cy="340" r="18" fill="${c.mid}"/>
+    <circle cx="1175" cy="370" r="18" fill="${c.mid}"/>
+    <circle cx="1060" cy="410" r="16" fill="${c.mid}"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>
