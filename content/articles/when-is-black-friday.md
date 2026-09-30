@@ -164,7 +164,7 @@ Say you have **$500** for holiday shopping and find these deals:
 | Smart doorbell | $100 | $60 | $40 |
 | **Total** | **$430** | **$278** | **$152** |
 
-That leaves you **$222** for other gifts, food, or travel. Use our [free percentage calculator](/tools/percentage-calculator) to find the real discount on any deal.
+That leaves you **$222** for other gifts, food, or travel. You can [check the percent off any deal](/tools/percentage-calculator) the same way.
 
 ## Black Friday vs other big sales
 
