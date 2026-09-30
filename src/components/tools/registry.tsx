@@ -21,5 +21,23 @@ export const toolComponents: Record<string, ComponentType> = {
   "dehumidifier-size-calculator": dynamic(() => import("./DehumidifierSizeCalculator"), { loading: Loading }),
   "walmart-plus-calculator": dynamic(() => import("./WalmartPlusCalculator"), { loading: Loading }),
   "air-fryer-conversion-calculator": dynamic(() => import("./AirFryerConverter"), { loading: Loading }),
+  "hours-and-minutes-calculator": dynamic(() => import("./TimeCalculator"), { loading: Loading }),
+  "decimal-to-time-calculator": dynamic(
+    () => import("./TimeCalculator").then((m) => function DecimalToTime() {
+      return <m.default initialMode="decimal" />;
+    }),
+    { loading: Loading },
+  ),
+  "age-calculator": dynamic(() => import("./AgeCalculator"), { loading: Loading }),
+  "shoe-size-converter": dynamic(() => import("./ShoeSizeConverter"), { loading: Loading }),
+  "engagement-rate-calculator": dynamic(() => import("./EngagementRateCalculator"), { loading: Loading }),
+  "dog-years-calculator": dynamic(() => import("./DogYearsCalculator"), { loading: Loading }),
+  "water-intake-calculator": dynamic(() => import("./WaterIntakeCalculator"), { loading: Loading }),
+  "mpg-calculator": dynamic(() => import("./MpgCalculator"), { loading: Loading }),
+  "salary-increase-calculator": dynamic(() => import("./SalaryIncreaseCalculator"), { loading: Loading }),
+  "tree-trimming-cost-calculator": dynamic(() => import("./TreeTrimmingCostCalculator"), { loading: Loading }),
+  "home-inspection-cost-calculator": dynamic(() => import("./HomeInspectionCostCalculator"), { loading: Loading }),
+  "fence-cost-calculator": dynamic(() => import("./FenceCostCalculator"), { loading: Loading }),
+  "lot-size-to-acres-calculator": dynamic(() => import("./LotSizeCalculator"), { loading: Loading }),
   "keyword-cannibalization-checker": dynamic(() => import("./KeywordCannibalizationChecker"), { loading: Loading }),
 };

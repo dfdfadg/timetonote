@@ -629,6 +629,587 @@ Cooking for a holiday crowd? Count down the days with our [Thanksgiving countdow
     updatedAt: "2026-09-29",
   },
   {
+    slug: "hours-and-minutes-calculator",
+    name: "Hours and Minutes Calculator",
+    h1: "Hours and Minutes Calculator",
+    title: "Hours and Minutes Calculator: Add, Subtract and Convert Time",
+    description:
+      "Add or subtract hours and minutes, convert minutes to hours, and turn time into decimal hours for timesheets. Free, fast, and easy to use.",
+    summary: "Add, subtract, and convert hours, minutes, and seconds.",
+    howTo: [
+      "Choose what you want to do: add or subtract time, or convert minutes or decimal hours.",
+      "Enter the hours, minutes, and seconds.",
+      "Read the answer in hours and minutes, clock format, and decimal hours.",
+    ],
+    faq: [
+      {
+        question: "How do I convert minutes to hours?",
+        answer: "Divide the minutes by 60. For example, 135 minutes ÷ 60 = 2.25 hours, which is 2 hours and 15 minutes.",
+      },
+      {
+        question: "How do I add hours and minutes together?",
+        answer:
+          "Add the hours and the minutes separately. If the minutes add up to 60 or more, subtract 60 and add 1 to the hours. For example, 2:45 + 1:30 = 3 hours 75 minutes, which is 4 hours 15 minutes.",
+      },
+      {
+        question: "What is 7.75 hours in hours and minutes?",
+        answer: "7.75 hours is 7 hours and 45 minutes, because 0.75 × 60 = 45 minutes.",
+      },
+    ],
+    about: `## Minutes to hours chart
+
+| Minutes | Hours and minutes | Decimal hours |
+| --- | --- | --- |
+| 15 | 0 hr 15 min | 0.25 |
+| 30 | 0 hr 30 min | 0.5 |
+| 45 | 0 hr 45 min | 0.75 |
+| 90 | 1 hr 30 min | 1.5 |
+| 120 | 2 hr 0 min | 2 |
+| 150 | 2 hr 30 min | 2.5 |
+
+## Where this helps
+
+- Adding up work hours for a timesheet
+- Working out how long a trip or project took
+- Adding cooking or workout times
+
+Need to turn payroll hours like 7.8 into hours and minutes? Use our [decimal to time calculator](/tools/decimal-to-time-calculator).`,
+    keywords: ["hours and minutes calculator", "time calculator", "minutes to hours", "add hours and minutes"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "decimal-to-time-calculator",
+    name: "Decimal to Time Calculator",
+    h1: "Decimal to Time Calculator",
+    title: "Decimal to Time Calculator: Decimal Hours to Hours and Minutes",
+    description:
+      "Convert decimal hours like 7.8 into hours, minutes, and seconds, or turn a time into decimal hours for payroll and timesheets.",
+    summary: "Turn decimal hours into hours and minutes, and back.",
+    howTo: [
+      "Enter the decimal hours, such as 7.8.",
+      "Read the answer in hours and minutes and in clock format.",
+      "Switch to Time to decimal hours if you need to go the other way.",
+    ],
+    faq: [
+      {
+        question: "How do I convert decimal hours to minutes?",
+        answer: "Multiply the decimal part by 60. For 7.8 hours, 0.8 × 60 = 48, so 7.8 hours is 7 hours and 48 minutes.",
+      },
+      {
+        question: "How do I convert hours and minutes to decimal?",
+        answer: "Divide the minutes by 60 and add it to the hours. For 6 hours and 20 minutes, 20 ÷ 60 = 0.33, so it is about 6.33 hours.",
+      },
+    ],
+    about: `## Decimal to minutes chart
+
+| Decimal | Minutes |
+| --- | --- |
+| 0.1 | 6 min |
+| 0.2 | 12 min |
+| 0.25 | 15 min |
+| 0.3 | 18 min |
+| 0.4 | 24 min |
+| 0.5 | 30 min |
+| 0.6 | 36 min |
+| 0.7 | 42 min |
+| 0.75 | 45 min |
+| 0.8 | 48 min |
+| 0.9 | 54 min |
+
+Payroll systems often show hours as decimals, so 8.5 hours means 8 hours and 30 minutes, not 8 hours and 50 minutes. To add or subtract times, use our [hours and minutes calculator](/tools/hours-and-minutes-calculator).`,
+    keywords: ["decimal to time calculator", "decimal hours to minutes", "decimal to hours and minutes", "convert decimal hours"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "age-calculator",
+    name: "Age Calculator",
+    h1: "Age Calculator: How Old Am I?",
+    title: "Age Calculator: Exact Age in Years, Months and Days",
+    description:
+      "Find the exact age of anyone, including a child or baby, in years, months, and days. See total weeks and days and how long until the next birthday.",
+    summary: "Exact age in years, months, and days, plus the next birthday.",
+    howTo: [
+      "Pick the date of birth.",
+      "Leave the second date empty to use today, or pick another date to find the age on that day.",
+      "Read the age in years, months, and days, plus totals and the days until the next birthday.",
+    ],
+    faq: [
+      {
+        question: "How do I calculate my exact age?",
+        answer:
+          "Subtract your birth year from the current year. If your birthday has not happened yet this year, subtract 1. Then count the months and days since your last birthday. This calculator does all of it for you.",
+      },
+      {
+        question: "How do I work out a baby's age in months?",
+        answer: "Enter the baby's birth date. The calculator shows the age in years, months, and days, and the total months, which is how doctors usually track young children.",
+      },
+      {
+        question: "Does the calculator count leap years?",
+        answer: "Yes. It uses real calendar dates, so leap years and months with different numbers of days are counted correctly.",
+      },
+    ],
+    about: `## Why exact age matters
+
+Exact age is handy for school sign-ups, sports leagues, forms, and tracking a baby's growth. Many forms ask for age in years and months, not just years.
+
+## Fun ways to use it
+
+- Find out how many days old you are
+- Count down to your next birthday
+- Work out someone's age on a past or future date
+
+Planning a celebration? See how many days are left with our [Christmas countdown](/tools/days-until-christmas).`,
+    keywords: ["age calculator", "how old am i", "age calculator of child", "exact age calculator"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "shoe-size-converter",
+    name: "Women's to Men's Shoe Size Converter",
+    h1: "Women's to Men's Shoe Size Converter",
+    title: "Women's to Men's Shoe Size Conversion Calculator (US)",
+    description:
+      "Convert US women's shoe sizes to men's sizes and back in one click. Includes a full conversion chart and tips for getting the right fit.",
+    summary: "Switch between US women's and men's shoe sizes.",
+    howTo: [
+      "Choose women's to men's or men's to women's.",
+      "Enter your US shoe size. Half sizes are fine.",
+      "Use the result as a starting point and check the brand's own chart.",
+    ],
+    faq: [
+      {
+        question: "What is a women's 8 in men's shoes?",
+        answer: "A women's 8 is about a men's 6.5 in US sizes. Women's sizes are usually 1.5 sizes larger than men's for the same foot length.",
+      },
+      {
+        question: "Are men's shoes wider than women's?",
+        answer: "Usually, yes. Men's shoes are often made a bit wider. If you have narrow feet, a men's shoe may feel loose even in the right length.",
+      },
+    ],
+    about: `## US women's to men's shoe size chart
+
+| Women's | Men's |
+| --- | --- |
+| 6 | 4.5 |
+| 7 | 5.5 |
+| 8 | 6.5 |
+| 9 | 7.5 |
+| 10 | 8.5 |
+| 11 | 9.5 |
+| 12 | 10.5 |
+
+This chart uses the common 1.5 size difference. Some brands, especially sneaker brands, use a 1 or 2 size difference, so always check the size chart on the product page.
+
+## Tips for a good fit
+
+- Measure your feet in the afternoon, when they are slightly larger.
+- Leave about a thumb's width of space in front of your longest toe.
+- Try shoes on with the socks you plan to wear.`,
+    keywords: ["women's to men's shoe size", "shoe size conversion", "men's to women's shoe size", "unisex shoe size"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "engagement-rate-calculator",
+    name: "Engagement Rate Calculator",
+    h1: "Engagement Rate Calculator for Instagram and TikTok",
+    title: "Engagement Rate Calculator for Instagram and TikTok",
+    description:
+      "Calculate your Instagram or TikTok engagement rate by followers or by views. Enter likes, comments, shares, and saves to get your rate instantly.",
+    summary: "Work out your Instagram or TikTok engagement rate.",
+    howTo: [
+      "Choose to calculate by followers or by views.",
+      "Enter the likes, comments, shares, and saves for a post.",
+      "Enter your followers or the post's views to see the engagement rate.",
+    ],
+    faq: [
+      {
+        question: "How do you calculate Instagram engagement rate?",
+        answer:
+          "Add up the likes, comments, shares, and saves on a post, divide by your number of followers, and multiply by 100. For example, 487 interactions ÷ 15,000 followers × 100 = 3.25%.",
+      },
+      {
+        question: "How is TikTok engagement rate calculated?",
+        answer: "TikTok is often measured by views instead of followers, because many views come from people who do not follow you. Divide total interactions by views and multiply by 100.",
+      },
+      {
+        question: "What is a good engagement rate?",
+        answer:
+          "It depends on the platform and your account size. Smaller accounts often have higher rates than big ones. The most useful comparison is your own posts over time, using the same method each time.",
+      },
+    ],
+    about: `## Engagement rate formulas
+
+- **By followers:** (likes + comments + shares + saves) ÷ followers × 100
+- **By views:** (likes + comments + shares + saves) ÷ views × 100
+
+Rates by views are usually lower when a post goes viral, and rates by followers can look high when a post reaches many non-followers. Pick one method and stick with it.
+
+## How to raise engagement
+
+- Post when your followers are most active.
+- Ask a simple question to get comments.
+- Use short, clear captions and strong first seconds in videos.
+- Reply to comments quickly.`,
+    keywords: ["engagement rate calculator", "instagram engagement rate calculator", "tiktok engagement rate calculator"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "dog-years-calculator",
+    name: "Dog Years Calculator",
+    h1: "Dog Years to Human Years Calculator",
+    title: "Dog Years Calculator: Dog Age to Human Years by Size",
+    description:
+      "Convert your dog's age to human years, or human years to dog years, based on your dog's size. Includes a dog age chart for small, medium, and large dogs.",
+    summary: "Convert dog years to human years by size, and back.",
+    howTo: [
+      "Choose dog years to human years or the other way around.",
+      "Pick your dog's adult size.",
+      "Enter the age to see the result.",
+    ],
+    faq: [
+      {
+        question: "Is one dog year really seven human years?",
+        answer:
+          "No. That is an old myth. Dogs grow up much faster early in life. The first year is about 15 human years, the second adds about 9, and after that each year adds about 4 to 7 depending on size.",
+      },
+      {
+        question: "Why do big dogs age faster?",
+        answer: "Large and giant breeds tend to have shorter lives and reach their senior years sooner than small dogs, so each year after age 2 counts for more human years.",
+      },
+      {
+        question: "When is a dog a senior?",
+        answer: "Small dogs are often considered seniors around age 7, while large breeds may be seniors at 5 or 6. Ask your vet about senior checkups.",
+      },
+    ],
+    about: `## Dog age chart
+
+| Dog age | Small | Medium | Large | Giant |
+| --- | --- | --- | --- | --- |
+| 1 | 15 | 15 | 15 | 15 |
+| 2 | 24 | 24 | 24 | 24 |
+| 5 | 36 | 39 | 42 | 45 |
+| 8 | 48 | 54 | 60 | 66 |
+| 10 | 56 | 64 | 72 | 80 |
+| 12 | 64 | 74 | 84 | 94 |
+| 15 | 76 | 89 | 102 | 115 |
+
+These are estimates. Breed, health, and care all affect how a dog ages. Regular vet visits matter more than any chart.`,
+    keywords: ["dog years calculator", "human years to dog years", "dog age calculator", "dog years to human years"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "water-intake-calculator",
+    name: "Water Intake Calculator",
+    h1: "How Much Water Should I Drink a Day?",
+    title: "Water Intake Calculator: How Much Water Should I Drink a Day?",
+    description:
+      "Estimate how much water to drink each day based on your weight, exercise, and climate. See the answer in ounces, cups, and liters.",
+    summary: "Estimate your daily water needs in ounces, cups, and liters.",
+    howTo: [
+      "Enter your weight in pounds.",
+      "Enter how many minutes you exercise each day.",
+      "Check the box if it is hot where you live, then read your daily goal.",
+    ],
+    faq: [
+      {
+        question: "How much water should I drink a day?",
+        answer:
+          "A common rule of thumb is half your body weight in ounces, plus more when you exercise or it is hot. The National Academies suggest about 15.5 cups of total fluids a day for men and 11.5 cups for women, including water from food and other drinks.",
+      },
+      {
+        question: "Do coffee, tea, and food count?",
+        answer: "Yes. All drinks count toward your fluids, and about 20 percent of daily water usually comes from food like fruits, vegetables, and soup.",
+      },
+      {
+        question: "How do I know if I am drinking enough?",
+        answer: "Pale yellow urine and rarely feeling thirsty are good signs. Dark urine, headaches, and tiredness can mean you need more water.",
+      },
+    ],
+    about: `## Water intake by weight
+
+| Weight | Daily water (no exercise) |
+| --- | --- |
+| 120 lb | 60 oz (7.5 cups) |
+| 150 lb | 75 oz (about 9.5 cups) |
+| 180 lb | 90 oz (about 11 cups) |
+| 210 lb | 105 oz (about 13 cups) |
+
+## Easy ways to drink more water
+
+- Keep a refillable bottle with you.
+- Drink a glass with every meal.
+- Add lemon or fruit for flavor.
+- Eat water-rich foods like watermelon, cucumbers, and oranges.
+
+If your tap water tastes off, see [why tap water tastes like chlorine](/why-does-my-water-taste-like-chlorine). This tool gives a general estimate and is not medical advice.`,
+    relatedArticles: ["why-does-my-water-taste-like-chlorine", "how-to-install-a-water-filtration-system"],
+    keywords: ["how much water should i drink a day calculator", "water intake calculator", "daily water intake"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "mpg-calculator",
+    name: "MPG Calculator",
+    h1: "Miles Per Gallon (MPG) Calculator",
+    title: "MPG Calculator: Miles Per Gallon and Trip Fuel Cost",
+    description:
+      "Work out your car's miles per gallon, cost per mile, and the fuel cost of any trip. Enter miles driven, gallons used, and the price of gas.",
+    summary: "Find your MPG, cost per mile, and trip fuel cost.",
+    howTo: [
+      "Fill your tank and reset the trip meter.",
+      "At the next fill-up, enter the miles driven and the gallons it took to refill.",
+      "Add the gas price and a trip distance to see cost per mile and trip cost.",
+    ],
+    faq: [
+      {
+        question: "How do I calculate miles per gallon?",
+        answer: "Divide the miles you drove by the gallons you used. For example, 320 miles ÷ 11.5 gallons = about 27.8 MPG.",
+      },
+      {
+        question: "Why is my real MPG lower than the sticker?",
+        answer: "City driving, cold weather, short trips, heavy loads, low tire pressure, and fast highway speeds can all lower real-world MPG.",
+      },
+    ],
+    about: `## How to get better gas mileage
+
+- Keep tires filled to the pressure on the sticker inside the driver's door.
+- Drive smoothly. Hard starts and stops waste gas.
+- Slow down on the highway.
+- Remove roof racks and heavy items you do not need.
+- Keep up with oil changes and air filters.
+
+Walmart+ members can save up to 10 cents a gallon at some stations. See if it pays off with our [Walmart+ savings calculator](/tools/walmart-plus-calculator).`,
+    keywords: ["mpg calculator", "miles per gallon calculator", "fuel cost calculator", "gas mileage calculator"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "salary-increase-calculator",
+    name: "Salary Increase Calculator",
+    h1: "Salary Increase Percentage Calculator",
+    title: "Salary Increase Calculator: Raise Percentage and New Pay",
+    description:
+      "Find your raise percentage from your old and new pay, or see your new salary after a raise. Shows yearly, monthly, and hourly amounts.",
+    summary: "Work out your raise percentage or your new pay.",
+    howTo: [
+      "Choose if you know your new pay or your raise percentage.",
+      "Enter your current yearly pay and the other number.",
+      "Read your raise, new pay, and extra money per year and per month.",
+    ],
+    faq: [
+      {
+        question: "How do I calculate my raise percentage?",
+        answer: "Subtract your old pay from your new pay, divide by your old pay, and multiply by 100. From $55,000 to $58,500 is a 6.36% raise.",
+      },
+      {
+        question: "What is a normal raise?",
+        answer: "Many U.S. employers give yearly raises of about 3 to 5 percent, but it varies by company, job, and the economy. A promotion or new job often brings a bigger jump.",
+      },
+    ],
+    about: `## Raise examples
+
+| Current pay | Raise | New pay | Extra per month |
+| --- | --- | --- | --- |
+| $40,000 | 3% | $41,200 | $100 |
+| $55,000 | 4% | $57,200 | $183 |
+| $70,000 | 5% | $73,500 | $292 |
+| $90,000 | 10% | $99,000 | $750 |
+
+Amounts are before taxes. For other percentage math, use our [free percentage calculator](/tools/percentage-calculator) or read [how to calculate percentage change](/how-to-calculate-percentage-change).`,
+    relatedArticles: ["how-to-calculate-percentage-change"],
+    keywords: ["salary increase percentage calculator", "raise calculator", "pay raise calculator", "salary increase calculator"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "tree-trimming-cost-calculator",
+    name: "Tree Trimming Cost Calculator",
+    h1: "Tree Trimming Cost Calculator",
+    title: "Tree Trimming Cost Calculator: 2026 Prices by Tree Size",
+    description:
+      "Estimate what tree trimming will cost based on tree height, number of trees, access, and urgency. Uses typical 2026 U.S. prices.",
+    summary: "Estimate tree trimming costs by tree size and number.",
+    howTo: [
+      "Pick the height of the tree.",
+      "Enter how many trees need trimming.",
+      "Check the boxes for hard access or emergency work to see your estimated range.",
+    ],
+    faq: [
+      {
+        question: "How much does it cost to trim a tree?",
+        answer: "Most homeowners pay around $475 per tree on average. Small trees can cost as little as $80, while trees over 60 feet can cost $1,800 or more.",
+      },
+      {
+        question: "When is the best time to trim trees?",
+        answer: "Late winter, when trees are dormant, is often best for most trees. Companies may also be less busy then. Remove dead or dangerous branches any time.",
+      },
+      {
+        question: "Will the power company trim trees near lines?",
+        answer: "Many utilities trim branches near their power lines for free. Call your utility before hiring anyone, and never trim near lines yourself.",
+      },
+    ],
+    about: `## Typical tree trimming prices (2026)
+
+| Tree height | Typical cost per tree |
+| --- | --- |
+| Small (under 30 ft) | $80 to $450 |
+| Medium (30 to 60 ft) | $150 to $900 |
+| Large (over 60 ft) | $200 to $1,850 |
+
+## What changes the price
+
+- **Height and spread.** Taller trees need climbers, bucket trucks, or cranes.
+- **Access.** Trees near the house or in fenced backyards take longer.
+- **Tree health.** Dead or diseased trees can be riskier to work on.
+- **Cleanup.** Hauling away branches may cost extra.
+
+Get at least three written quotes, and ask if the company is insured. Large branches over your roof can also cause damage. If you see new cracks in walls or ceilings after a storm, see [when wall cracks are serious](/wall-cracks-worry).`,
+    keywords: ["tree trimming cost calculator", "tree trimming cost", "tree pruning cost", "cost to trim a tree"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "home-inspection-cost-calculator",
+    name: "Home Inspection Cost Calculator",
+    h1: "Home Inspection Cost Calculator",
+    title: "Home Inspection Cost Calculator: 2026 Prices and Add-Ons",
+    description:
+      "Estimate the cost of a home inspection by square footage, plus radon, termite, sewer scope, and mold testing. Based on typical 2026 U.S. prices.",
+    summary: "Estimate a home inspection's cost, with optional add-on tests.",
+    howTo: [
+      "Enter the home's size in square feet.",
+      "Check any extra tests you want, like radon or a sewer scope.",
+      "Read the estimated total range.",
+    ],
+    faq: [
+      {
+        question: "How much does a home inspection cost?",
+        answer: "A standard inspection for a single-family home usually costs about $300 to $450. Bigger and older homes cost more, and add-on tests like radon or a sewer scope add $75 to $700 each.",
+      },
+      {
+        question: "Who pays for the home inspection?",
+        answer: "In most U.S. home sales, the buyer pays for the inspection. It is usually paid at the time of the inspection, not at closing.",
+      },
+      {
+        question: "Is a sewer scope worth it?",
+        answer: "It is often worth it for older homes or homes with big trees nearby, because roots and broken pipes can be very costly to fix.",
+      },
+    ],
+    about: `## Typical home inspection prices (2026)
+
+| Home size | Typical cost |
+| --- | --- |
+| Under 1,000 sq ft | $250 to $350 |
+| 1,000 to 1,500 sq ft | $300 to $400 |
+| 1,500 to 2,500 sq ft | $325 to $450 |
+| 2,500 to 3,500 sq ft | $400 to $550 |
+
+## Common add-on tests
+
+| Test | Typical cost |
+| --- | --- |
+| Radon | $100 to $200 |
+| Termite (WDO) | $75 to $150 |
+| Sewer scope | $150 to $300 |
+| Mold testing | $300 to $700 |
+
+A good inspector looks for things like [hidden water leaks](/hidden-water-leaks), [serious wall cracks](/wall-cracks-worry), and signs of moisture. Ask for a sample report before you hire one.`,
+    relatedArticles: ["hidden-water-leaks", "wall-cracks-worry"],
+    keywords: ["home inspection cost calculator", "home inspection cost", "how much is a home inspection"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "fence-cost-calculator",
+    name: "Wood Fence Cost Calculator",
+    h1: "Wood Fence Cost Calculator",
+    title: "Wood Fence Cost Calculator: Price Per Foot (2026)",
+    description:
+      "Estimate the installed cost of a pine, cedar, or redwood fence by length, height, and gates. Uses typical 2026 U.S. prices per linear foot.",
+    summary: "Estimate a new wood fence by length, wood type, and height.",
+    howTo: [
+      "Measure and enter the total length of fence in feet.",
+      "Pick the wood type and height, and enter the number of gates.",
+      "Check the box if an old fence must be removed, then read your estimate.",
+    ],
+    faq: [
+      {
+        question: "How much does a wood fence cost per foot?",
+        answer: "Most installed wood fences cost about $20 to $35 per foot for pressure-treated pine, $33 to $53 for cedar, and $40 to $65 for redwood, for a standard 6-foot privacy fence.",
+      },
+      {
+        question: "How much does a 150-foot wood fence cost?",
+        answer: "A 150-foot, 6-foot pine privacy fence usually costs about $3,000 to $5,250, plus gates. Cedar would be about $4,950 to $7,950.",
+      },
+      {
+        question: "Do I need a permit for a fence?",
+        answer: "Many towns require a permit, and HOAs often have their own rules on height and style. Call 811 before digging so buried utility lines can be marked for free.",
+      },
+    ],
+    about: `## Wood fence cost per foot (installed, 6 ft)
+
+| Wood | Cost per linear foot |
+| --- | --- |
+| Pressure-treated pine | $20 to $35 |
+| Cedar | $33 to $53 |
+| Redwood | $40 to $65 |
+
+A 4-foot fence usually costs about a quarter less, and an 8-foot fence about a third more. Gates often add $250 to $600 each.
+
+## Tips to save
+
+- Get quotes in late fall or winter, when installers are less busy.
+- Split the cost with neighbors on shared fence lines.
+- Pick a simple style. Decorative tops and lattice cost more.
+
+Want to know your property size? Try our [lot size to acres calculator](/tools/lot-size-to-acres-calculator).`,
+    keywords: ["wood fence cost calculator", "fence cost calculator", "fence cost per foot", "cedar fence cost"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
+    slug: "lot-size-to-acres-calculator",
+    name: "Lot Size to Acres Calculator",
+    h1: "Lot Size to Acres Calculator",
+    title: "Lot Size to Acres Calculator: Square Feet to Acres",
+    description:
+      "Convert lot size in square feet or length and width to acres, square meters, and hectares, or convert acres to square feet.",
+    summary: "Convert square feet or lot dimensions to acres and more.",
+    howTo: [
+      "Choose square feet, length × width, or acres.",
+      "Enter your numbers.",
+      "Read the size in acres, square feet, square meters, and hectares.",
+    ],
+    faq: [
+      {
+        question: "How many square feet are in an acre?",
+        answer: "One acre is 43,560 square feet. That is about the size of a U.S. football field without the end zones.",
+      },
+      {
+        question: "How do I convert square feet to acres?",
+        answer: "Divide the square feet by 43,560. For example, a 10,890 square foot lot is 10,890 ÷ 43,560 = 0.25 acres.",
+      },
+    ],
+    about: `## Common lot sizes
+
+| Acres | Square feet | Example size |
+| --- | --- | --- |
+| 0.1 | 4,356 | About 66 × 66 ft |
+| 0.25 | 10,890 | About 104 × 104 ft |
+| 0.5 | 21,780 | About 148 × 148 ft |
+| 1 | 43,560 | About 209 × 209 ft |
+
+Your lot size is usually on your property tax bill, deed, or county website. Planning a fence around it? Use our [wood fence cost calculator](/tools/fence-cost-calculator).`,
+    keywords: ["lot size to acres calculator", "square feet to acres", "acres calculator", "lot size calculator"],
+    publishedAt: "2026-09-30",
+    updatedAt: "2026-09-30",
+  },
+  {
     slug: "keyword-cannibalization-checker",
     image: { src: "/images/tools/keyword-cannibalization-checker.webp", alt: "Laptop showing three pages competing for the same keyword, with a notebook of SEO checks", width: 1536, height: 1024 },
     name: "Keyword Cannibalization Checker",
