@@ -312,6 +312,42 @@ const illustrations = {
     <path d="M1160 260 L1240 400 H1080 Z" fill="${c.mid}"/>
     <path d="M1160 310 V350 M1160 375 V380" stroke-width="10"/>
   `),
+  "how-to-fix-lg-washing-machine-error-codes": frame("blue", (c) => `
+    <rect x="560" y="170" width="420" height="580" rx="30"/>
+    <path d="M560 290 H980"/>
+    <rect x="600" y="210" width="150" height="50" rx="8" fill="${c.mid}"/>
+    <path d="M630 245 V225 H650 M630 235 H645 M630 245 H650 M670 225 V245 H690 M670 235 H685 M670 225 H690" stroke-width="5"/>
+    <circle cx="770" cy="500" r="150"/>
+    <circle cx="770" cy="500" r="100" fill="${c.mid}"/>
+  `),
+  "fingerprint-not-working-on-android-and-iphone": frame("violet", (c) => `
+    <rect x="600" y="160" width="320" height="600" rx="52"/>
+    <path d="M720 210 H800"/>
+    <path d="M700 480 C700 400 820 400 820 480 V540 M730 560 V480 C730 440 790 440 790 480 V580 M760 600 V480 M670 520 V470 C670 370 850 370 850 470 V520" stroke-width="8"/>
+    <circle cx="1100" cy="320" r="70" fill="${c.mid}"/>
+    <path d="M1070 290 L1130 350 M1130 290 L1070 350" stroke-width="12"/>
+  `),
+  "what-to-do-if-there-is-a-power-outage": frame("amber", (c) => `
+    <path d="M420 460 L700 260 L980 460 V740 H420 Z" fill="${c.ink}" opacity="0.15"/>
+    <path d="M420 460 L700 260 L980 460 V740 H420 Z"/>
+    <rect x="640" y="580" width="120" height="160"/>
+    <path d="M1140 180 L1060 360 H1130 L1070 540" stroke-width="16"/>
+    <path d="M500 650 L620 560 L630 600 Z" fill="${c.mid}"/>
+  `),
+  "hurricane-windows-shutters-are-worth-the-invest": frame("blue", (c) => `
+    <rect x="520" y="200" width="440" height="520" rx="10"/>
+    ${[0,1,2,3,4,5,6,7].map(i => `<path d="M540 ${250+i*55} H940" stroke-width="8"/>`).join("")}
+    <rect x="520" y="200" width="440" height="40" fill="${c.mid}"/>
+    <path d="M1030 300 C1090 280 1130 330 1200 300 M1030 400 C1100 380 1140 430 1220 400 M1030 500 C1090 480 1130 530 1200 500" stroke-width="10" opacity="0.7"/>
+  `),
+  "how-to-fix-zoom-error-code-10004": frame("blue", (c) => `
+    <rect x="440" y="220" width="560" height="360" rx="24"/>
+    <path d="M380 640 H1060 L1020 580 H420 Z" fill="${c.mid}"/>
+    <rect x="520" y="300" width="200" height="140" rx="16" fill="${c.mid}"/>
+    <path d="M720 350 L790 310 V430 L720 390 Z" fill="${c.mid}"/>
+    <circle cx="1110" cy="320" r="70"/>
+    <path d="M1110 280 V330 M1110 355 V360" stroke-width="12"/>
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>

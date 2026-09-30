@@ -66,6 +66,8 @@ export const legacyRedirects: Redirect[] = [
   { source: "/:tool(mwst-rechner|google-review-calculator)", destination: "/tools" },
   { source: "/mold-no-water-damage", destination: "/why-does-my-room-smell-musty" },
   { source: "/home-problems-worsen", destination: "/home-problems" },
+  { source: "/why-is-roof-repair-necessary", destination: "/signs-your-roof-needs-repair-or-replacement" },
+  { source: "/how-to-maintain-and-repair-your-metal-roof", destination: "/signs-your-roof-needs-repair-or-replacement" },
   // Old German and SEO tools that no longer exist.
   {
     source:

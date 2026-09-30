@@ -57,7 +57,8 @@ for (const { file, data, content } of articles) {
   if (RESERVED.has(slug)) errors.push(`${where}: slug "${slug}" is reserved`);
   if (CATEGORIES.some((c) => slug.startsWith(`${c}-`))) errors.push(`${where}: slug must not start with a category`);
   if (/(^|-)(19|20)\d{2}(-|$)/.test(slug)) errors.push(`${where}: slug should not contain a year`);
-  if (/(^|-)\d{3,}(-|$)/.test(slug)) errors.push(`${where}: slug should not contain IDs`);
+  // Error codes people search for (e.g. "zoom-error-code-10004") are not IDs.
+  if (/(^|-)\d{3,}(-|$)/.test(slug) && !/(code|error)-\d{3,}(-|$)/.test(slug)) errors.push(`${where}: slug should not contain IDs`);
   if (file !== `${slug}.md`) errors.push(`${where}: file name must be ${slug}.md`);
   if (!CATEGORIES.includes(String(data.category))) errors.push(`${where}: unknown category "${data.category}"`);
   if (!authorSlugs.includes(String(data.author))) errors.push(`${where}: unknown author "${data.author}"`);

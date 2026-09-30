@@ -67,7 +67,8 @@ export function validateSlug(slug: string): string[] {
   if (!SLUG_PATTERN.test(slug)) problems.push("must be lowercase words separated by single hyphens");
   if (RESERVED_SLUGS.has(slug)) problems.push("is a reserved top-level path");
   if (/(^|-)(19|20)\d{2}(-|$)/.test(slug)) problems.push("should not contain a year/date");
-  if (/(^|-)\d{3,}(-|$)/.test(slug)) problems.push("should not contain IDs or long numbers");
+  // Error codes people search for (e.g. "zoom-error-code-10004") are allowed.
+  if (/(^|-)\d{3,}(-|$)/.test(slug) && !/(code|error)-\d{3,}(-|$)/.test(slug)) problems.push("should not contain IDs or long numbers");
   if (/^(home-problems|tech-problems|internet-apps|everyday-solutions|tools|blog|category)-/.test(slug))
     problems.push("must not start with a category prefix");
   if (slug.length > 75) problems.push("is too long (max 75 characters)");
