@@ -124,6 +124,10 @@ Call a licensed plumber if:
 
 Many plumbers use special tools, like acoustic listening devices and thermal cameras, to find leaks without tearing open walls.
 
+## Buying a home?
+
+A good home inspection can spot hidden leaks before you buy. See typical prices with our [home inspection cost calculator](/tools/home-inspection-cost-calculator).
+
 ## The bottom line
 
 Hidden water leaks show up as higher bills, running water sounds, musty smells, stains, and a water meter that moves when everything is off. Start with the free meter test and the food coloring test in your toilets. Fix small leaks right away, dry any wet areas within 24 to 48 hours, and call a plumber for leaks you cannot find or reach.

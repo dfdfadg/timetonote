@@ -143,6 +143,10 @@ You can usually keep using your benefits until the end of the time you already p
 - **Watch for yearly plan sales** if you know you will keep it.
 - **Check your email** for member-only deals.
 
+## See your own savings
+
+Our [Walmart+ savings calculator](/tools/walmart-plus-calculator) adds up delivery, shipping, gas, and streaming value so you can see if the fee pays off for you.
+
 ## The bottom line
 
 Signing up for Walmart+ takes just a few minutes on the app or at walmart.com/plus. Start with the 30-day free trial, try the free delivery and gas savings, and see if you use it enough. At $12.95 a month or $98 a year, it is a good deal for people who order groceries often, and easy to cancel if it is not the right fit.

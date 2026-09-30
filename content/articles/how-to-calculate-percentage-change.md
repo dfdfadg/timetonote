@@ -290,6 +290,11 @@ You can check your answers with our [free percentage change calculator](/tools/p
 - **Business:** How much did sales grow this month?
 - **Health:** How much weight did you lose or gain?
 
+
+## Working out a pay raise?
+
+Our [salary increase calculator](/tools/salary-increase-calculator) shows your raise as a percentage, plus your new yearly, monthly, and hourly pay.
+
 ## Summary
 
 To find percentage change, subtract the old value from the new value, divide by the old value, and multiply by 100. A positive answer is an increase, and a negative answer is a decrease. Always divide by the old value, and remember that percentages do not cancel out. For quick answers without the math, try the [TimeToNote percentage change calculator](/tools/percentage-calculator), which shows the formula next to every result.

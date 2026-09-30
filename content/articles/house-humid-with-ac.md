@@ -131,6 +131,10 @@ High humidity is more than uncomfortable. It can lead to mold, dust mites, musty
 - The AC turns on and off every few minutes
 - Your system is more than 15 years old and struggling
 
+## Pick the right dehumidifier size
+
+Not sure how many pints you need? Our [dehumidifier size calculator](/tools/dehumidifier-size-calculator) recommends a size based on your space and how damp it is.
+
 ## The bottom line
 
 A house that stays humid with the AC on usually has an AC that short cycles, a fan set to ON, a dirty filter or coil, or too much moisture getting in. Start with the free fixes: set the fan to AUTO, change the filter, and run exhaust fans. Keep humidity between 30 and 50 percent with a dehumidifier if needed, and call an HVAC pro if the problem does not go away.

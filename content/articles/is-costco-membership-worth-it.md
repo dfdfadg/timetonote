@@ -119,6 +119,10 @@ If Costco is not saving you money, you can cancel and get your fee back. Our gui
 
 *TimeToNote is not connected to Costco. Fees and benefits can change, so check Costco's website for the latest details.*
 
+## Run your own numbers
+
+Enter your monthly spending in our [Costco Executive break-even calculator](/tools/costco-membership-calculator) to get an instant answer.
+
 ## The bottom line
 
 A $65 Gold Star membership usually pays for itself if you spend around $100 a month at Costco or buy gas there often. The $130 Executive membership only makes sense if you spend about $3,250 or more a year, or about $271 a month. Since Costco refunds your fee if you are not happy, the easiest way to know is to try it for a few months and track how much you save.

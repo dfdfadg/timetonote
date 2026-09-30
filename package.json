@@ -11,7 +11,8 @@
     "typecheck": "next typegen && tsc --noEmit",
     "content:check": "node --experimental-strip-types --no-warnings scripts/check-content.ts",
     "images": "node scripts/generate-images.mjs",
-    "brand": "node scripts/generate-brand.mjs"
+    "brand": "node scripts/generate-brand.mjs",
+    "postbuild": "node scripts/indexnow.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
