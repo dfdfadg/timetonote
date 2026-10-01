@@ -10,7 +10,7 @@ publishedAt: 2026-10-01
 updatedAt: 2026-10-01
 featuredImage:
   src: /images/articles/how-long-to-thaw-a-turkey.webp
-  alt: "Illustration of a whole turkey on a tray next to a calendar and a thermometer"
+  alt: "Raw turkey in a roasting pan on a refrigerator shelf next to a food thermometer and a fall calendar"
 tags: [turkey, thanksgiving, food safety, cooking, holidays]
 relatedArticles: [when-is-black-friday, what-to-do-if-there-is-a-power-outage, fridge-not-cooling-but-freezer-is]
 sources:

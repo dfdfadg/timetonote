@@ -366,42 +366,6 @@ const illustrations = {
     <circle cx="1175" cy="370" r="18" fill="${c.mid}"/>
     <circle cx="1060" cy="410" r="16" fill="${c.mid}"/>
   `),
-  "how-long-to-thaw-a-turkey": frame("amber", (c) => `
-    <ellipse cx="640" cy="560" rx="300" ry="70" fill="${c.mid}"/>
-    <path d="M400 540 C400 380 520 300 640 300 C760 300 880 380 880 540 Z"/>
-    <path d="M840 420 L960 360 M860 470 L990 430" stroke-width="16"/>
-    <circle cx="975" cy="355" r="20" fill="${c.mid}"/>
-    <circle cx="1005" cy="430" r="20" fill="${c.mid}"/>
-    <rect x="1060" y="220" width="200" height="200" rx="18"/>
-    <path d="M1060 280 H1260 M1110 200 V240 M1210 200 V240"/>
-    <rect x="1100" y="460" width="40" height="220" rx="20"/>
-    <circle cx="1120" cy="700" r="40" fill="${c.mid}"/>
-  `),
-  "how-to-keep-carved-pumpkins-from-rotting": frame("amber", (c) => `
-    <ellipse cx="640" cy="500" rx="260" ry="210" fill="${c.mid}"/>
-    <path d="M520 300 C500 420 500 580 520 700 M760 300 C780 420 780 580 760 700"/>
-    <path d="M640 290 V220 C640 200 660 190 680 200"/>
-    <path d="M520 430 L580 470 L520 490 Z M760 430 L700 470 L760 490 Z" fill="${c.ink}" stroke="none"/>
-    <path d="M540 580 Q640 640 740 580 L700 600 L680 580 L640 610 L600 580 L580 600 Z" fill="${c.ink}" stroke="none"/>
-    <rect x="980" y="360" width="110" height="260" rx="20"/>
-    <path d="M1000 360 V300 H1070 V360 M1070 320 H1130"/>
-    <rect x="1150" y="520" width="110" height="100" rx="16" fill="${c.mid}"/>
-  `),
-  "burning-smell-when-heat-turns-on": frame("rose", (c) => `
-    <rect x="420" y="520" width="600" height="180" rx="20"/>
-    ${[0,1,2,3,4,5,6].map(i => `<path d="M${470+i*80} 560 V660" stroke-width="10"/>`).join("")}
-    <path d="M520 470 C490 420 550 390 520 340 M640 470 C610 420 670 390 640 340 M760 470 C730 420 790 390 760 340 M880 470 C850 420 910 390 880 340" stroke-width="10" opacity="0.8"/>
-    <path d="M1080 330 C1040 270 1120 240 1080 180 C1150 220 1160 300 1110 340 Z" fill="${c.mid}"/>
-  `),
-  "how-to-keep-pipes-from-freezing": frame("blue", (c) => `
-    <path d="M300 520 H760 V320 H1000" stroke-width="44" stroke-linecap="round"/>
-    <rect x="420" y="480" width="200" height="80" rx="30" fill="${c.mid}"/>
-    <path d="M1000 300 H1080 V380" stroke-width="30"/>
-    <path d="M1080 420 C1065 445 1065 470 1080 480 C1095 470 1095 445 1080 420 Z" fill="${c.mid}"/>
-    <g transform="translate(1100 620)">
-      <path d="M0 -90 V90 M-78 -45 L78 45 M-78 45 L78 -45" stroke-width="12"/>
-    </g>
-  `),
   "how-to-cancel-amazon-prime": frame("violet", (c) => `
     <rect x="560" y="160" width="320" height="600" rx="52"/>
     <path d="M680 210 H760"/>

@@ -10,7 +10,7 @@ publishedAt: 2026-10-01
 updatedAt: 2026-10-01
 featuredImage:
   src: /images/articles/burning-smell-when-heat-turns-on.webp
-  alt: "Illustration of a floor heating vent with wavy lines of warm air and a small smoke curl"
+  alt: "Person smelling the air near an open window as warm air rises from a floor vent above a basement furnace"
 tags: [furnace, heating, burning smell, hvac, home safety]
 relatedArticles: [why-is-my-furnace-blowing-cold-air, why-is-my-smoke-detector-chirping, why-does-my-house-smell-like-sewage]
 sources:

@@ -10,7 +10,7 @@ publishedAt: 2026-10-01
 updatedAt: 2026-10-01
 featuredImage:
   src: /images/articles/how-to-keep-pipes-from-freezing.webp
-  alt: "Illustration of a water pipe wrapped in foam insulation with a snowflake and a dripping faucet"
+  alt: "Kitchen sink cabinet open to show foam-insulated pipes, with a dripping faucet and a snowy window"
 tags: [frozen pipes, winter, plumbing, home maintenance, cold weather]
 relatedArticles: [hidden-water-leaks, find-air-leaks, how-to-increase-water-pressure-in-house]
 sources:

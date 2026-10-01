@@ -10,7 +10,7 @@ publishedAt: 2026-10-01
 updatedAt: 2026-10-01
 featuredImage:
   src: /images/articles/how-to-keep-carved-pumpkins-from-rotting.webp
-  alt: "Illustration of a carved jack-o'-lantern with a spray bottle and a small jar"
+  alt: "Glowing carved jack-o'-lantern on porch steps with a spray bottle and a jar of petroleum jelly"
 tags: [halloween, pumpkins, jack o lantern, decorating, fall]
 relatedArticles: [how-to-get-rid-of-fruit-flies, how-to-get-rid-of-gnats, when-do-clocks-change]
 sources:
