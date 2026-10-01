@@ -7,7 +7,7 @@ category: internet-apps
 description: "Delete your YouTube search history on iPhone or Android in a few taps. Learn how to remove one search, clear all of it, pause it, and set it to delete on its own."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/delete-youtube-search-history-on-your-phone.webp
   alt: "Illustration of a phone with a video play button and a search bar with a delete icon"
@@ -18,6 +18,8 @@ sources:
     url: "https://support.google.com/youtube/answer/57711?hl=en&co=GENIE.Platform%3DAndroid"
   - title: "YouTube Help: View, Delete or Turn Watch History On or Off"
     url: "https://support.google.com/youtube/answer/95725?hl=en-GB&co=GENIE.Platform%3DAndroid"
+  - title: "TechRadar: Blank YouTube Homepage? You May Need to Turn On Watch History"
+    url: "https://www.techradar.com/computing/software/got-a-blank-youtube-homepage-you-may-now-need-to-turn-on-your-watch-history"
 faq:
   - question: "How do I delete my YouTube search history on my phone?"
     answer: "Open the YouTube app, tap You at the bottom, tap the gear icon for Settings, and tap Manage all history. From there you can delete your history for a time range or all time. To remove just one search, tap the search bar, then press and hold the search and tap Remove."
@@ -137,6 +139,33 @@ If your whole family uses one YouTube account, everyone sees the same history. A
 Clearing your history does not free up much space on your phone. But the YouTube app's cache and downloaded videos can take up a lot. On Android, go to **Settings**, then **Apps**, then **YouTube**, then **Storage**, and tap **Clear cache**. In the YouTube app, you can also delete downloaded videos from the **Downloads** section. Our guide on [fixing a full phone storage](/why-is-my-phone-storage-full) has more ideas.
 
 Want to find videos on another app? Here is how to [find the Reels you saved on Facebook](/how-to-view-saved-reels-on-facebook).
+
+## Search history vs watch history
+
+YouTube keeps two separate lists:
+
+| | Search history | Watch history |
+|---|---|---|
+| What it saves | The words you type in the search bar | The videos you play, even for a few seconds |
+| Shows up in | Search suggestions | The History page and your recommendations |
+| Can you delete it? | Yes | Yes |
+| Can you pause it? | Yes | Yes |
+
+Clearing your searches does not remove the videos you watched. If you want a full clean start, clear both.
+
+## What happens if you pause watch history?
+
+Pausing watch history affects more than your history page. YouTube has said that if your watch history is off and you have no past history to use, the **home page will not show recommended videos**. You will see the search bar and a message about your history instead.
+
+This is great if you want fewer distractions. If you want your recommendations back, turn watch history on again and watch a few videos you like.
+
+## Reset recommendations without deleting everything
+
+If your feed is full of videos you do not want, you do not have to wipe your whole history:
+
+- Tap the **three dots** next to a video on the home page and choose **Not interested**.
+- Choose **Don't recommend channel** to block a whole channel from your feed.
+- Delete just the few videos from your watch history that are causing the bad suggestions.
 
 ## The bottom line
 

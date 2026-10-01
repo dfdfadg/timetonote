@@ -7,7 +7,7 @@ category: internet-apps
 description: "Can't find the Reels you saved on Facebook? Here is exactly where saved Reels live on iPhone, Android, and computer, plus how to find Reels you liked or watched."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/how-to-view-saved-reels-on-facebook.webp
   alt: "Illustration of a phone showing a video reel with a bookmark icon"
@@ -128,6 +128,31 @@ Your saved Reels will not be deleted. They are saved to your account, not your p
 - **Share it with yourself.** Sending a Reel to yourself in Messenger is another easy way to keep it.
 
 If you also watch a lot of videos on YouTube and want to keep your history private, see our guide on [how to delete YouTube search history on your phone](/delete-youtube-search-history-on-your-phone).
+
+## How to share a saved Reel
+
+1. Open your **Saved** list and tap the Reel.
+2. Tap the **Share** button (the arrow icon).
+3. Choose where to send it, like Messenger, WhatsApp, a text message, or **Copy link**.
+
+The person you send it to can watch it as long as the Reel is public and still posted.
+
+## Can you download a saved Reel?
+
+Facebook only lets you download **your own** Reels. To save one you made, open the Reel, tap the **three dots**, and look for **Download** or **Save video**.
+
+Facebook does not offer a download button for other people's Reels. Be careful with third-party "Reel downloader" websites and apps. Some are full of ads, ask for your Facebook login, or install unwanted software. The safest way to keep someone else's Reel is to leave it in your Saved list or send the link to yourself.
+
+## Why a saved Reel can disappear for good
+
+Your Saved list only holds a link to the Reel, not a copy. So a Reel will vanish from your list if:
+
+- The person who posted it **deletes** it
+- They change who can see it, like **Friends only** or **Only me**
+- Facebook **removes** it for breaking its rules
+- The account that posted it is **deleted or blocked**
+
+If a Reel matters to you, like a recipe or how-to, write down the key steps or the creator's name so you can find it again.
 
 ## The bottom line
 

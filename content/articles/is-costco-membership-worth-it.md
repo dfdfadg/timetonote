@@ -7,7 +7,7 @@ category: everyday-solutions
 description: "Is a Costco membership worth the fee? See the simple math for Gold Star and Executive, how much you need to spend, who saves the most, and when to skip it."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/is-costco-membership-worth-it.webp
   alt: "Illustration of a shopping cart next to a scale weighing a coin and a receipt"
@@ -18,6 +18,10 @@ sources:
     url: "https://customerservice.costco.com/app/answers/answer_view/a_id/1205/~/what-is-an-executive-membership"
   - title: "Costco: Executive Rewards"
     url: "https://www.costco.com/f/-/executive-rewards"
+  - title: "CNBC: Sam's Club Raises Its Annual Membership Fee to $60"
+    url: "https://www.cnbc.com/2026/04/01/sam.html"
+  - title: "CreditCards.com: Costco Anywhere Visa Card by Citi Review"
+    url: "https://www.creditcards.com/reviews/costco-anywhere-visa-card-by-citi-review/"
 faq:
   - question: "How much is a Costco membership?"
     answer: "At the time of writing, a Gold Star membership costs $65 per year, and an Executive membership costs $130 per year. Business memberships are also $65. Prices can change, so check Costco's website before you join."
@@ -122,6 +126,40 @@ If Costco is not saving you money, you can cancel and get your fee back. Our gui
 ## Run your own numbers
 
 Enter your monthly spending in our [Costco Executive break-even calculator](/tools/costco-membership-calculator) to get an instant answer.
+
+## Costco vs Sam's Club
+
+Sam's Club is Costco's closest rival. Sam's Club raised its fees on **May 1, 2026**, but it still costs a little less than Costco.
+
+| | Costco | Sam's Club |
+|---|---|---|
+| Basic membership | $65 (Gold Star) | $60 (Club) |
+| Top membership | $130 (Executive) | $120 (Plus) |
+| Top tier reward | 2% back, up to $1,250 a year | 2% Sam's Cash, up to $750 a year |
+| Good to know | Known for Kirkland Signature products | Scan and Go app lets you skip the checkout line |
+
+The best choice is usually the one closer to your home. A cheaper membership does not help if the drive is twice as long. If both are close, compare prices on 5 to 10 items you buy most often.
+
+## Extra Executive perks beyond the 2%
+
+The 2% reward is the main reason to upgrade, but Executive members also get a few smaller perks:
+
+- **Early shopping hours** at many warehouses, so you can shop before the crowds.
+- **A $10 monthly credit** on eligible same-day delivery orders of $150 or more through Costco's Instacart service.
+- **The 2% reward also counts on Costco Travel** bookings, which can add up for a big trip.
+
+These perks can help if you are close to the break-even point.
+
+## The Costco credit card can add more savings
+
+Costco takes Visa cards in its U.S. warehouses. The Costco Anywhere Visa card from Citi has no annual fee but needs an active Costco membership. Its rewards include:
+
+- **5%** on gas at Costco and **4%** on other gas and EV charging (on up to $7,000 a year, then 1%)
+- **3%** on restaurants and eligible travel
+- **2%** on Costco purchases
+- **1%** on everything else
+
+Like the Executive reward, these come once a year as a certificate. A card only saves money if you pay it off in full each month, since interest wipes out the rewards fast.
 
 ## The bottom line
 

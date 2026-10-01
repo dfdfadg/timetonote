@@ -18,6 +18,8 @@ sources:
     url: "https://www.sherwin-williams.com/en-us/color/color-tools/paint-calculator"
   - title: "EPA: Lead-Based Paint Renovation, Repair and Painting Program"
     url: "https://www.epa.gov/lead/lead-renovation-repair-and-painting-program"
+  - title: "Sherwin-Williams: What Order Should I Paint a Room?"
+    url: "https://www.sherwin-williams.com/homeowners/ask-sherwin-williams/painting/interior-painting-how-tos/sw-article-dir-intpaintorder"
 faq:
   - question: "How much paint do I need for a room?"
     answer: "One gallon of interior paint usually covers about 350 to 400 square feet with one coat. Most rooms need two coats. A typical 12 by 12 foot bedroom with 8-foot ceilings has about 384 square feet of wall space, so plan on about 2 gallons for two coats."
@@ -132,6 +134,45 @@ Wait for the first coat to dry, usually 2 to 4 hours for latex paint. Then repea
 - **Painting in poor light.** Missed spots show up later.
 - **Stopping mid-wall.** It leaves visible lines where the paint dried.
 - **Rushing the second coat.** Wet paint can peel or look blotchy.
+
+## What order should you paint a room?
+
+Pros work from the top down so drips do not land on finished work:
+
+1. **Ceiling first.** Drips and splatters will fall on walls you have not painted yet.
+2. **Walls next.** Cut in, then roll.
+3. **Trim, doors, and baseboards last.** It is easier to cut a neat line on trim than on a wall.
+
+## How long does it take to paint a room?
+
+For one person doing a typical 12 by 12 foot bedroom with two coats, plan on most of a day:
+
+| Task | Rough time |
+|---|---|
+| Move furniture, clean, patch, and tape | 1 to 2 hours |
+| Cut in and roll the first coat | 2 to 3 hours |
+| Drying time between coats | 2 to 4 hours |
+| Second coat | 1.5 to 2 hours |
+| Clean up | 30 minutes |
+
+A small room or touch-up job goes faster. Ceilings, dark color changes, and lots of trim add time.
+
+## Best temperature and humidity for painting
+
+Paint dries best in mild, dry air. Check the label on your can, since some paints need it warmer. In general:
+
+- Keep the room at **50°F or warmer** while you paint and while the paint dries. Avoid very hot rooms too, since paint that dries too fast can show lap marks.
+- Lower humidity is better. High humidity makes paint dry slower and can leave streaks.
+- Open a window or run a fan for fresh air, but do not point the fan right at wet paint.
+
+## When can you hang pictures again?
+
+Paint is **dry to the touch** in a few hours, but it takes much longer to fully **cure** and get hard.
+
+- **Latex paint:** wait at least **24 hours** before hanging pictures on nails.
+- **Oil-based paint:** wait at least **48 hours**.
+- **Sticky hooks and strips:** wait longer. Many adhesive hook makers say to wait about **7 days** after painting, or the strips may peel the paint.
+- **Pushing furniture against walls:** wait a few days, or the paint may stick and peel.
 
 ## The bottom line
 

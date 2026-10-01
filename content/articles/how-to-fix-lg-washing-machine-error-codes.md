@@ -18,6 +18,10 @@ sources:
     url: "https://www.lg.com/us/support/help-library/lg-front-load-washer-error-code-list--20155069413456"
   - title: "LG: What Is a Front Load Washing Machine OE Error Code?"
     url: "https://www.lg.com/us/support/help-library/lg-washer-what-is-a-front-load-washing-machine-oe-error-code--1337714738535"
+  - title: "LG Support: How to Use Smart Diagnosis on an LG Washer"
+    url: "https://www.lg.com/us/support/help-library/lg-washer-how-to-use-smart-diagnosis--20152746940166"
+  - title: "ConsumerAffairs: LG Washing Machine Warranty"
+    url: "https://www.consumeraffairs.com/homeowners/lg-washing-machine-warranty.html"
 faq:
   - question: "How do I reset my LG washing machine?"
     answer: "Unplug the washer or turn off its circuit breaker for about 10 minutes, then plug it back in and start a new cycle. On many models you can also press and hold Start/Pause for 5 seconds with the power on. A reset clears many temporary errors."
@@ -127,6 +131,34 @@ Having dryer trouble too? See our guide on [a dryer that takes too long to dry](
 - The washer makes grinding or banging noises
 
 *TimeToNote is not connected to LG. For warranty service, contact LG directly.*
+
+## Other LG washer codes you may see
+
+These codes come up less often, but people search for them a lot.
+
+| Code | What it means | What to do |
+|---|---|---|
+| tCL | A Tub Clean cycle is due | Run **Tub Clean** with the drum empty. The code clears after the cycle. |
+| PF | Power failure. The power went off during a cycle. | Press **Start** to finish the cycle. If it keeps happening, plug the washer straight into the wall, not an extension cord. |
+| CE | The motor could not reach the right speed, often from too big a load | Take out some clothes and restart. Call for service if it keeps coming back. |
+| dE1 | The door is open or not shut all the way | Open the door, check for clothes in the seal, and close it firmly |
+| dE2 | The door is closed but did not lock | Close it firmly and restart. If you hear a click and still see dE2, the lock may need repair. |
+
+## Use LG Smart Diagnosis
+
+Many newer LG washers have a feature called **Smart Diagnosis**. If your washer is on Wi-Fi and set up in the **LG ThinQ** app, you can run Smart Diagnosis from the app. It checks the washer and shows what needs attention. It can also connect you to LG support with the details already filled in.
+
+Older models may use a sound-based version, where you hold your phone near the washer during a call with LG support. Check your owner's manual to see which one your washer has.
+
+## Is your LG washer still under warranty?
+
+Before you pay for a repair, check the warranty. LG washers usually come with:
+
+- **1 year** of parts and labor for defects
+- **10 years** on the direct drive motor parts (you pay labor after the first year)
+- Longer coverage on some other parts, like the stainless steel tub, on many models
+
+You will need the model number, serial number, and proof of purchase. The model and serial numbers are on a sticker, often inside the door frame or on the back of the washer.
 
 ## The bottom line
 

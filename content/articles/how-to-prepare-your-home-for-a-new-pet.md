@@ -18,6 +18,10 @@ sources:
     url: "https://www.aaha.org/resources/essential-tips-for-pet-proofing-your-home/"
   - title: "VCA Animal Hospitals: How to Puppy-Proof Your House"
     url: "https://vcahospitals.com/pediatric/puppy/prep-supplies/how-to-puppy-proof-your-house"
+  - title: "AKC: Tips for Your Puppy's First Night Home"
+    url: "https://www.akc.org/expert-advice/puppy-information/tips-for-your-puppys-first-night-home/"
+  - title: "ASPCA: Introducing Your Cat to a New Cat"
+    url: "https://www.aspca.org/pet-care/general-pet-care/introducing-your-cat-new-cat"
 faq:
   - question: "How do I prepare my house for a new puppy?"
     answer: "Start about a week before. Get down on your hands and knees and look for dangers at pet level, like cords, small objects, cleaners, and toxic plants. Set up a safe space with a crate or bed, food and water bowls, and toys, and use baby gates to block off rooms."
@@ -145,6 +149,47 @@ Keep the litter box away from food and water bowls.
 ## Fun extra: how old is your pet in human years?
 
 Curious how your dog's age compares to yours? Try our [dog years calculator](/tools/dog-years-calculator).
+
+## The first day and night at home
+
+Getting the house ready is only half the job. The first 24 hours shape how safe your new pet feels.
+
+- **Stay home if you can.** Bring your pet home at the start of a weekend or a few days off, so you are there while they settle in.
+- **Keep the same food at first.** Feed what the shelter or breeder used. The AKC notes that a sudden food change can upset a new puppy's stomach. If you want to switch, do it slowly over a week or so.
+- **Start with one room.** Do not give your pet the whole house on day one. Let them explore their safe space first, then open up other rooms one at a time over the next days.
+- **Bring a familiar smell.** Ask the breeder or shelter for a blanket or towel that smells like their mom, littermates, or old bed.
+- **Keep visitors away for a few days.** New people, noise, and handling can be too much at once.
+
+### What to expect the first night
+
+It is normal for a puppy to cry the first few nights. They are used to sleeping with their mom and littermates. The AKC suggests these steps:
+
+- Play with your puppy and take them outside to go potty right before bed.
+- Put the crate in or near your bedroom so they can hear and smell you.
+- Expect at least one late-night potty trip for young puppies.
+- Stay calm and quiet. Do not make a big fuss, but do not ignore a puppy that may need to go out.
+
+Cats often hide for the first day or two. That is normal. Leave food, water, and the litter box in their room, sit quietly nearby, and let them come to you.
+
+## Introducing a new pet to kids and other pets
+
+### Kids
+
+- Teach kids to let the pet come to them, and to pet gently on the back, not the face or tail.
+- Always watch young children with a new pet.
+- Give the pet a place to escape to, like a crate or a high cat shelf, where kids do not follow.
+
+### Other pets
+
+The ASPCA says cats are territorial and need slow introductions to other animals. Rushing it can cause fear and fights. A slow plan looks like this:
+
+1. **Keep them apart at first.** Put the new pet in its own room with food, water, a bed, and a litter box if it is a cat.
+2. **Swap smells.** Trade blankets or beds between pets so they get used to each other's scent.
+3. **Feed on each side of a closed door.** Move the bowls a little closer to the door each day, as long as both pets eat calmly.
+4. **Let them see each other.** Use a baby gate or a cracked door for short visits.
+5. **Supervise short meetings.** Keep a dog on a leash when meeting a new cat, and make sure the cat has a high place to go. Start with short visits and add time slowly.
+
+This can take a few days or a few weeks. Go at the speed of the more nervous pet.
 
 ## The bottom line
 

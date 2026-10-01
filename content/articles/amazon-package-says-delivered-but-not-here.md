@@ -7,7 +7,7 @@ category: everyday-solutions
 description: "Amazon says delivered but no package? Follow these steps to find it, when to contact Amazon, how to get a refund, and how to stop it from happening again."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/amazon-package-says-delivered-but-not-here.webp
   alt: "Illustration of a front door with a question mark where a delivery box should be"
@@ -18,6 +18,8 @@ sources:
     url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=GCU8BWGTQNJKQEBS"
   - title: "Amazon Customer Service: Tracking Your Package"
     url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=TWTXojCfgLWBBdZTAG"
+  - title: "USPS: Missing Mail Search"
+    url: "https://www.usps.com/help/missing-mail.htm"
 faq:
   - question: "How long should I wait if Amazon says delivered but I do not have it?"
     answer: "Amazon says a package can be marked as delivered up to 48 hours before it actually arrives. Search around your home and check with neighbors, then wait up to 48 hours before you ask for a refund or replacement."
@@ -127,6 +129,33 @@ Also, check your tracking and bring packages inside as soon as you can.
 Online orders from other stores can have problems too. If a food app order fails, see our [Taco Bell app troubleshooting guide](/taco-bell-app-not-working). If you are thinking about another delivery membership, here is [how Walmart+ works and what it costs](/how-to-sign-up-for-walmart-plus).
 
 *TimeToNote is not connected to Amazon. For help with a specific order, contact Amazon directly.*
+
+## Who delivered it? Check the carrier
+
+Not every Amazon order comes by an Amazon van. The carrier changes what you can do next. On the tracking page, look for the carrier name and tracking number.
+
+| Carrier | Extra step you can take |
+|---|---|
+| Amazon Logistics | Report it through Your Orders. Amazon handles it directly. |
+| USPS | Ask your local post office about it. You can also file a **Missing Mail** search on the USPS website. |
+| UPS or FedEx | Look up the tracking number on their site. It may show a photo, a signature, or where the driver left it. |
+
+USPS packages are often marked delivered a little early. Wait at least a day before you file a Missing Mail search, and bring your tracking number and address when you ask at the post office. Still report the problem to Amazon too, since Amazon issues the refund, not the carrier.
+
+## The delivery photo shows the wrong house
+
+If the delivery photo shows a door, porch, or mailbox that is not yours, the package was likely left at the wrong address.
+
+1. **Look closely** at the house number, door color, and plants in the photo.
+2. **Walk your street,** and check houses with similar numbers, like 214 and 241.
+3. **Check apartment mail rooms** and neighbors' doors in your building.
+4. **Report it to Amazon** and say the photo shows a different home. Attach a screenshot if you can.
+
+Also double check the address on your order. A missing apartment number is one of the most common reasons for a wrong delivery.
+
+## What if the package shows up after you got a refund?
+
+Sometimes the missing box turns up days later. If Amazon already refunded or replaced it, contact customer service and tell them. They will usually either charge you for the item or send you a return label. Keeping it without telling them can cause problems with your account.
 
 ## The bottom line
 

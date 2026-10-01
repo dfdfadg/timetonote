@@ -18,6 +18,10 @@ sources:
     url: "https://www.energy.gov/energysaver/detecting-air-leaks"
   - title: "ENERGY STAR: Locating Air Leaks"
     url: "https://www.energystar.gov/saveathome/seal_insulate/do-it-yourself-guide/locating-air-leaks"
+  - title: "ENERGY STAR: Why Seal and Insulate"
+    url: "https://www.energystar.gov/saveathome/seal_insulate/why-seal-and-insulate"
+  - title: "U.S. Department of Energy: Air Sealing Your Home"
+    url: "https://www.energy.gov/energysaver/air-sealing-your-home"
 faq:
   - question: "How do I find air leaks in my house?"
     answer: "Walk around on a cold or windy day and feel for drafts with a damp hand near windows, doors, outlets, and pipes. You can also hold a lit incense stick near likely spots and watch for smoke that moves sideways. For a full check, hire an energy auditor to do a blower door test."
@@ -115,6 +119,43 @@ Many people only check windows and doors. But the biggest leaks are often in the
 - Your attic has little or no insulation
 - You want to seal around chimneys or furnace flues
 - You want a full energy audit with a blower door test
+
+## Signs your home has air leaks
+
+You may have leaks worth sealing if you notice:
+
+- **Drafts** near windows, doors, or outlets
+- **Rooms that are hard to heat or cool** compared to the rest of the house
+- **High heating and cooling bills,** even when you keep the thermostat steady
+- **A dusty house,** since leaks pull in dust from the attic and outside
+- **Dust marks** on carpet edges under baseboards
+- **Ice dams** on the roof in winter, often from warm air leaking into the attic
+
+## Seal first, then insulate
+
+ENERGY STAR says homeowners can save an average of **15 percent on heating and cooling costs** by sealing air leaks and adding insulation in attics, floors over crawl spaces, and basements. The order matters.
+
+1. **Seal the big leaks first.** Start in the attic, then the basement or crawl space. These spots have the largest hidden holes.
+2. **Then add insulation.** Insulation slows heat, but air can still move through it if gaps are not sealed.
+3. **Check how much insulation you have.** ENERGY STAR notes that homes in warmer areas often need about 13 to 14 inches of attic insulation, and colder areas about 16 to 18 inches.
+
+## Caulk or weatherstripping?
+
+A simple rule from the U.S. Department of Energy:
+
+- **Caulk** is for gaps between parts that **do not move**, like where a window frame meets the wall. It works for cracks up to about 3/8 inch wide.
+- **Weatherstripping** is for parts that **move**, like doors and windows you open.
+
+Both are cheap, and the DOE says these projects often pay for themselves in a year or less.
+
+## A quick yearly air leak routine
+
+- **Fall:** Check weatherstripping on doors and windows before the cold season.
+- **Winter:** Do the damp hand or incense test on a windy day.
+- **Spring:** Look at outside caulk around windows, pipes, and siding.
+- **Summer:** Check the attic hatch seal and any holes around new wires or cables.
+
+Many utility companies also offer free or low-cost home energy checks. Call yours or check its website.
 
 ## The bottom line
 

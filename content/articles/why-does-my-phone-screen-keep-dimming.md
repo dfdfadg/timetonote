@@ -7,7 +7,7 @@ category: tech-problems
 description: "Phone screen getting darker by itself? Learn the common causes, from auto-brightness to heat, and the settings that stop it on iPhone and Android."
 author: agha-ali-abbas
 publishedAt: 2026-09-27
-updatedAt: 2026-09-27
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/why-does-my-phone-screen-keep-dimming.webp
   alt: "Hand holding a phone with the brightness slider turned down on a dim screen"
@@ -20,6 +20,8 @@ sources:
     url: "https://www.samsung.com/us/support/answer/ANS10003431/"
   - title: "Asurion: Why does my iPhone keep dimming?"
     url: "https://www.asurion.com/connect/tech-tips/i-phone-keeps-dimming/"
+  - title: "Apple Developer Forums: HDR Video and Screen Brightness"
+    url: "https://developer.apple.com/forums/thread/787257"
 faq:
   - question: "Why does my iPhone keep dimming with auto-brightness off?"
     answer: "Other features can still dim the screen, such as Attention Aware Features on Face ID iPhones, Low Power Mode, and True Tone or Night Shift, which change screen color. Heat also dims the screen automatically to protect the phone."
@@ -141,6 +143,28 @@ Contact the phone maker or a trusted repair shop, especially if the phone is und
 ## Why phones dim on purpose
 
 It helps to know why these features exist. The screen uses more battery than almost anything else on your phone. Auto-brightness, Low Power Mode, and screen timeout all save battery by keeping the screen only as bright as it needs to be. Heat protection keeps the battery and parts from damage. So instead of turning everything off, many people keep auto-brightness on and just turn off the one feature that bothers them.
+
+## Screen dims while watching videos
+
+If your screen gets darker only when you watch videos, two things are common:
+
+- **HDR video.** Many new phones show HDR videos brighter than normal. When the video ends, or after you watch for a long time, the screen goes back to normal brightness, which can look like dimming. Long HDR sessions can also make the phone warm, and the phone may lower brightness to cool down.
+- **App brightness settings.** Some video apps have their own brightness control. Swipe up or down on the left side of the video in apps that support it, or check the app's settings.
+
+On iPhone, you can lower HDR brightness in photos by going to **Settings**, then **Photos**, and turning off **View Full HDR**.
+
+## Screen goes dark during calls
+
+This is normal. A **proximity sensor** near the top of the screen turns off the display when the phone is near your ear, so your cheek does not tap buttons. If the screen goes dark when the phone is **not** near your face:
+
+- Remove the case and see if the problem stops.
+- Check that your screen protector does not cover the sensor area at the top.
+- Clean the top edge of the screen.
+
+## Always-On Display and Dark Mode
+
+- **Always-On Display** dims the lock screen on purpose to save battery. That is not a fault. You can turn it off in your display settings.
+- **Dark Mode** makes many apps look dimmer because the background is black. If the screen just feels dull, try Light Mode for a day and see if it helps.
 
 ## In short
 

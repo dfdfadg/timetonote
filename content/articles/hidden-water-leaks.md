@@ -7,7 +7,7 @@ category: home-problems
 description: "A hidden water leak can quietly damage your home and raise your bill. Learn 9 warning signs, a simple water meter test, how to check toilets, and when to call a plumber."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/hidden-water-leaks.webp
   alt: "Illustration of a wall with a water stain and drops falling from a pipe"
@@ -18,6 +18,8 @@ sources:
     url: "https://www.epa.gov/watersense/fix-leak-week"
   - title: "EPA: A Brief Guide to Mold, Moisture and Your Home"
     url: "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
+  - title: "This Old House: Slab Leak Repair Cost"
+    url: "https://www.thisoldhouse.com/foundations/reviews/slab-leak-repair-cost"
 faq:
   - question: "How do I know if I have a hidden water leak?"
     answer: "Common signs are a higher water bill with no change in use, the sound of running water when everything is off, a musty smell, water stains, bubbling paint, warped floors, and a water meter that moves when no water is on."
@@ -127,6 +129,44 @@ Many plumbers use special tools, like acoustic listening devices and thermal cam
 ## Buying a home?
 
 A good home inspection can spot hidden leaks before you buy. See typical prices with our [home inspection cost calculator](/tools/home-inspection-cost-calculator).
+
+## Signs of a slab leak
+
+Homes built on a concrete slab can have a leak in the pipes under the floor. These are harder to find and cost more to fix. Watch for:
+
+- **Warm spots on the floor,** often from a hot water line
+- **Damp carpet or warped flooring** with no spill nearby
+- **Sound of running water** when everything is off
+- **Low water pressure** that came on suddenly
+- **A high water bill** with no change in how you use water
+- **New cracks** in floors or walls
+
+If you notice several of these, call a plumber who does leak detection. Do not wait, since water under a slab can damage the foundation over time.
+
+## How much does leak detection cost?
+
+Prices depend on where the leak is and what tools are needed. Here are rough U.S. ranges:
+
+| Type of leak | Rough cost to find it |
+|---|---|
+| Easy to reach pipe or fixture | About $75 to $150 |
+| Most home leak detection visits | About $175 to $500 |
+| Behind walls or under a slab (special tools) | About $300 to $800 |
+| Underground yard line or pool | About $400 to $1,000 or more |
+
+This is only the cost to **find** the leak. The repair is extra. A slab leak repair often costs a few thousand dollars, so it pays to catch it early.
+
+## How much water leaks really waste
+
+The EPA says household leaks can waste nearly **10,000 gallons of water a year** in an average home. About **10 percent of homes** have leaks that waste **90 gallons or more a day**. Common causes are worn toilet flappers, dripping faucets, and leaky valves. Most of these are cheap, easy fixes.
+
+## Stop leaks before they start
+
+- **Replace washing machine hoses** every 5 years, or use braided steel hoses.
+- **Put water leak sensors** under sinks, behind the washer, and near the water heater. They cost little and beep or send a phone alert when they get wet.
+- **Know where your main shutoff valve is,** and make sure it turns.
+- **Check caulk and grout** around tubs and showers once a year.
+- **Keep pipes from freezing** in winter by insulating pipes in cold areas.
 
 ## The bottom line
 

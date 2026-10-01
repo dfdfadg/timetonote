@@ -18,6 +18,8 @@ sources:
     url: "https://www.iii.org/fact-statistic/facts-statistics-uninsured-motorists"
   - title: "NAIC: Uninsured Motorists"
     url: "https://content.naic.org/insurance-topics/uninsured-motorists"
+  - title: "CarInsurance.com: No Pay, No Play States"
+    url: "https://carinsurance.com/kb/no-pay-no-play-states"
 faq:
   - question: "What happens if someone without insurance hits my car?"
     answer: "Your own policy may pay if you have uninsured motorist coverage, collision coverage, or medical payments or personal injury protection. You can also try to collect from the at-fault driver directly, including in small claims court, but many uninsured drivers cannot pay."
@@ -131,6 +133,33 @@ Many injury lawyers offer a free first meeting. There are also time limits, call
 - **Save your insurer's claim number and app** on your phone.
 
 Driving a lot this season? Plan your trips and fuel costs with our [MPG and trip cost calculator](/tools/mpg-calculator), and remember that evening drives get darker after [the clocks change in November](/when-do-clocks-change).
+
+## What if it was a hit-and-run?
+
+If the driver leaves and you cannot find out who they were, many policies treat them like an uninsured driver. Your uninsured motorist coverage may pay, but you usually have to act fast.
+
+- **Call the police right away** and get a report number.
+- **Tell your insurer quickly.** Some states and policies set short deadlines. For example, in Pennsylvania a hit-and-run must be reported to the police within 30 days for the other car to count as uninsured. Many Georgia policies ask for written notice within 30 days.
+- **Write down anything you remember,** like the car color, make, and part of the plate.
+- **Look for cameras** on nearby homes and stores, and ask owners to save the video.
+
+## Uninsured vs underinsured drivers
+
+These two are easy to mix up:
+
+| | Uninsured driver | Underinsured driver |
+|---|---|---|
+| What it means | The driver has no insurance at all | The driver has insurance, but not enough to cover your costs |
+| Coverage that helps | Uninsured motorist (UM) | Underinsured motorist (UIM) |
+| Example | A driver with no policy causes $8,000 in damage | A driver with a $25,000 limit causes $40,000 in medical bills |
+
+Many insurers sell UM and UIM together. If you have both, your policy can fill the gap in either case.
+
+## What if you were uninsured too?
+
+If you were driving without insurance when someone else hit you, you can still ask the at-fault driver's insurer to pay for your losses. But some states limit what you can get. Under **"no pay, no play"** laws in states such as California, Michigan, New Jersey, and others, uninsured drivers often cannot collect for pain and suffering, even when the other driver was at fault. You can usually still claim medical bills and car repairs.
+
+You may also face penalties for driving without insurance, like fines or a suspended license. Talk to an attorney before you speak with the other insurer.
 
 ## The bottom line
 
