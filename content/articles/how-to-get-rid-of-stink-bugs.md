@@ -7,7 +7,7 @@ category: everyday-solutions
 description: "Stink bugs in your house this fall? Learn why they come inside, how to remove them without the smell, a simple DIY trap, and how to seal your home to keep them out."
 author: agha-ali-abbas
 publishedAt: 2026-09-28
-updatedAt: 2026-09-28
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/how-to-get-rid-of-stink-bugs.webp
   alt: "Illustration of a stink bug on a window sill next to a jar of soapy water"
@@ -18,6 +18,10 @@ sources:
     url: "https://extension.psu.edu/tree-fruit-insect-pest-brown-marmorated-stink-bug"
   - title: "University of Maryland Extension: Tips for Dealing With Brown Marmorated Stink Bugs"
     url: "https://extension.umd.edu/resource/tips-dealing-brown-marmorated-stink-bugs"
+  - title: "Orkin: Are Stink Bugs Harmful to Pets?"
+    url: "https://www.orkin.com/pests/stink-bugs/stink-bugs-and-pets-cats-and-dogs"
+  - title: "UC IPM: Stink Bugs in the Garden"
+    url: "https://ipm.ucanr.edu/PMG/GARDEN/VEGES/PESTS/stinkbug.html"
 faq:
   - question: "Why do I have stink bugs in my house?"
     answer: "Stink bugs come inside in the fall to find a warm place to spend the winter. They crawl in through small cracks around windows, doors, siding, and vents. They are not attracted to dirt or food, so having them does not mean your home is dirty."
@@ -148,6 +152,33 @@ Think about a pro if:
 If you still see stink bugs in the middle of winter, they are coming out of your walls or attic on warm days. Keep catching them with soapy water. In spring, they will try to leave to go back outside. Open windows with screens can help them find their way out, but keep sealing the gaps you find so fewer come back next fall.
 
 Other bugs can show up when the weather changes too. If you see tiny flies around your fruit bowl or houseplants, our guides on [getting rid of fruit flies](/how-to-get-rid-of-fruit-flies) and [stopping gnats in your home](/how-to-get-rid-of-gnats) can help.
+
+## What if your pet eats a stink bug?
+
+Cats and dogs love to chase bugs. A stink bug is not poisonous, but its bad-tasting spray can upset a pet's stomach. Your pet may drool a lot or throw up. This usually passes quickly.
+
+Call your vet if your pet keeps vomiting, will not eat, or ate a lot of stink bugs at once.
+
+## Do natural repellents work?
+
+You will see many tips online about essential oils. Lab research on the brown marmorated stink bug has found that some oils, like **clove, lemongrass, and spearmint**, can keep the bugs away from traps. That does not mean a few drops at home will stop an invasion, and the smell fades fast.
+
+If you want to try it:
+
+- Mix a few drops of oil with water in a spray bottle and spray around window frames and doors on the **outside**.
+- Do it again every few days.
+- Keep oils away from pets. Many essential oils, including lemongrass, can be harmful to cats and dogs.
+
+Sealing gaps still works much better than any spray.
+
+## Stink bugs in the garden
+
+Outdoors, stink bugs feed on plants by sucking juice from leaves, fruits, and seeds. They leave small pits and pale spots. Tomatoes, peppers, beans, and fruit trees are common targets.
+
+- **Hand pick** them into soapy water in the early morning, when they move slowly.
+- **Remove weeds** near the garden, which give them shelter.
+- **Use row covers** on young plants.
+- **Pick fruit as soon as it is ripe.**
 
 ## The bottom line
 

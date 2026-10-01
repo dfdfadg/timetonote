@@ -7,7 +7,7 @@ category: internet-apps
 description: "Learn how to sign up for Walmart+ on the app or website, how the 30-day free trial works, what it costs, the main benefits, and how to cancel if it is not for you."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/how-to-sign-up-for-walmart-plus.webp
   alt: "Illustration of a phone with a shopping cart and a plus sign next to a delivery box"
@@ -18,6 +18,8 @@ sources:
     url: "https://www.walmart.com/plus"
   - title: "CNBC Select: Walmart+ Membership, Everything You Need to Know"
     url: "https://www.cnbc.com/select/walmart-plus-membership-deal/"
+  - title: "Business Wire: Walmart+ Adds Peacock to Video Streaming Choice"
+    url: "https://www.businesswire.com/news/home/20250903365329/en"
 faq:
   - question: "How much does Walmart+ cost?"
     answer: "At the time of writing, Walmart+ costs $12.95 per month or $98 per year, plus tax. Paying yearly saves you about $57 compared to paying monthly for 12 months. Prices can change, so check Walmart's website before you sign up."
@@ -146,6 +148,26 @@ You can usually keep using your benefits until the end of the time you already p
 ## See your own savings
 
 Our [Walmart+ savings calculator](/tools/walmart-plus-calculator) adds up delivery, shipping, gas, and streaming value so you can see if the fee pays off for you.
+
+## Walmart+ vs Amazon Prime
+
+These are the two biggest shopping memberships. Here is how they compare:
+
+| | Walmart+ | Amazon Prime |
+|---|---|---|
+| Yearly price | $98 | $139 |
+| Monthly price | $12.95 | $14.99 |
+| Discount for government aid | Walmart+ Assist, about $49 a year | Prime Access, $6.99 a month |
+| Shipping | Free shipping from walmart.com, no minimum | Free fast shipping on Prime items |
+| Grocery delivery | Free delivery from your store on $35+ orders | Grocery delivery available, with fees or minimums in many areas |
+| Gas savings | Up to 10 cents per gallon at Walmart, Exxon, Mobil, and Murphy | 10 cents per gallon at participating BP, Amoco, and ampm stations |
+| Streaming | Paramount+ Essential or Peacock Premium | Prime Video |
+
+**Pick Walmart+** if you buy groceries and household items at Walmart and want them delivered. **Pick Prime** if you shop a wide range of items online and watch Prime Video. Some families keep both and save on each.
+
+## Walmart+ for students and people on aid
+
+If you get SNAP, WIC, Medicaid, SSI, or another qualifying benefit, **Walmart+ Assist** gives you the same perks for about half the price. You can sign up on the Walmart+ page and verify your benefits online. You may be asked to verify again later to keep the lower price.
 
 ## The bottom line
 

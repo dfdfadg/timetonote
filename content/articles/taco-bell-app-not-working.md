@@ -7,7 +7,7 @@ category: internet-apps
 description: "Taco Bell app not loading, won't let you log in, or order won't go through? Try these 10 quick fixes for iPhone and Android, from payment errors to rewards problems."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/taco-bell-app-not-working.webp
   alt: "Illustration of a phone showing an error sign next to a taco"
@@ -156,6 +156,27 @@ If you have tried everything and the app still fails:
 Having trouble with an online order from another store? See [what to do when an Amazon package says delivered but is not there](/amazon-package-says-delivered-but-not-here).
 
 *TimeToNote is not connected to Taco Bell. For account or order help, contact Taco Bell directly.*
+
+## Delivery order problems
+
+If you order delivery through the Taco Bell app, a delivery partner usually brings the food. That can make problems more confusing. Here is who to contact:
+
+| Where you ordered | Late, missing, or wrong order |
+|---|---|
+| Taco Bell app or website | Contact Taco Bell through the Help section of the app |
+| DoorDash, Uber Eats, or Grubhub | Contact that app, since it handles the refund |
+| In the store or drive-thru | Talk to the store, and keep your receipt |
+
+Before you report a problem, check the tracking screen in the app for a photo or a note from the driver. If something is missing from the bag, take a photo of what you got and the receipt.
+
+## How Taco Bell Rewards works
+
+Knowing the basics helps you spot missing points. Members earn points for each dollar spent on orders made while signed in, and points add up to free food rewards. Members can also unlock higher tiers and extra perks by spending more in a year. Taco Bell changes the program from time to time, so check the **Rewards** tab in the app for the current point values and tiers.
+
+Points usually only count when you:
+
+- Order in the Taco Bell app or on tacobell.com while signed in, or
+- Scan your rewards code in the store or at the drive-thru before you pay
 
 ## The bottom line
 

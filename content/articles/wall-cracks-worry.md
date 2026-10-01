@@ -7,7 +7,7 @@ category: home-problems
 description: "Found a crack in your wall? Learn which cracks are normal, which ones point to foundation problems, how to measure and track them, and when to call a pro."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/wall-cracks-worry.webp
   alt: "Illustration of a wall with a diagonal crack near a window and a ruler"
@@ -18,6 +18,10 @@ sources:
     url: "https://www.bobvila.com/articles/cracks-in-walls/"
   - title: "Angi: 10 Types of Drywall Cracks and When to Worry"
     url: "https://www.angi.com/articles/how-tell-if-crack-wall-serious.htm"
+  - title: "Hunker: Ceiling Cracks, When to Worry"
+    url: "https://www.hunker.com/1955837/ceiling-cracks-when-to-worry/"
+  - title: "NerdWallet: Foundation Repair Cost"
+    url: "https://www.nerdwallet.com/home-ownership/home-improvement/learn/foundation-repair-cost"
 faq:
   - question: "Are hairline cracks in walls normal?"
     answer: "Yes. Thin, straight hairline cracks are very common. They usually come from the house settling or from wood and drywall shrinking and swelling with the seasons. They are mostly a cosmetic problem."
@@ -127,6 +131,35 @@ Call a structural engineer or foundation specialist if:
 - Floors are sloping or walls are bulging
 
 A structural engineer gives an unbiased opinion because they do not sell repairs. Foundation repair companies can also inspect, but they may recommend their own services.
+
+## Ceiling cracks: when to worry
+
+Ceilings crack for many of the same reasons walls do. A thin crack along a drywall seam is often just tape or paint wearing out. Get a closer look if you see:
+
+- A crack **wider than about 1/8 inch**
+- A crack that **runs across the ceiling and down a wall**
+- **Sagging** or a bulge near the crack, at any size
+- **Several new cracks** showing up at once
+- **Brown stains** around the crack, which can mean a roof or plumbing leak above
+
+A sagging ceiling can be a safety problem. Keep people out of that room and call a pro.
+
+## Cracks in a new home
+
+Many new homes get small cracks in the first **one to three years**. Wood framing shrinks as it dries, and the house settles into the soil. These cracks are usually thin and straight, often near door and window corners or at drywall seams.
+
+If your home is new:
+
+- Write down each crack, take a photo, and note the date.
+- Check your builder warranty. Many cover drywall cracks in the first year and structural problems for much longer.
+- Report cracks to the builder in writing before the warranty ends.
+- Ask for an inspection if cracks are wide, growing, or come with doors that stick.
+
+## How much does foundation repair cost?
+
+If a pro finds foundation movement, costs vary widely by the problem and where you live. Many national guides put the **average foundation repair at about $5,000**, with common jobs ranging from a few thousand dollars to much more for major work like piers under the house.
+
+Small foundation cracks that only need sealing can cost a few hundred dollars. A **structural engineer's inspection** often costs a few hundred dollars too, and it gives you an unbiased report before you pay a repair company.
 
 ## The bottom line
 

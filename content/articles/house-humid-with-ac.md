@@ -7,7 +7,7 @@ category: home-problems
 description: "Your AC is running but the house still feels damp and sticky? Learn why it happens, from an oversized AC to a dirty filter, and easy ways to lower indoor humidity."
 author: agha-ali-abbas
 publishedAt: 2026-09-29
-updatedAt: 2026-09-29
+updatedAt: 2026-09-30
 featuredImage:
   src: /images/articles/house-humid-with-ac.webp
   alt: "Illustration of an air conditioner with water drops and a humidity gauge"
@@ -18,6 +18,8 @@ sources:
     url: "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
   - title: "U.S. Department of Energy: Central Air Conditioning"
     url: "https://www.energy.gov/energysaver/central-air-conditioning"
+  - title: "PG&E: Should You Turn Off the AC When You're Out?"
+    url: "https://www.pge.com/en/newsroom/currents/energy-savings/should-you-turn-off-the-ac-when-you-re-out--experts-say-not-alwa.html"
 faq:
   - question: "Why is my house humid even with the AC on?"
     answer: "Common reasons are an AC that is too big for the house and turns off too quickly, the fan set to ON instead of AUTO, a dirty filter or coil, very humid weather, leaky ducts or windows, and moisture from showers and cooking."
@@ -134,6 +136,26 @@ High humidity is more than uncomfortable. It can lead to mold, dust mites, musty
 ## Pick the right dehumidifier size
 
 Not sure how many pints you need? Our [dehumidifier size calculator](/tools/dehumidifier-size-calculator) recommends a size based on your space and how damp it is.
+
+## Should you turn the AC off when you leave?
+
+It is tempting to turn the AC off to save money when you are at work or on a trip. But your AC also removes moisture. With it off on a hot, muggy day, indoor humidity can climb above 60 percent, which helps mold and dust mites grow.
+
+A better plan:
+
+- **Raise the thermostat 7 to 10 degrees** when you are gone for the day, instead of turning it off.
+- **For longer trips,** set it to around 80 to 85°F, so it still runs now and then and pulls water out of the air.
+- **Use a smart thermostat** to cool the house back down before you get home.
+
+## Does AC "dry mode" help?
+
+Many mini-split and window units have a **Dry** mode, often shown as a water drop icon. In this mode, the unit runs the fan slowly so the air stays on the cold coil longer. More water condenses and drains away, and the room cools only a little.
+
+Dry mode is helpful on mild, damp days when it is not very hot but the air feels sticky. On very hot days, regular cooling mode with the fan on AUTO usually works better.
+
+## Do ceiling fans lower humidity?
+
+No. Ceiling fans move air, which helps sweat dry off your skin, so you **feel** cooler. But they do not remove water from the air. They can still help, because you may be comfortable with the thermostat a few degrees higher. Turn them off when no one is in the room.
 
 ## The bottom line
 
