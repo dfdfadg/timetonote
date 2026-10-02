@@ -36,6 +36,7 @@ export const legacyRedirects: Redirect[] = [
   // (from Search Console data, 2026-09-25).
   { source: "/how-many-days-until-christmas", destination: "/tools/days-until-christmas" },
   { source: "/how-many-days-until-thanksgiving", destination: "/tools/days-until-thanksgiving" },
+  { source: "/how-to-install-or-update-ios-18-on-iphone", destination: "/how-to-update-to-ios-27-on-iphone" },
   { source: "/how-to-improve-water-pressure-in-your-house", destination: "/how-to-increase-water-pressure-in-house" },
   { source: "/house-smells-musty", destination: "/why-does-my-room-smell-musty" },
   // Short URLs from an earlier version of the site that Google still has indexed.
