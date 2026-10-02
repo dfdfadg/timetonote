@@ -181,6 +181,8 @@ For the first day or two, your iPhone does a lot of background work, like sortin
 - Check **Settings**, then **Battery**, to see which apps use the most power.
 - Give it 2 to 3 days before deciding the battery is worse.
 
+If the drain lasts longer than a week, see our full guide to [fixing iPhone battery drain after iOS 27](/iphone-battery-draining-fast-after-ios-27-update).
+
 ## Security note
 
 Only download iOS updates from **Settings** on your iPhone or through Apple's Finder and Apple Devices apps. Websites or messages that offer "iOS 27 downloads" or "early access" are often scams.

@@ -377,6 +377,40 @@ const illustrations = {
     <circle cx="1060" cy="620" r="60" fill="${c.mid}"/>
     <path d="M1060 590 V650 M1040 605 H1075 M1045 635 H1080" stroke-width="8"/>
   `),
+  "why-is-my-thermostat-blank": frame("blue", (c) => `
+    <rect x="520" y="200" width="400" height="500" rx="60"/>
+    <rect x="590" y="290" width="260" height="170" rx="18" fill="${c.ink}" stroke="none" opacity="0.85"/>
+    <circle cx="720" cy="580" r="60" fill="${c.mid}"/>
+    <rect x="1040" y="300" width="70" height="200" rx="16"/>
+    <rect x="1140" y="300" width="70" height="200" rx="16"/>
+    <path d="M1055 280 H1095 M1155 280 H1195"/>
+  `),
+  "why-does-my-circuit-breaker-keep-tripping": frame("amber", (c) => `
+    <rect x="460" y="160" width="520" height="600" rx="24"/>
+    ${[0,1,2,3].map(i => `<rect x="${530}" y="${240+i*120}" width="160" height="70" rx="12" fill="${c.mid}"/><rect x="${750}" y="${240+i*120}" width="160" height="70" rx="12" fill="${c.mid}"/>`).join("")}
+    <rect x="770" y="380" width="120" height="30" rx="8" fill="${c.ink}" stroke="none" transform="rotate(-20 830 395)"/>
+    <path d="M1080 300 L1040 420 H1100 L1060 540" stroke-width="16"/>
+  `),
+  "why-does-my-gas-stove-keep-clicking": frame("rose", (c) => `
+    <rect x="360" y="520" width="720" height="60" rx="12" fill="${c.mid}"/>
+    <ellipse cx="720" cy="500" rx="200" ry="40"/>
+    <ellipse cx="720" cy="470" rx="120" ry="26" fill="${c.mid}"/>
+    <path d="M640 440 C620 380 680 360 660 300 M720 430 C700 360 760 340 740 270 M800 440 C780 380 840 360 820 300" stroke-width="10"/>
+    <path d="M940 380 L980 350 M950 420 L1000 420 M940 460 L980 490" stroke-width="10"/>
+  `),
+  "iphone-battery-draining-fast-after-ios-27-update": frame("violet", (c) => `
+    <rect x="600" y="160" width="320" height="600" rx="52"/>
+    <path d="M720 210 H800"/>
+    <rect x="670" y="380" width="160" height="80" rx="12"/>
+    <rect x="830" y="400" width="14" height="40" rx="4" fill="${c.ink}" stroke="none"/>
+    <rect x="680" y="390" width="30" height="60" rx="6" fill="${c.ink}" stroke="none"/>
+    <path d="M1010 600 C1060 600 1080 560 1080 520 V440 M1060 440 H1100 M1065 400 V440 M1095 400 V440" stroke-width="12"/>
+  `),
+  "how-to-get-rid-of-ladybugs-in-house": frame("amber", (c) => `
+    <rect x="420" y="180" width="600" height="560" rx="16"/>
+    <path d="M720 180 V740 M420 460 H1020"/>
+    ${[[560,300],[640,360],[860,320],[800,560],[600,600],[920,640]].map(([x,y]) => `<ellipse cx="${x}" cy="${y}" rx="34" ry="28" fill="${c.mid}"/><path d="M${x} ${y-28} V${y+28}" stroke-width="6"/><circle cx="${x-14}" cy="${y-4}" r="6" fill="${c.ink}" stroke="none"/><circle cx="${x+14}" cy="${y+8}" r="6" fill="${c.ink}" stroke="none"/>`).join("")}
+  `),
   "how-to-install-a-water-filtration-system": frame("blue", (c) => `
     <path d="M380 220 H620 V300"/>
     <path d="M540 300 H700 L690 350 H550 Z" fill="${c.mid}"/>

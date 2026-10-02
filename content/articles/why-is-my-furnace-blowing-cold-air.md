@@ -159,6 +159,8 @@ Call a licensed HVAC technician if:
 
 If you need to heat a room until the furnace is fixed, see what it will cost first with our [space heater running cost calculator](/tools/space-heater-cost-calculator).
 
+If the thermostat screen is dark, start with our guide on [why a thermostat goes blank](/why-is-my-thermostat-blank).
+
 ## The bottom line
 
 A furnace blowing cold air is usually an easy fix. Start by setting the thermostat fan to AUTO and checking that it is on HEAT. Then change a dirty filter and make sure the power and gas are on. If the burners still will not light or stay lit, call a technician. A yearly tune-up and monthly filter checks will help your furnace keep you warm all winter.

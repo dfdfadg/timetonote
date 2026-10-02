@@ -151,7 +151,7 @@ Think about a pro if:
 
 If you still see stink bugs in the middle of winter, they are coming out of your walls or attic on warm days. Keep catching them with soapy water. In spring, they will try to leave to go back outside. Open windows with screens can help them find their way out, but keep sealing the gaps you find so fewer come back next fall.
 
-Other bugs can show up when the weather changes too. If you see tiny flies around your fruit bowl or houseplants, our guides on [getting rid of fruit flies](/how-to-get-rid-of-fruit-flies) and [stopping gnats in your home](/how-to-get-rid-of-gnats) can help.
+Other bugs can show up when the weather changes too. If you see small orange beetles on sunny windows, read our guide on [getting rid of ladybugs and Asian lady beetles](/how-to-get-rid-of-ladybugs-in-house). If you see tiny flies around your fruit bowl or houseplants, our guides on [getting rid of fruit flies](/how-to-get-rid-of-fruit-flies) and [stopping gnats in your home](/how-to-get-rid-of-gnats) can help.
 
 ## What if your pet eats a stink bug?
 
